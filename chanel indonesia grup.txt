@@ -275,7 +275,8 @@ https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
   
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="Indihome TV",HBO Family
 http://51.159.21.231:2052/usapro2@source/799965@26641/1818
- 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="Indihome TV",TVN MOVIES
+https://anevia115.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="Indihome TV",HBO Comedy
 http://51.159.21.231:2052/usapro2@source/799965@26641/1757
  
@@ -521,61 +522,61 @@ http://51.178.53.217:25461/akoush/akoush/68
  
 
 ######################################### RMC SPORT #################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT NEWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT NEWS
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/42334
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT NEWS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT NEWS HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49228
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT 1 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 1 SD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/42335
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 1 HD
 http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/62
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORTS 1 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORTS 1 FHD
 http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/40
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT 2 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 2 SD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/42336
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 2 HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49214
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT 2 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 2 FHD
 http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/41
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT 3 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 3 SD
 http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/76
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 3 HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49215
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORTS 3 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORTS 3 FHD
 http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/42
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT 4 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 4 SD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/42338
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT 4 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 4 HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49216
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT 4K FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 4K FHD
 http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/43
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT 5 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 5 SD
 http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/82
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT 5 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 5 HD
 http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/61
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT LIVE 5 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT LIVE 5 FHD
 http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/66
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT LIVE 6 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT LIVE 6 FHD
 http://iptv-luxe.com:8789/live/1212/1212/14926.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",RMC SPORT LIVE 9 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT LIVE 9 FHD
 http://iptv-luxe.com:8789/live/1212/1212/14923.m3u8
  
  
