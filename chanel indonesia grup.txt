@@ -1,5 +1,4 @@
 
-
 #EXTM3U
  
 #EXTINF:-1 group-title="INFO ZALTV", FALCON.COM
@@ -377,7 +376,33 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="Indihome TV",Nickelodeon Asia 2
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
  
+
 ######################################### KNOWLEDGE#################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE",Animal Planet ID
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE",BBC EARTH
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE",CRIME INVESTIGATION
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE",Discovery Channel HD 2
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=2B28441BA5F75B65F81562F9A8DB635E8DE08CF5&amp;profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE",History Channel 1
+https://anevia115.mncnow.id/live/eds/History/sa_hls/History.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE",Love Nature
+https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE",NAT GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE", NAT GEO 2
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel-avc1_2499968=10-mp4a_98800_eng=4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE",NAT GEO People 2
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&amp;profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE",NAT GEO Wild HD
+https://anevia115.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE",OUTDOOR
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE",OCEAN TV
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE",ID ku
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560166~exp=9007200830301157~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=726790f4481ebf1b4f1270a236084230ba8eef1af78b75e6dbbf3909612e4d42
  
@@ -1095,10 +1120,12 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 https://anevia115.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIE",WOW Movies
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
- 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIE",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/01.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIE",Black Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
- 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIE",Red by HBO th
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIE",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
  
@@ -1120,7 +1147,8 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIE",FLIK HD
 https://dl.dropbox.com/s/p4za9boby6fnz25/Flik.m3u8?dl=0
  
- 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIE",MOVIE ASTRO
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8 
  
  
  
