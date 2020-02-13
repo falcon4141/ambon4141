@@ -183,8 +183,6 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 #EXTINF:-1 logo="https://i.imgur.com/YsWz11J.jpg" group-title="KIDS",Disney Junior TV
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-
-
 ######################################### Religious #################################
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="Religious",Makkah TV
@@ -405,11 +403,6 @@ http://iptv-luxe.com:8789/live/1212/1212/14926.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT LIVE 9 FHD
 http://iptv-luxe.com:8789/live/1212/1212/14923.m3u8
- 
- 
- 
- 
- 
  
  
 ######################################### SPORT CHANNEL #################################
@@ -806,8 +799,6 @@ https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-
-
 #########################################LIGA SEPAKBOLA #################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="LIGA SEPAKBOLA",TRUE SPORT HD 1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
@@ -884,8 +875,6 @@ https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="LIGA SEPAKBOLA",NBCSN Sport
 https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
  
-
-
 ######################################### MOVIE #################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIE",HBO
@@ -979,8 +968,6 @@ https://dl.dropbox.com/s/p4za9boby6fnz25/Flik.m3u8?dl=0
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8 
  
  
- 
- 
 ######################################### HOLLYWOOD MOVIES #################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="HOLLYWOOD MOVIES",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
@@ -1008,7 +995,408 @@ http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="HOLLYWOOD MOVIES",Hollywood Movies 12
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+
+######################################### VOD CAMPURAN #################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",MALEFICENT
+http://www.deadlyblogger.com/NewRelease/maleficent.mp4
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",KINGSMAN GOLDEN CIRCLE
+https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",A MONSTER CALLS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",THE HOST
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",THE HUNGER GAMES: CATCHING FIRE
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b8bc096c-fbe9-4a96-a6b8-510fd43156d8/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",WARM BODIES
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",YOU NOW SEE ME
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",YOU NOW SEE ME 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",AQUAMAN (Sub Indo)
+https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",VENOM
+https://cdn.apidev.icu/drive/index.php?id=6enNzUc8IZpfvBxOHbjWigzGmohBAvI5u32aELfOwbDcRWmqu7kAxabqUk2aHOq9oZsUJ7UG2Ztr5d3fTdk1s4w293GXnPITRkrCYg2gIopeOhp1jrvr3NMKFJqERaGGCYCwam1wB%2B04l1NHmj5oN3pKC2tChel%2BkYS8K6pN8yoMkrVQdnp%2FAjjBwhuA46rts%3D&ref=https%3A%2F%2Fbos21.bid%2Fvenom%2F&res=default 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",BUMBLEBEE (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=njIdTwPLly%2FGjaLEgTKTpgNbLgICupPymtQTSRq6%2BsVYlubYvHYenMAAC275He1CkLQuKTXpGeI7nFJ4HqHjTlskmu%2FJ61RbJJSICie%2F%2FX82KZ%2FCXeZ9gWUrhwBAG2MBPJkKjZp8qHusojUxAiUq%2FG2T5lMZYQgFukHWPlzIXik29rev1%2FBP53s9lEQMvUsYA%3D&ref=https%3A%2F%2Fbos21.bid%2Fbumblebee%2F&res=default
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The NuN (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The Cabin (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",THE NIGHT COMES FOR US (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=4ssY7pVus%2FZYkeuu0Qn1Ug7MlzglwxgrYtoWyJi5jM%2FcXQ0K3IBZx2uhttJoxNCXdeX4XvMNwp9b2Opn3tvBKMrkGrDbIDKVxTR8OGcuQZAmvD8g90o1n92YGNA9kPu0bIjeQchmgnyEyYw5A7pqS8L5s%2Fsi3O2y4DIjEmCl3ecsBYK%2BPf22xskH3UqJFtgdA%3D&ref=https%3A%2F%2Fbos21.bid%2Fas-night-comes%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",AD Astra(2019)
+https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Aeronauts(2019)
+https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Joker (2019)
+https://www.googleapis.com/drive/v3/files/1gdsesv39yVSPlRY7WM9GyJDgTiHkeZv6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Mummy Reborn (2019)
+https://www.googleapis.com/drive/v3/files/15qvAVRKyU-_BWAw7JAp47B46HuNxUsZ2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Lucky Day (2019)
+https://www.googleapis.com/drive/v3/files/1yDoXnLU48Soj4EzdmOvMU_hUrXA2S7JL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Official Secrets (2019)
+https://www.googleapis.com/drive/v3/files/1Log81_cUezENFvDayXW06ocWEe2BEU4t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The Elephant Queen (2019)
+https://www.googleapis.com/drive/v3/files/10it-zcyVnKP4JnobOU84dF9OYPOeZwqn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Chhichhore (2019)
+https://www.googleapis.com/drive/v3/files/13P-4B4JLjzMnEr4tTsXdSI06tCuDXsbi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Primal (2019)
+https://www.googleapis.com/drive/v3/files/1Z2hlElAbzopTTJZ80aQ2rJ316ZpeZlhv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Joker (2019)
+https://www.googleapis.com/drive/v3/files/1EzYSdPcA5AP5LFQvExGhxvkImqEQpsA5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Acceleration (2019)
+https://www.googleapis.com/drive/v3/files/1f4DLbnYAeVqN_otebwSZivA5vkmsbv3J?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Wake Up (2019
+https://www.googleapis.com/drive/v3/files/1w_ieD1I4y3njzNUFmswiACyuH9IZwSOO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Gemini Man (2019)
+https://www.googleapis.com/drive/v3/files/1Q1b795JLu5fP7OW9MDi5RdE3rqf41w3w?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Jeff Garlin: Our Man in Chicago (2019)
+https://www.googleapis.com/drive/v3/files/1Hv6sYEkuzO9kz1d9TCXguazI4xr8wbeO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Badland (2019)
+https://www.googleapis.com/drive/v3/files/157KI9fbIYyEdMh6OsfbgZdeNx26x-NDw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Door in the Woods (2019)
+https://www.googleapis.com/drive/v3/files/1QnfuBUVC_AqlhV7qV5BIltlEJrIP4ZSA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The Fighting Preacher (2019)
+https://www.googleapis.com/drive/v3/files/1AhydLdlZNb-zIhlV7ElNW4MVkU_ZW8Xw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Transit 17 (2019)
+https://www.googleapis.com/drive/v3/files/1zLdmmmMlTjrMlGOpMYgdyEu72xLaxWpg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Aladdin (2019)
+https://www.googleapis.com/drive/v3/files/1o6WIiNucWr8DRT77mVDzsdYNMi_Siho9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Crawl (2019)
+https://www.googleapis.com/drive/v3/files/1Ve4YQ7GwSWdbdW1T0fcrof9yqcjRHltN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",El Camino: A Breaking Bad Movie (2019)
+https://www.googleapis.com/drive/v3/files/1ZaDQT-lytf1VSRwXAqeeUmL9E_cDk_sh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Lucky Day (2019)
+https://www.googleapis.com/drive/v3/files/1icrzCjBPrEpsk128cY5onUcGVVVLxsmo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The Angry Birds Movie 2 (2019)
+https://www.googleapis.com/drive/v3/files/1LcGrEFX4am_0yswfNcaARyZaU_i3Li7y?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Wonder Woman: Bloodlines (2019)
+https://www.googleapis.com/drive/v3/files/1UI62YEz0D7cuvcc4nEynaEIHZbzIVrwu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Rocko?s Modern Life: Static Cling (2019)
+https://www.googleapis.com/drive/v3/files/1KdhFctuuzp6q4TpxpZXTy_Xz2-_gCTNk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The Secret Life of Pets 2 (2019)
+https://www.googleapis.com/drive/v3/files/1Bjl2HIFQp7WZcMy6E1CYQcUSC05HFmW2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",One Child Nation (2019)
+https://www.googleapis.com/drive/v3/files/1SpUms8rbDzf7tQYsoS1C6OteMHqcB2Gd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Ip Man and Four Kings (2019)
+https://www.googleapis.com/drive/v3/files/11Gi0cFiAoAACGd_wIvWvEX6hWP9NYccw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The White Storm 2: Drug Lords (2019)
+https://www.googleapis.com/drive/v3/files/19TUDSxYfotXTZEShftG_Hwqd2i9S4dyy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Remain Silent (2019)
+https://www.googleapis.com/drive/v3/files/1F6L-vTBUA-R0aZmeGPG2mCWwhSmzWMeW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The Knight of Shadows: Between Yin and Yang (2019)
+https://www.googleapis.com/drive/v3/files/1VeY_dRJQmRl8HQWw7Kpuv1eJR5fO2Zti?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",My Punch-Drunk Boxer (2019)
+https://www.googleapis.com/drive/v3/files/1rSdZdYDJ4PHJSRRcagJ8PyLQfWF1zSHq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Kingdom (2019)
+https://www.googleapis.com/drive/v3/files/1vtbYgCiSL5uBVeR7g5AW4d6chg5hnAbE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The Invincible Dragon (2019)
+https://www.googleapis.com/drive/v3/files/19uyGdVlHea9JED5CF4Iq5Rs3PpQMKsNS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The Furies (2019)
+https://www.googleapis.com/drive/v3/files/1bi3DeLkp1bR4yT4N6QaThk4eI5Mzkt6a?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Reborn (2018)
+https://www.googleapis.com/drive/v3/files/1kg5VWGx4nyVx23vl6ddVIm0BF0pdhXPo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The Last Women Standing (2015)
+https://www.googleapis.com/drive/v3/files/1KJsAfRYpVeg_ZNxV32FnNS-bSbiPMjqf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",My Mighty Princess (2008)
+https://www.googleapis.com/drive/v3/files/1d3AV8lA8TCPh3w8MP-GXmJmHFk9QoSFG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Supergirl S5 Episode 07
+https://www.googleapis.com/drive/v3/files/1z0ALBunUqGFcGZG-wsLPafvcHQH1TilN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Supergirl S5 Episode 04
+https://www.googleapis.com/drive/v3/files/1q69lnr8YLaGXYIizoHu24AzTa3LlKJP4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Supergirl S5 Episode 03
+https://www.googleapis.com/drive/v3/files/1EYlBpyhw3Mbzc7T2s7QQtpNyjVfRvJuv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Supergirl S5 Episode 01
+https://www.googleapis.com/drive/v3/files/1o2fuByZbNgpckSuTvheuwzE7HZUYJqS4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Mr. Robot S4 Episode 05
+https://www.googleapis.com/drive/v3/files/1laNk2YWCGEDvMPfpak5a1VTN4h44O9Of?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Mr. Robot S4 Episode 04
+https://www.googleapis.com/drive/v3/files/1JoPu2NU8ZBZiR8i4jMhjJ3bf0KYgEytn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Mr. Robot S4 Episode 02
+https://www.googleapis.com/drive/v3/files/1h_wEDOXlvPrNH7MJF7ASXRFphPnn00ac?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",(ONLINE) Medio Drogados FHD (1998)
+http://tvla.xyz:80/movie/jjadqnyo/WqY1vn14p9/1383803.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",(ONLINE) Medio Drogados FHD (1998)
+http://tvla.xyz:80/movie/jjadqnyo/WqY1vn14p9/1383804.mp4#EXTINF:-1 group-title="VOD Campuran ZI"
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Corazones de acero
+http://zr26.gamovideo.com:8777/ovap54ugmrnv3h2yugv5x6sym6o3j7orlprxqqhsckc6inrjhrie54ozzjcq/v.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Bohemian Rapsody
+http://lu7.gamovideo.com:8777/nbap5datpfnv3h2yufjnx325enzmtvm2v6ira4nr2cufcbjppcqw2hhfo3aq/v.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",1917
+http://m39.gamovideo.com:8777/jbap5fo3cznv3h2yufl5vykrpgfblkhifeja3dd6hwniis2mjcrfl7ciz45a/v.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Aladdin
+http://vt28.gamovideo.com:8777/onap4xprmfnv3h2yuhd5xzcrezgz42ga7tu3iq2jkzo4ppiugw75vqtviuya/v.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Objetivo Washington D C
+http://speed21.gamovideo.com:8777/pjap4ivunbnv3h2yufe5vnqinfkkgcrjs4g46wt3txrvcodd5htz45vsmbwa/v.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Rambo Last Blood
+http://wr37.gamovideo.com:8777/jjap54h2c5nv3h2yufb5vmkkoew5w562mqlv2y7zcryxdgmedchftn43i6da/v.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Frozen 2
+http://bj17.gamovideo.com:8777/pzap4pxmc5nv3h2yufonvnyneescaz4rbqbrrcqsmsrr4e3sfekyadlztqwa/v.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Joker
+http://ly31.gamovideo.com:8777/obap5yy5c5nv3h2yufdnvnk2fhacswhs4bvlyapsf5wesvqvoqazixm6oika/v.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Abominable
+http://to15.gamovideo.com:8777/mbap57ejnjnv3h2yuetnv3almd5nvraf4s4i4quzecf565sry7gxag5qsn5q/v.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Rescue Under Fire
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5590&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Yesterday
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5591&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",xXx  Return of Xander Cage
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5592&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Dark Phoenix
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5593&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Wounds
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5594&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Woody Woodpecker
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5595&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Wonderstruck
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5596&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Wonder Woman
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5597&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Wonder Park
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5598&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Wonder
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5599&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Wish Upon
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5600&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Wind River
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5601&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Why Him?
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5602&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",While the Women Are Sleeping
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5603&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",When We First Met
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5604&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",When the Bough Breaks
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5605&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",What Men Want
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5606&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",War Machine
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5607&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",War Dogs
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5608&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Wakefield
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5609&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Victoria & Abdul
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5610&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Verónica
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5611&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Valerian and the City of a Thousand Planets
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5612&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Us
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5613&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Unsane
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5614&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Becoming Astrid
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5615&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Unforgettable
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5616&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Underworld  Blood Wars
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5617&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Unbroken  Path to Redemption
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5618&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Two Lovers and a Bear
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5619&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Tremors  A Cold Day in Hell
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5620&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Train to Busan
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5621&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Toy Story 4
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5622&t=movie&f=mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Tomb Raider
+http://app.powerfhd.me/live/sup.php?z=30&u=gp6R5d97M927946&s=667627554545454&id=5623&t=movie&f=mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD"",VENOM
+https://cdn.apidev.icu/drive/index.php?id=6enNzUc8IZpfvBxOHbjWigzGmohBAvI5u32aELfOwbDcRWmqu7kAxabqUk2aHOq9oZsUJ7UG2Ztr5d3fTdk1s4w293GXnPITRkrCYg2gIopeOhp1jrvr3NMKFJqERaGGCYCwam1wB%2B04l1NHmj5oN3pKC2tChel%2BkYS8K6pN8yoMkrVQdnp%2FAjjBwhuA46rts%3D&ref=https%3A%2F%2Fbos21.bid%2Fvenom%2F&res=default 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",BUMBLEBEE (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=njIdTwPLly%2FGjaLEgTKTpgNbLgICupPymtQTSRq6%2BsVYlubYvHYenMAAC275He1CkLQuKTXpGeI7nFJ4HqHjTlskmu%2FJ61RbJJSICie%2F%2FX82KZ%2FCXeZ9gWUrhwBAG2MBPJkKjZp8qHusojUxAiUq%2FG2T5lMZYQgFukHWPlzIXik29rev1%2FBP53s9lEQMvUsYA%3D&ref=https%3A%2F%2Fbos21.bid%2Fbumblebee%2F&res=default
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The NuN (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The Cabin (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Tumbbad (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=DOLi0B%2FzoQd50xfwtPdXPQNqO4qgzJpmCYFNzcnq0RtTeLauTaWVbSlOm6sCCvB9FwwOhTvLqBqMnJHLC44NPR%2FZDFSKVSjz7W0GaRxid9%2FLgbBs7uBaCA%2Buwi2%2Fbblhb%2Fs60O5wuE0oN%2ByZHW6T5YFOv%2BtM6jq6ounetjRlwI8UywpcPRAcRkvAhDSKHLIco%3D&ref=https%3A%2F%2Fbos21.bid%2Ftumbbad%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Scarecrow's Revenge (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=O1%2B4fmFLZJdiAtVhLn0rLgBuzsZJLYINP8SjXaGamR2TShBiwjiHf8uJ44s6Yh8B1IyIftca3y7DS%2FXVGfJmytlqDT7ioPKn9k9fzuMsGE3Wl%2FICHUreurw5hh1q5AkZFaff8ChsZ4alRObHIiYd5ZNGQPNPXcTG9t92MsqkF18RfX0FrymdYBI5e7PSpg%2Bf3M30tDCNkDcUPsjAvh4jEt&ref=https%3A%2F%2Fbos21.bid%2Fscarecrows-revenge%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",The Wispering (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=llg0kIAQCI8hxyhx9vq2sg1BywbpfC17Vg8yJPGwKBl35u9q3eiqDfqZ7pndSZ5W2UXFk6OqN3Vhg5rmEtHjTUP7gUwaPK%2Fg1Sx1zvp%2BkNtsHLeUkuisYKRl%2BLqx4NiJtD%2FoN72VssNkQZ22awKwVjKLizWAIIIKJXKnK5ZyjOvjwsmbVCSgstk2Upw1YhKDQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-whispering%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",THE NIGHT COMES FOR US (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=4ssY7pVus%2FZYkeuu0Qn1Ug7MlzglwxgrYtoWyJi5jM%2FcXQ0K3IBZx2uhttJoxNCXdeX4XvMNwp9b2Opn3tvBKMrkGrDbIDKVxTR8OGcuQZAmvD8g90o1n92YGNA9kPu0bIjeQchmgnyEyYw5A7pqS8L5s%2Fsi3O2y4DIjEmCl3ecsBYK%2BPf22xskH3UqJFtgdA%3D&ref=https%3A%2F%2Fbos21.bid%2Fas-night-comes%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="MOVIES VOD",Dreadout (2019)
+https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default#EXTM3USpo
+ 
+ 
+######################################### VOD FILM INDONESIA #################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Si Doel The Movie
+https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Galih & Ratna
+https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",London Love Story 3 (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Dilan 1990 (2018)
+https://gdrivecdn.us/drive/index.php?id=AgxVrgwEGSM8s4gOaN07ag6dunxTsGwSh6tMAuieajopc819syRKTgsTyVGKtYGlVSProNlUxpKyuTYAjaxVj9idVH2cMyED%2B%2BtGXKr5CVd5CwntBDvWsZymR71yV0yRs%3D&ref=https%3A%2F%2Fbos21.com%2Fwp-content%2Fplugins%2Fgdriveplayer%2Fplayer.php%3Fdata%3D%252F%252Fgdriveplayer.us%252Fembed.php%253Fhash%253D2HOLNhcDh%2525252F4%2525252BUa2B66%2525252FpRANQtYUE9E273M%2525252F4TN6fXGWlSBoiZQmYhQvBr5mQy9Z4QxfXsqAKw2GtUUQuFISBXIAXixvDHIvgj5FCc8UcQ3lkMCnhyHawjmODA4Qm3M62gUV68Iev7tO5BBmHLCm2bFTDzrbQFAzUFaBuySMqJvWqydlUDH7veP4gPzeYedreYnAmzPKbFlrDgO6m8y4ZakUZo1iL6TUTZ6Y5jnbH0Syg9BDtpWRX%2525252BVYRbHwK26dXqQPBJFY6GzhdSO1UE%2525252BXcx7Kyp93QUJC6NvEXFgqzkQeEVYm5p7n49%2525252F2lTAfvCaMKpgN17yRKepXBMhQ34RWIxHuvV8OKqi9RKa5RvMV9OZ%2525252Bh4cJqpCHJIGZwMyoiqxVYu9u97g9YuM1N7hENT89KjXouDg6mfTqs1N%2525252FcskBcIUaMRXRj%2525252BTRyIQOahTJ7HccrQ%2525253D&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Dilan 1991 (2019)
+https://www.googleapis.com/drive/v3/files/1uVpsJP2M9WXQHisAfCDJP6lb53J_PBx_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Dear Nathan : Hello Salma
+https://gdrivecdn.us/drive/index.php?id=ezuGFuhAh6slWzD3AnDAbwJswK02KnAPKxG0VKxnIQJlm1WxlDiS0zxqJnrfud%2BATEQQNkXr0MJab3q2LaAQ0EirlnmYUWY%2BgaO9b%2B03e7VD5%2FI9Z25O8h91NtFo0dN4E%3D&ref=&res=720
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Insya Allah Sah 2 (2018)
+http://srv24.nf21.net:80/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Serendipity (2018)
+https://gdrivecdn.us/drive/index.php?id=wDwNzidypZXIl%2FrBwVoFhAy0Zamivs%2BCmhE7v69mYlBM%2BbEY%2B%2BeqztLQPRh6dRGfCr8gKPi%2FYtVA1gD9nRKjFZ%2FE%2BflryEiTkGUZeGOQeqSTprwyqEHHLmnTPcXn%2FMYkE%3D&ref=&res=720
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Soekarno: Indonesia Merdeka
+https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Habibie & Ainun
+https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Suzanna: Bernafas Dalam Kubur
+https://cdn.cloneapi.icu/drive/index.php?id=jCNMXUqGI5sc7uBEeXHV8wdZluqzTQGNFsydbyOoHysvMdL1uMg4buFb1BZApESg%2Bh4oL%2BKOPCCd800YyDCi5dWfOJzyVKYpIkXGxOfhlJmLV%2FjFyZYS%2BlULO3HgKlj%2FJBQIIzEzW3IVCBrcSm%2FDVaz5vf7925ZZ%2BDZXrT3BrHo%2B0J7dO7jijCTEAvfWhbIzU4QD3bE%2FG1iVfGtbPB6TyR&ref=https%3A%2F%2Fbos21.bid%2Fsuzzanna-bernapas-dalam-kubur%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Kalung Jelangkung
+https://cdn.clonefile.icu/drive/index.php?id=ENZ86kFYtD42CeCfOr%2BcSgpRONv9iWz2Ez7jzVNxePKGo%2BeNVGNuO0P1D%2BmhwsTf37E4WFQwYvMZpak7iGFoYs6ujw2aXQMhTMptrDOWkwhf%2FHSo0x0FVOhzf4J1%2FODQK5QZhbq2z%2BwQkrIVV2GZUY45WX%2F8kA8YIUcUfVcdwUR1aGPO8x49g0lDUC9vRuigbbqRxGmac8XUuZcGVApP3n&ref=https%3A%2F%2Fbos21.bid%2Fkalung-jelangkung%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",MATA BATIN 2 (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=WEFxKcEL4fg%2BbUAFtOwXDg2rgOa9jxXLgYvPRuIuRaumeDZJOxZRkiFB4RPLpMXZrAsuvsN13xwv4kH%2Be34UiabYNRueZaULKRWEazun4RPBLEnYYBxScTsqEa1RHCYPhO%2Bofu%2BHvu%2FTst4A%2FuxKrvKajjca2bP9ItoI15ii6c8Iwj%2Bozm2lj0sr48v2C5juI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-3rd-eye-2%2F&res=default
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Sunyi
+https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Pocong The Origin
+https://hls.kotaksilver.casa/591415/720_512/playlist.m3u8?r=720p
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Dilan 1991
+https://hls.kotaksilver.casa/577970/720_312/playlist.m3u8?r=720p
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Yowis Ben 2
+https://hls.kotaksilver.casa/579955/480_575/playlist.m3u8?r=480p
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Terlalu Tampan
+https://hls.kotaksilver.casa/572667/720_716/playlist.m3u8?r=720p
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Gaya Mahasiswa
+https://hls.kotaksilver.casa/577713/720_768/playlist.m3u8?r=720p
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Orang Kaya Baru
+https://hls.kotaksilver.casa/554733/720_161/playlist.m3u8?r=720p
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD FILM INDO",Mati Anak
+https://hls.kotaksilver.casa/584131/720_665/playlist.m3u8?r=720p
+
+
 ######################################### Music #################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="Music",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
