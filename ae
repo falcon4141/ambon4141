@@ -1,9 +1,7 @@
-#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/zalindo.png" group-title="TV Lokal",iptv.my.id 
-https://etslive-2-vidio-com.akamaized.net/exp=1581724742~acl=/hls-b/ingest_875_*/*~hmac=938ae9025958369c879cbafc4d7480a22ffb6d1b623802ed0a75cd062962c87c/hls-b/ingest_875_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/zalindo.png" group-title="TV Lokal",https://t.me/ZALINDO
-https://etslive-2-vidio-com.akamaized.net/exp=1581724743~acl=/hls-b/ingest_875_*/*~hmac=ad47ef1be49debbaca334528b1b652f2c36b64409dda022a527d6d1b917e4bbb/hls-b/ingest_875_480p/index.m3u8
-
+#EXTM3U
+ 
+#EXTINF:-1 group-title="INFO ZALTV", FALCON.COM
+https://i.imgur.com/zqfrgrb.mp4
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/nettv.png" group-title="TV Lokal",NET TV 
 https://etslive-2-vidio-com.akamaized.net/exp=1581724743~acl=/hls-b/ingest_875_*/*~hmac=ad47ef1be49debbaca334528b1b652f2c36b64409dda022a527d6d1b917e4bbb/hls-b/ingest_875_480p/index.m3u8
 
