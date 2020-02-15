@@ -276,8 +276,8 @@ http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",BeinSport 1 HD (2)
 https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",Beinsport 2 SD (1)
-https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",BEIN SPORT 2 AR
+http://www.pandar.tv:25461/024281029654/ZLbAVgurQ1PkhhX/5225
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",Beinsport 2 FHD (3)
 https://dl.dropbox.com/s/7trldus602grhbm/Live5.m3u8?dl=0
@@ -287,11 +287,27 @@ http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",Beinsport 3 HD (2)
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",BEINSPORTS 3 FHD (3)
-http://iptv2.premium-stv.com:8888/live/beIN03/6hGJ^8J2qfvuyY/27.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",BEIN SPORT 3 AR
+http://www.pandar.tv:25461/024281029654/ZLbAVgurQ1PkhhX/5227
  
 ######################################### RMC SPORT #################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT", AD SPORT 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sport1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT", AD SPORT 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sport2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",Arena SPORT 1
+http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT", ARENA SPORT 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT", ARENA SPORT 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT", ARENA SPORT 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT", ARENA SPORT 5
+http://185.180.12.34:8080/ARENA5HR/index.m3u8?token=test
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT NEWS
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/42334
  
@@ -354,7 +370,8 @@ https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Champion TV 2
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0#EXTM3U
- 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",WWE TV
+http://cdnak10.cast4u.info/channels/4/10804.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Liga Shopee
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
