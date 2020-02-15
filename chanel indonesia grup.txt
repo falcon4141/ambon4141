@@ -305,36 +305,24 @@ http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT", ARENA SPORT 5
 http://185.180.12.34:8080/ARENA5HR/index.m3u8?token=test
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT NEWS
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/42334
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT NEWS HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49228
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 1 SD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/42335
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 2 SD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/42336
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 2 HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49214
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 3 HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49215
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 4 SD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/42338
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 4 HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49216
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT 5 HD
 http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/61
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="RMC SPORT",RMC SPORT LIVE 5 FHD
 http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/66
 
