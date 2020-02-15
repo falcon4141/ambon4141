@@ -273,7 +273,17 @@ http://ivi.bupt.edu.cn/hls/jshd.m3u8
 ######################################### BEINSPORT #################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT", Beinsport 1 HD (1)
 http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",beIN Sports 1 Asia
+https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",beIN Sports 1 Asia SD
+https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",beIN Sports 2 Asia
+https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",beIN Sports 2 Asia SD
+https://dl.dropbox.com/s/7trldus602grhbm/Live5.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",BeinSport 1 HD (2)
 https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="BEINSPORT",BEIN SPORT 2 AR
@@ -336,6 +346,8 @@ https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",WWE TV
 http://cdnak10.cast4u.info/channels/4/10804.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",WWE SMACKDOWN 1
+http://cdnak8.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Liga Shopee
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
@@ -353,33 +365,10 @@ http://ott-cdn.ucom.am/s81/03.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Seria A TV
 https://dl.dropbox.com/s/7trldus602grhbm/Live5.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Premier Football HD 1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Premier Football HD 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Premier Football HD 3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Premier Football HD 4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Fox Sport 1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Fox Sport 2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Fox Sport 3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Sony Ten 1
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
  
@@ -435,16 +424,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",CCTV-5+
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Ziggo Sport Golf
-http://82.197.213.9:7200/stream/channelid/472149526
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Sky Golf
-http://195.154.157.54:65020/hls/live.stream.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Golf HD
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",CBC SPORT
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
  
@@ -462,33 +442,14 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Abu Dhabi Sports 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Abu Dhabi Sports 5
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Abu Dhabi Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",Fightsport 1
-http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",FightSport 2
 http://210.210.155.35/uq2663/h/h05/02.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",FightSport 3
 http://210.210.155.35/session/99f95566-7000-11e9-8e97-9239acfe1a75/uq2663/h/h05/02.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",beIN Sports 1 Asia
-https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",beIN Sports 1 Asia SD
-https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",beIN Sports 2 Asia
-https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",beIN Sports 2 Asia SD
-https://dl.dropbox.com/s/7trldus602grhbm/Live5.m3u8?dl=0
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="SPORT CHANNEL",TRUEsport2
 https://livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
@@ -695,12 +656,6 @@ http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="LIGA SEPAKBOLA",LIGA CHAMPIONS
 https://mmm.sport7.biz/lba/YTYzOTcyYzhkYmIyNjljMzcwN2FmYTBkYjUwNjNkODA=/g7/btse.m3u8?token=YTYzOTcyYzhkYmIyNjljMzcwN2FmYTBkYjUwNjNkODA=&id=Mzk0NzhmY2I5MzVmYmQzODg4OWYwMGYyNGQ2Y2JmN2M=&vip=1571038674&dip=MDlkMzFhNDU5NTUzNTgwZjE5YzJiNGE4NGQwMTBiYWM=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="LIGA SEPAKBOLA",LIGA EUROPA 1
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="LIGA SEPAKBOLA",LIGA EUROPA 2
-https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="LIGA SEPAKBOLA",LIGA EUROPA 3
 https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
  
@@ -718,18 +673,7 @@ https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="LIGA SEPAKBOLA",Seria A 2
 https://dl.dropbox.com/s/7trldus602grhbm/Live5.m3u8?dl=0
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="LIGA SEPAKBOLA",BUNDESLIGA 1
-http://startv.pro:8080/120125203/123456789/35314
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="LIGA SEPAKBOLA",BUNDESLIGA 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/49030.ts
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="LIGA SEPAKBOLA",WWE SMACKDOWN 1
-http://cdnak8.cast4u.info/channels/3/10803.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="LIGA SEPAKBOLA",WWE SMACKDOWN 2
-http://cdnak10.cast4u.info/channels/4/10804.m3u8
+d/49030.ts
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="LIGA SEPAKBOLA",BEIN SPORT ASIA 1
 https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
