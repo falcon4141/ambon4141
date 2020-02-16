@@ -347,7 +347,7 @@ http://skdn.redi-vo.com/iptv/ch442?code=103131497823984&key=27203
 http://skdn.redi-vo.com/iptv/ch545?code=103131497823984&key=49809
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="Arabic Premium",Yas Sports
 http://skdn.redi-vo.com/iptv/ch629?code=103131497823984&key=11373
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Ahly Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="Arabic Premium",Ahly Channel
 http://skdn.redi-vo.com/iptv/ch783?code=103131497823984&key=59553
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="Arabic Premium",Nahar Sport
 http://skdn.redi-vo.com/iptv/ch179?code=103131497823984&key=33730
