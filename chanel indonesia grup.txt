@@ -261,7 +261,6 @@ http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="KNOWLEDGE",MKC EDU 3 HD
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
  
-
 ######################################### BEINSPORT #################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="Bein Sport",Bein Sports News
 http://skdn.redi-vo.com/iptv/ch110?code=103131497823984&key=44880
