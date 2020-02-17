@@ -1,8 +1,8 @@
 
 #EXTM3U
  
-#EXTINF:-1 group-title="INFO ZALTV", FALCON.COM
-https://i.imgur.com/S5wJDwA.jpg
+#EXTINF:-1 group-title="INFO ZALTV", FALCON
+https://i.imgur.com/ODEwKKv.mp4
 
 ######################################### TRIAL #################################
 #EXTINF:-1 tvg-ID="" tvg-name="E - TV 21" tvg-logo="" group-title="trial premium",E - TV 21
