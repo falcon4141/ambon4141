@@ -1,7 +1,5 @@
 #EXTM3U
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"INFO ZALTV",FALCON
-https://i.imgur.com/b1jpyPE.png
+#EXTINF:-1 group-title="INFO ZALTV", FALCON
 https://i.imgur.com/ODEwKKv.mp4
 
 
