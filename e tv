@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="INFO ZALTV", FALCON
 https://i.imgur.com/ODEwKKv.mp4
-
 ============================================= CHANEL INDONESIA ================================================
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI 2
@@ -84,7 +82,6 @@ http://45.126.83.51/qwr9ew/s/s11/01.m3u8
 http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TVRI++
 http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
-
 =============================================TV Daerah================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV Daerah",BMSTV Purwokerto
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
@@ -164,7 +161,6 @@ https://anevia115.mncnow.id/live/eds/ChannelNewsAsia/sa_hls/ChannelNewsAsia.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="News",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-
 =============================================  Religious  ================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Religious",Makkah TV
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
@@ -231,9 +227,7 @@ https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 https://anevia115.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Cartoon Network
 https://anevia115.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
-
 =============================================  OLAH RAGA ================================================
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Premier League
 https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Main Event
