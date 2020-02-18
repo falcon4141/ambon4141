@@ -1,6 +1,4 @@
-
 #EXTM3U
- 
 #EXTINF:-1 group-title="INFO ZALTV", FALCON
 https://i.imgur.com/ODEwKKv.mp4
 
@@ -233,7 +231,9 @@ https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 https://anevia115.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Cartoon Network
 https://anevia115.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
+
 =============================================  OLAH RAGA ================================================
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Premier League
 https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Main Event
@@ -546,256 +546,155 @@ http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/musicnow.png" group-title="Arabic",Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 
-============================================= India ================================================
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mbcbolly.png" group-title="India",MBC Bolly
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/bauplus.png" group-title="India",B4U Plus
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/03.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/bauaflam.png" group-title="India",B4U Aflam
-http://livecdnh3.tvanywhere.ae/hls/b4uaflam/03.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/zaflam.png" group-title="India",Zee Aflam
-http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/baumusic.png" group-title="India",B4U Music
-http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/baumovies.png" group-title="India",B4U Movies
-http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/sonytv.png" group-title="India",Sony TV
-https://streamer-1.toffeelive.com/live/sony_entertainment_576/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/sonysab.png" group-title="India",Sony Sab
-https://streamer-1.toffeelive.com/live/sony_sab_576/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/sonymix.png" group-title="India",Sony Mix
-https://streamer-1.toffeelive.com/live/sony_mix_576/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/sonymaxx.png" group-title="India",Sony Max
-https://streamer-1.toffeelive.com/live/sony_max_576/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/sonymax2.png" group-title="India",Sony Max 2
-http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/sonymax.png" group-title="India",Sony Max HD
-https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8
-
-=============================================  Australia ================================================
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/three.png" group-title="Australia",Three 
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/maoritv.png" group-title="Australia",Maori
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad720p.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/tereo.png" group-title="Australia",Te Reo
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad720p.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/acctv.png" group-title="Australia",ACC TV
-http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/abctv.png" group-title="Australia",ABC TV
-https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/abcme.png" group-title="Australia",ABC ME
-https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/abckids.png" group-title="Australia",ABC Kids
-https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/abcnews.png" group-title="Australia",ABC News
-https://i.mjh.nz/au/Brisbane/tv.101002210220.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/skynewsxtra.png" group-title="Australia",Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/skynewsxtra.png" group-title="Australia",Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/skynewsxtra.png" group-title="Australia",Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-
-=============================================  Korea ================================================
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/sbskr.png" group-title="Korea",SBS
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mbn.png" group-title="Korea",MBN
-http://23.237.112.138:9083/live/lmgr218-live1/j7/qy/j7qybKo1-oIO_R2EKcmcIA==/live.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/ocn.png" group-title="Korea",OCN
-http://23.237.112.138:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/tvn.png" group-title="Korea",TVN
-https://anevia115.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mnet.png" group-title="Korea",MNet
-http://23.237.112.138:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/kbs1.png" group-title="Korea",KBS1
-http://23.237.112.138:9083/live/lmgr218-live1/Z1/ck/Z1ckFeyBo9VzK1DFmR1-Hw==/live.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/kbs2.png" group-title="Korea",KBS2
-http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/sbsplus.png" group-title="Korea",SBS Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/sbsstar.png" group-title="Korea",SBS Star
-https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/arirang.png" group-title="Korea",Arirang TV
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/tvnmovies.png" group-title="Korea",TVN Movies
-https://anevia115.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
-
-=============================================  Japan ================================================
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/cgntvjapan.png" group-title="Japan",CGNTV Japan
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/shopch.png" group-title="Japan",Shop Channel
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/wowow.png" group-title="Japan",Wowow Movies
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/nhkworldjp.png" group-title="Japan",NHK World Japan
-https://anevia115.mncnow.id/live/eds/NHKWorldTV/sa_hls/NHKWorldTV.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/wakuwaku.png" group-title="Japan",Waku Waku Japan
-https://anevia115.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/nhkpremium.png" group-title="Japan",NHK World Premium
-https://anevia115.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/wnijapan.png" group-title="Japan",WNI Japan Weather
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/golfjapan.png" group-title="Japan",Golf Network Japan
-http://203.162.235.41:16924/
-
-=============================================  Vietnam ================================================
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/ctv.png" group-title="Vietnam",CTV
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/krt.png" group-title="Vietnam",KRT
-http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/nteve.png" group-title="Vietnam",NTV
-http://113.160.173.47:8080/live/na1_720/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/ptp.png" group-title="Vietnam",PTP
-http://113.161.4.48:8080/phuyen/tv.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/qrt.png" group-title="Vietnam",QRT
-http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/tn1.png" group-title="Vietnam",TN1
-http://thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/atv.png" group-title="Vietnam",ATV
-http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/anteve.png" group-title="Vietnam",ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/hbtv.png" group-title="Vietnam",HBTV
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/thlc.png" group-title="Vietnam",THLC
-http://42.112.16.101:1935/live_/LCTV/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/thgl.png" group-title="Vietnam",THGL
-http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/thtg.png" group-title="Vietnam",THTG
-http://thtg.vn:8001/thtg.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/bptv.png" group-title="Vietnam",BPTV 1
-http://118.69.197.145/hls/bptv1.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/bptv2.png" group-title="Vietnam",BPTV 2
-http://118.69.197.145/hls/bptv2.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/vnews.png" group-title="Vietnam",V News
-http://live.vnanet.vn/480P/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/hanoi1.png" group-title="Vietnam",Hanoi 1
-http://hanoitvlive.488983e6.sabai.vn/hanoi1.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/hanoi2.png" group-title="Vietnam",Hanoi 2
-http://hanoitvlive.488983e6.sabai.vn/hanoi2.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/hungyen.png" group-title="Vietnam",Hưng Yên
-http://live.hungyentv.vn:1935/live/HYTV/chunklist_w769520286.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/nhandantv.png" group-title="Vietnam",Nhân Dân
-https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/danangtv1.png" group-title="Vietnam",Đà Nẵng 1
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/danangtv2.png" group-title="Vietnam",Đà Nẵng 2
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-
-=============================================  Cambodia ================================================
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/tv3cam.png" group-title="Cambodia",TV3
-https://1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/tv5cam.png" group-title="Cambodia",TV5
-https://1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/tv9cam.png" group-title="Cambodia",TV9
-https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/etv.png" group-title="Cambodia",ETV
-https://1054166422.rsc.cdn77.org/LS-50041-SIN-9/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/pnn.png" group-title="Cambodia",PNN
-https://1345225764.rsc.cdn77.org/LS-50041-SIN-2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/cnc.png" group-title="Cambodia",CNC
-https://1061752280.rsc.cdn77.org/LS-50041-SIN-7/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/ctn.png" group-title="Cambodia",CTN
-https://1004597868.rsc.cdn77.org/LS-50041-SIN-5/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mytvcam.png" group-title="Cambodia",MyTV
-https://1737081326.rsc.cdn77.org/LS-50041-SIN-6/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/ctv8.png" group-title="Cambodia",CTV8
-https://1909041562.rsc.cdn77.org/LS-50041-SIN-15/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/wikitv.png" group-title="Cambodia",Wiki TV
-http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/nicetv.png" group-title="Cambodia",Nice TV
-https://1546733910.rsc.cdn77.org/LS-50041-SIN-14/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/dmusic.png" group-title="Cambodia",D Music
-https://1765965335.rsc.cdn77.org/LS-50041-SIN-18/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/btvcam.png" group-title="Cambodia",BTV News
-https://1672046706.rsc.cdn77.org/LS-50041-SIN-10/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/bayontv.png" group-title="Cambodia",Bayon TV
-https://1523926405.rsc.cdn77.org/LS-50041-SIN-8/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/apsaratv.png" group-title="Cambodia",Apsara Tv
-https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8
-
-=============================================  Philippines ================================================
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/inctv.png" group-title="Philippines",Inc TV
-https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1000_av-p.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/5phi.png" group-title="Philippines",ESPN 5
-http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/lifetvphi.png" group-title="Philippines",Life TV
-https://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/gmapinoy.png" group-title="Philippines",GMA Pinoy
-http://164.40.161.43:10011
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/inquirer990.png" group-title="Philippines",Inquirer 990
-https://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/untv.png" group-title="Philippines",UNTV Public
-https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/shoptvphi.png" group-title="Philippines",Beam Shop TV
-https://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/cnnphi.png" group-title="Philippines",CNN Philippines
-http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/shoppingphi.png" group-title="Philippines",Beam O Shoppping
-https://59c3ec70cfde0.streamlock.net/channel_2/channel2/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/telenovela.png" group-title="Philippines",Telenovela Channel
-http://164.40.161.46:8003/play/s6
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/islandliving.png" group-title="Philippines",Island Living Channel
-https://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
-
-=============================================  MyanmarArabic ================================================
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mitv.png" group-title="Myanmar",MITV
-http://220.158.149.14:9999/live/TV00000000000000000090@HHZT;LIVE
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mrtv.png" group-title="Myanmar",MRTV
-http://220.158.149.14:9999/live/TV00000000000000000089@HHZT;LIVE
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/5plus.png" group-title="Myanmar",5 Plus
-http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mrtv4.png" group-title="Myanmar",MRTV 4
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mahartv.png" group-title="Myanmar",Mahar TV
-http://maharlive.b-cdn.net/stream.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/ch7phi.png" group-title="Myanmar",Channel 7
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/maharbawdi.png" group-title="Myanmar",Mahar Bawdi
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mvtv.png" group-title="Myanmar",MVTV Myanmar
-https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
-
-=============================================  Laos ================================================
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mvtvlaos.png" group-title="Laos",MVTV 
-https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mvtvlaos2.png" group-title="Laos",MVTV 2
-https://edge1a.v2h-cdn.com/appt7/MVTV.stream_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mvi.png" group-title="Laos",MVI Chinese
-https://edge1a.v2h-cdn.com/appt7/WSM.stream_720p/chunklist_.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/fivech.png" group-title="Laos",Five Channel
-https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/laochampatv.png" group-title="Laos",Lao Champa TV
-https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/laochampatv.png" group-title="Laos",Lao Champa TV 2
-https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/laochampatv.png" group-title="Laos",Lao Champa TV 3
-https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
-
-=============================================  Singapore ================================================
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/okto.png" group-title="Singapore",Okto
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/suria.png" group-title="Singapore",Suria
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/ch5.png" group-title="Singapore",Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/ch8.png" group-title="Singapore",Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/chu.png" group-title="Singapore",Channel U
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/vasantham.png" group-title="Singapore",Vasantham
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/cna.png" group-title="Singapore",Channel News Asia
-https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",The Way I Love You (2019)
+http://srv29.nf21.net/files/15-2019-10-08-259be52f49aad93b05b3d589d26fc7a4.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Dimsum Martabak
+https://www.googleapis.com/drive/v3/files/18UhC9pESWKBTq1btB6jTxoXsu05sjhKH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Wiro Sableng 212 Warrior (2018)
+https://www.googleapis.com/drive/v3/files/1TZ2sAfQPlryJ0-qSfMgS_uMPnIq96ja-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Yowis Ben 2 (2019)
+https://www.googleapis.com/drive/v3/files/1hAeFZAehFAyMqUQrUGck4VahRw-3ugne?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Anak Hoki (2019)
+https://www.googleapis.com/drive/v3/files/1Av9ddgvueTZcEydKPWu8N0RFEF7DMTkS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Soekarno (2013)
+https://www.googleapis.com/drive/v3/files/1RIZDqghC87MRI2RlWVEM8B1y1_gZUmlm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Si Juki (2017)
+https://www.googleapis.com/drive/v3/files/1cM-aoP1H-RNLEGbqF5WoLTxjS3sWfN2g?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Dilan 1990 (2018)
+https://gdrivecdn.us/drive/index.php?id=AgxVrgwEGSM8s4gOaN07ag6dunxTsGwSh6tMAuieajopc819syRKTgsTyVGKtYGlVSProNlUxpKyuTYAjaxVj9idVH2cMyED%2B%2BtGXKr5CVd5CwntBDvWsZymR71yV0yRs%3D&ref=https%3A%2F%2Fbos21.com%2Fwp-content%2Fplugins%2Fgdriveplayer%2Fplayer.php%3Fdata%3D%252F%252Fgdriveplayer.us%252Fembed.php%253Fhash%253D2HOLNhcDh%2525252F4%2525252BUa2B66%2525252FpRANQtYUE9E273M%2525252F4TN6fXGWlSBoiZQmYhQvBr5mQy9Z4QxfXsqAKw2GtUUQuFISBXIAXixvDHIvgj5FCc8UcQ3lkMCnhyHawjmODA4Qm3M62gUV68Iev7tO5BBmHLCm2bFTDzrbQFAzUFaBuySMqJvWqydlUDH7veP4gPzeYedreYnAmzPKbFlrDgO6m8y4ZakUZo1iL6TUTZ6Y5jnbH0Syg9BDtpWRX%2525252BVYRbHwK26dXqQPBJFY6GzhdSO1UE%2525252BXcx7Kyp93QUJC6NvEXFgqzkQeEVYm5p7n49%2525252F2lTAfvCaMKpgN17yRKepXBMhQ34RWIxHuvV8OKqi9RKa5RvMV9OZ%2525252Bh4cJqpCHJIGZwMyoiqxVYu9u97g9YuM1N7hENT89KjXouDg6mfTqs1N%2525252FcskBcIUaMRXRj%2525252BTRyIQOahTJ7HccrQ%2525253D&res=default
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Doa Cari Jodoh (2018)
+https://www.googleapis.com/drive/v3/files/1OiUsx5fuv_ghP7Qoms-MOr5NfmIr7WPE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Gila Lu Ndro (2018)
+http://srv28.nf21.net:80/files/11-2018-12-19-9a9e458c320e49b15a00f172e1ce87ab.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Bodyguard Ugal-Ugalan (2018)
+http://srv24.nf21.net:80/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Ondel-Ondel Cinta Arinda (2017)
+http://srv29.nf21.net:80/files/11-2019-03-31-0e389040c98be3e87ea241d941e9d52e.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Ada Surga Di Rumahmu (2015)
+http://srv29.nf21.net:80/files/11-2019-04-02-56f0a41e3bf3e175a32e4be8572acd48.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Mooncake Story (2017)
+http://srv29.nf21.net:80/files/11-2019-03-31-b6944a8b04623525bfd3101381fcc29a.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Hanum & Rangga: Faith & The City (2018)
+http://srv28.nf21.net:80/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Ayat-Ayat Cinta 2 (2017)
+http://srv24.nf21.net:80/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Bajaj Bajuri: The Movie (2014)
+http://srv28.nf21.net:80/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Terbang: Menembus Langit (2018)
+http://srv28.nf21.net:80/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",DOA (Doyok-Otoy-Ali Oncom): Cari Jodoh (2018)
+http://srv28.nf21.net:80/files/11-2018-12-14-8c2fd1bf63c33a0df042d718cef06fbf.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Insya Allah Sah 2 (2018)
+http://srv24.nf21.net:80/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Alas Pati (2018)
+http://srv21.nf21.net:80/files/15-2018-10-13-7548eba8d3cdfd16055c14605d86b83c.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Rompis (2018)
+http://srv28.nf21.net:80/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",The Secret Suster Ngesot Urban Legend (2018)
+http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Arini (2018)
+http://srv19.nf21.net:80/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Benyamin Biang Kerok (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",London Love Story 3 (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",My Stupid Bos (2016)
+http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Revan & Reina (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Partikelir (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Flight 555 (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Suatu Hari Nanti (2017)
+http://srv18.nf21.net:80/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",5 Cowok Jagoan (2017)
+http://srv18.nf21.net:80/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Cek Toko Sebelah (2016)
+http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Naga Bonar Jadi 2 (2007)
+http://srv18.nf21.net:80/files/15-2018-08-06-ea59a563a6a6a0a51ff4356a23035870.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Galih Dan Ratna (2017)
+http://srv18.nf21.net:80/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Sepatu Dahlan (2014)
+http://srv28.nf21.net:80/files/6-2019-03-06-f7ab0cb8265616f14077202dc234ff7a.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Maju Kena Mundur Kena (1983)
+http://srv29.nf21.net/files/15-2019-10-09-3659d298fa9b29e16db0339cb997ac95.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Tahu Diri Dong (1984)
+http://srv29.nf21.net/files/15-2019-10-09-5800651e161619b8165734c584181e76.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Gantian Dong (1985)
+http://srv29.nf21.net/files/15-2019-10-09-9e09061a2b64e714ba164bcd19d42a34.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Pintar Pintar Bodoh (1980)
+http://srv29.nf21.net/files/15-2019-10-09-8e76b24e377fc2f92fa285524b10d6b1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Kesempatan Dalam Kesempitan (1985)
+http://srv29.nf21.net/files/15-2019-10-09-38faca9819e03a23f4667e72a9412629.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Itu Bisa Diatur (1984)
+http://srv29.nf21.net/files/15-2019-10-09-14bea8bdae274c3a922f7d29c58d8d73.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Malu Malu Mau (1988)
+https://www.googleapis.com/drive/v3/files/1ucAdEKLCcv72iFcGOm75Kfc9Rh-ezgM4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Dora and The Lost City of Gold (2019)
+https://www.googleapis.com/drive/v3/files/1sIAyTf7_6GcLTW7le6v_LvDaQgiNwtnu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Toy Story 4 (2019)
+https://www.googleapis.com/drive/v3/files/1UhiJWe8weVCnykPyDmnnY5WUFzghmZaC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",BOBOIBOY.T.MOVIE2
+https://www.dropbox.com/s/4mtpw81nk92z9wy/Download%20BoBoiBoy%20The%20Movie%202%20%282019%29%20GUDANGFILM-Nonton%20Film%20Online%20Subtitl_1575605241726.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Monkey King: Hero is Back
+https://yiyi.55zuiday.com/20181214/ZhAur8CC/800kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",2019 MTV Movie and TV Awards
+http://srv29.nf21.net/files/15-2019-08-02-4d583e893c5593cd1b91977e3ca3c78f.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",The 61st Annual Grammy Awards (2019)
+https://www.googleapis.com/drive/v3/files/1Q3yKqn4-rgdaiBASGkpMtRBZbP9_RDnz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Pokemon: Detective Pikachu (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=r6lyRUDzUWkOXX3e1jZz%2BgZbS2pbdOaglVR8fh1O7m4I1fSsgg6tGZ9uTHtodfQ0klB87sY8i6IBTc8Kx42itscOB%2BBXZDAX1xfQdGXJz7Iy8doim2vX%2BZV9JTavSelCE%3D&ref=http%3A%2F%2Findomovie.fun%2Fpokemon-detective-pikachu%2F&res=default
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Robin Hood (2018)
+https://gdrivecdn.us/drive/index.php?id=UASF1a5cYFJvd6tZqM2QHQgu7tLwJxIeNVDezE734HyuKuaLM5OfIY4E1Wf6FYTZvjG6eXJQWMzod0UO3JROwRbSSai6hG0i%2FlcMzsH8%2BeTnRbXiTcYp3ChAp2ZkSvBUM%3D&ref=http%3A%2F%2Findomovie.fun%2Frobin-hood-2018%2F&res=default
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Ternet Ninja (2019)
+https://gdrivecdn.us/drive/index.php?id=J%2BlfEpyuOJJrOZfkCLLzFgbb%2FYzJgnhUn%2F1kh7ElNoMLXdBry98YOatdpY8wvASAfbwi%2Fsh2WfM6O3lWzKpXfvMCK3suFuLo7J8ecvSNXTNfc2DxUjxAXmWJcXYHuawTs%3D&ref=https%3A%2F%2Fkawanfilm21.online%2Fcheckered-ninja-2018%2F&res=default
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Rudolf the black cat
+http://srv29.nf21.net/files/15-2019-06-23-2be4b46b4ccd559120ca0d75b394d65e.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Fantastic Beasts: The Crimes Of Grindelwald (2018)
+http://srv28.nf21.net:80/files/11-2018-12-17-b53efe5cad57afc2c65ad65dfa54a60b.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",How To Train Your Dragon 3 (The Hidden World 2019)
+http://srv29.nf21.net:80/files/15-2019-04-23-f6b4f46d93ed0ab9afe678d339ea3e06.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Skyscraper (2018)
+http://srv22.nf21.net:80/files/10-2018-10-27-3639bebebbcb9d7b82747ac94911e8fb.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Mission Impossible: Fallout (2018)
+http://srv28.nf21.net:80/files/15-2019-03-17-5e6453922248470c10be803fc6fbaca5.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",The Meg (2018)
+http://srv21.nf21.net:80/files/15-2018-10-12-90ffe641e6ab64d0e76fec94ad4e2c2e.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Jurassic World: Fallen Kingdom (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-6c94fcf0d9abfe04aa7f1cf314d525b6.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Jumanji: Welcome To The Jungle (2017)
+http://srv18.nf21.net:80/files/10-2018-08-03-a189798f7dc876fc5c04da23118265fc.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Tomb Raider (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-061abc079ba3e2908ee7019f2729a230.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Extinction (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-622532ab81187c58e0b416cdb1e4eb4e.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Doctor Strange (2016)
+http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Atlantic Rim: Resurrection (2018)
+http://srv28.nf21.net:80/files/15-2019-02-13-3a0f53dc85236110bfb6ac9a2ce39c91.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Captain America: The Winter Soldier (2014)
+http://srv29.nf21.net:80/files/15-2019-05-06-001230e0325b1971cc572836852ab220.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Ferdinand (2017)
+https://www.googleapis.com/drive/v3/files/1pbIT9Oq7WwEDPb8Y8Pv4NTUlBhoRPXeE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",D-Railed
+http://srv29.nf21.net/files/15-2019-08-15-1cdb2202a9031fe902ac789c66f86467.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",The Messenger (2019)
+http://srv29.nf21.net/files/15-2019-08-15-78bad99ca803a51a4f7d037d5d386ca9.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Fish school 2
+http://srv29.nf21.net/files/15-2019-08-15-ac350acc74bf33d12915e6a8fdcb5e9a.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Doe
+http://srv29.nf21.net/files/15-2019-08-15-58d743e5778535eb84a8078c19f7a24c.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Xenophobia
+http://srv29.nf21.net/files/15-2019-08-15-07abe9f7b0f879c66d010dacadd412a1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Kong: Skull Island (2017)
+https://www.googleapis.com/drive/v3/files/1mrTr0AY5FiprC2dDKH23IzB2gF7P4q5O?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",The Patriot (2000)
+http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Swordfish (2001)
+http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Gladiator (2000)
+https://www.googleapis.com/drive/v3/files/1AxVsA-FYYbhuhyOeFLqlB5QtMvfzEsCZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
