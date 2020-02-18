@@ -355,6 +355,14 @@ https://anevia114.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/foxsports3.png" group-title="Sports",FOX Sports 3
 https://anevia114.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
 =============================================  Movies  ================================================
+#EXTINF:-1 group-title="INDIHOME_USEETV",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1 group-title="INDIHOME_USEETV",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1 group-title="INDIHOME_USEETV", fox movies 2
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=b63a8893b7d332f2f7acfd3c14e761032035f66e&profile=pass
+#EXTINF:-1 group-title="INDIHOME_USEETV",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/fx.png" group-title="Movies",FX
 https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/jgo.png" group-title="Movies",JGO
