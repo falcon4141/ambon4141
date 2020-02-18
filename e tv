@@ -115,7 +115,6 @@ http://flash1.broadcastindo.net/tatv/live.sdp/playlist.m3u8
 http://103.23.201.170:1935/live/livestream/lihattv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV Daerah",Arek TV Surabaya
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
-
 =============================================  News  ================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="News",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -194,9 +193,7 @@ http://iamchannel.org:1935/tes/1/chunklist.m3u8
 https://anevia115.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Religious",EWTN
 https://anevia115.mncnow.id/live/eds/EWTN/sa_hls/EWTN.m3u8
-
 =============================================  Children  ================================================
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Animax
 https://anevia115.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Aniplus
@@ -272,7 +269,6 @@ http://119.59.116.136:8889/threstr/tennis/chunks.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",T-SPORT
 https://www.doofree88.com/streaming/sd-tsports_480/index.m3u8
-
 =============================================  Sports  ================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",PremierHD1 Backup 2
 https://live.mawintv2.com/02_PremierHD1_720p/chunklist.m3u8
@@ -358,7 +354,6 @@ https://anevia114.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
 https://anevia114.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/foxsports3.png" group-title="Sports",FOX Sports 3
 https://anevia114.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
-
 =============================================  Movies  ================================================
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/fx.png" group-title="Movies",FX
 https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
@@ -392,9 +387,7 @@ https://anevia115.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
 https://anevia115.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/cinemaworld.png" group-title="Movies",Cinema World
 https://anevia115.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
-
 =============================================  Entertainment  ================================================
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/kix.png" group-title="Entertainment",KIX
 https://anevia115.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/axn.png" group-title="Entertainment",AXN
@@ -423,9 +416,7 @@ https://anevia115.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/entertainment.png" group-title="Entertainment",Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/01.m3u8
-
 =============================================  Lifestyle  ================================================
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/hi.png" group-title="Lifestyle",Hi!
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/afn.png" group-title="Lifestyle",AFN
@@ -450,9 +441,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist.
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566805~exp=9007200824307796~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=5f8d7450569ad9000d00b8db64aebce94cf8c2278ae534a3332bed7ecf7c826a
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/ls.png" group-title="Lifestyle",Lifestyle & Fashion
 https://anevia115.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion.m3u8
-
 =============================================  Knowledge ================================================
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/h1.png" group-title="Knowledge",History
 https://anevia115.mncnow.id/live/eds/History/sa_hls/History.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/outdoorch.png" group-title="Knowledge",Outdoor
@@ -481,9 +470,7 @@ https://anevia115.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/ci.png" group-title="Knowledge",Crime Investigation
 https://anevia115.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
-
 =============================================  Music  ================================================
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/karaoke.png" group-title="Music",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/prambors.png" group-title="Music",Prambors
@@ -553,7 +540,6 @@ https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-
 https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 18
 https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",The Way I Love You (2019)
 http://srv29.nf21.net/files/15-2019-10-08-259be52f49aad93b05b3d589d26fc7a4.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Dimsum Martabak
@@ -640,7 +626,6 @@ http://srv29.nf21.net/files/15-2019-10-09-38faca9819e03a23f4667e72a9412629.mp4
 http://srv29.nf21.net/files/15-2019-10-09-14bea8bdae274c3a922f7d29c58d8d73.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Malu Malu Mau (1988)
 https://www.googleapis.com/drive/v3/files/1ucAdEKLCcv72iFcGOm75Kfc9Rh-ezgM4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg" group-title="Movie On",Dora and The Lost City of Gold (2019)
 https://www.googleapis.com/drive/v3/files/1sIAyTf7_6GcLTW7le6v_LvDaQgiNwtnu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
