@@ -522,29 +522,43 @@ https://anevia115.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 https://anevia115.mncnow.id/live/eds/MyTV/sa_hls/MyTV.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/tracemz.png" group-title="Music",Trace Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8
-
-=============================================  Arabic ================================================
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mbc.png" group-title="Arabic",MBC1
-http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mbc2.png" group-title="Arabic",MBC2
-http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mbc3.png" group-title="Arabic",MBC3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mbc4.png" group-title="Arabic",MBC4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mbcmax.png" group-title="Arabic",MBC Max
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mbcdrama.png" group-title="Arabic",MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mbcdrama+.png" group-title="Arabic",MBC Drama+
-http://95.170.215.118:80/hls/m3u8/MBC-DRAMA-SS.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mbcaction.png" group-title="Arabic",MBC Action
-http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/mbcvariety.png" group-title="Arabic",MBC Variety
-http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/musicnow.png" group-title="Arabic",Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+================NET FLIX==========
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 1
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 2
+https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 4
+https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 5
+https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 6
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 7
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 8
+https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 9
+https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 10
+https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 11
+https://dl.dropbox.com/s/nzd3ekunnrbkh60/Dubaimovie.m3u8?dl=0
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 12
+https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 13
+https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 14
+https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 15
+https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 16
+https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 17
+https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 18
+https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",The Way I Love You (2019)
 http://srv29.nf21.net/files/15-2019-10-08-259be52f49aad93b05b3d589d26fc7a4.mp4
