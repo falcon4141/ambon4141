@@ -202,6 +202,7 @@ https://anevia115.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 https://anevia115.mncnow.id/live/eds/EWTN/sa_hls/EWTN.m3u8
 
 =============================================  Children  ================================================
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Animax
 https://anevia115.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Aniplus
@@ -233,8 +234,68 @@ https://anevia115.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Cartoon Network
 https://anevia115.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
 
-=============================================  Sports  ================================================
+=============================================  OLAH RAGA ================================================
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Premier League
+https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Main Event
+https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Golf
+https://www.doofree88.com/streaming/uk-skysports-golf_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Football
+https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports F1
+https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Cricket
+https://www.doofree88.com/streaming/uk-skysports-cricket_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Arena
+https://www.doofree88.com/streaming/uk-skysports-arena_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Action
+https://www.doofree88.com/streaming/uk-skysports-action_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",SkynetsportHD
+http://119.59.116.136:8889/threstr/skynethd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Skynetsport1 HD
+http://119.59.116.136:8889/threstr/skynetsport1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Skynetsport2 HD
+http://119.59.116.136:8889/threstr/skynetsport2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Skynetsport3 HD
+http://119.59.116.136:8889/threstr/skynetsport3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Skynetsport4 HD
+http://119.59.116.136:8889/threstr/skynetsport4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Skynetsport5 HD
+http://119.59.116.136:8889/threstr/skynetsport5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Skynetsport6 HD
+http://119.59.116.136:8889/threstr/skynetsport6/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Truesport 5
+http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Truesport 6
+http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Truesport 7
+http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",NFL
+https://www.doofree88.com/streaming/hd-nfl_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Tennis Backup 2
+http://119.59.116.136:8889/threstr/tennis/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",|USA| Tennis Channel HD
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",T-SPORT
+https://www.doofree88.com/streaming/sd-tsports_480/index.m3u8
+
+=============================================  Sports  ================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",PremierHD1 Backup 2
+https://live.mawintv2.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",PremierHD2 Backup 2
+http://119.59.116.136:8889/threstr/premierleague/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",PremierHD3 Backup 2
+https://live.mawintv2.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",PremierHD4 Backup 2
+https://live.mawintv2.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",PremierHD5 Backup 2
+https://live.mawintv2.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",Champions tv 1
+https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",Champions tv 2
+https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/sonysix.png" group-title="Sports",Sony SIX
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/sonyespn.png" group-title="Sports",Sony ESPN
@@ -245,6 +306,20 @@ https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/ten3.png" group-title="Sports",Sony TEN 3
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",SKYNET1 sport SD
+http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",SKYNET2 sport SD
+http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",SKYNET3 sport SD
+http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",SKYNET4 sport SD
+http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",SKYNET5 sport SD
+http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",SKYNET6 sport SD
+http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",SKYNET8 sport SD
+http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/wwe.png" group-title="Sports",WWE Network
 http://cdnak8.cast4u.info/channels/3/10803.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/dsport.png" group-title="Sports",DSport
