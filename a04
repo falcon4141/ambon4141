@@ -1,0 +1,310 @@
+#EXTM3U
+#EXTINF:-1,GLOBALTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
+ 
+#EXTINF:-1,RCTI+
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+ 
+#EXTINF:-1,RCTI
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+ 
+#EXTINF:-1,LOCAL - [001] MNC TV
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+ 
+#EXTINF:-1,MNC+
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+ 
+#EXTINF:-1,INDOSIAR
+http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000062/1024.m3u8
+ 
+#EXTINF:-1,SCTV
+http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,TRANS 7
+http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+ 
+#EXTINF:-1,TRANS TV
+http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,TV ONE
+http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
+ 
+#EXTINF:-1,INEWS+
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+ 
+#EXTINF:-1,NET TV
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+ 
+#EXTINF:-1,Latino | FOX
+https://iptvbad.000webhostapp.com/sky/master.php?id=97&f=.m3u8
+#EXTINF:-1,Latino | FOX PREMIUM Action
+https://iptvbad.000webhostapp.com/sky/master.php?id=98&f=.m3u8
+#EXTINF:-1,Latino | FOX PREMIUM Cinema
+https://iptvbad.000webhostapp.com/sky/master.php?id=99&f=.m3u8
+#EXTINF:-1,Latino | FOX PREMIUM Classic
+https://iptvbad.000webhostapp.com/sky/master.php?id=100&f=.m3u8
+#EXTINF:-1,Latino | FOX PREMIUM Family
+https://iptvbad.000webhostapp.com/sky/master.php?id=101&f=.m3u8
+#EXTINF:-1,Latino | FOX Life
+https://iptvbad.000webhostapp.com/sky/master.php?id=102&f=.m3u8
+#EXTINF:-1,Latino | FOX PREMIUM Movies
+https://iptvbad.000webhostapp.com/sky/master.php?id=103&f=.m3u8
+#EXTINF:-1,Latino | FOX PREMIUM Series
+https://iptvbad.000webhostapp.com/sky/master.php?id=104&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",Hollywood Movies 1
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",Hollywood Movies 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",Huya 1
+http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",Huya 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",Huya 3
+http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",Huya 4
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",Huya 6
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",Huya 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",Huya 8
+http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",Huya 9
+http://tx.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",Huya 10
+http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",  Hollywood Movies 1
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-152542
+ 
+2901-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",  Hollywood Movies 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",  Metron Jaya 1
+http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",  Metron Jaya 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",  Metron Jaya 3
+http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",  Metron Jaya 4
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",  Metron Jaya 6
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",  Metron Jaya 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",  Metron Jaya 8
+http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",  Metron Jaya 9
+http://tx.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",  Metron Jaya 10
+http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES",  Metron Jaya 11
+http://tx.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8
+ 
+#EXTINF:-1 group-title="SPORT",FOX SPORT 2
+http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
+ 
+#EXTINF:-1,staphen chow
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1,ANDY LauE
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1,JEET LIE
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1,JACKY CHAN
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1,CHOW YUN FA
+http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1,SAMMO HUNG
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1,CHINESE BOO
+http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-278
+ 
+9274542-10057-A-0-1.m3u8
+ 
+#EXTINF:-1,cctv5 http://111.40.205.70/PLTV/88888888/224/3221225591/index.m3u8
+ 
+#EXTINF:-1,NEW TV BLOUCKBUSTER
+http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
+ 
+#EXTINF:-1,STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+ 
+#EXTINF:-1,STAR WORLD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+ 
+#EXTINF:-1,RTM1
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
+ 
+#EXTINF:-1,RTM2
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
+ 
+#EXTINF:-1,NATGEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+ 
+#EXTINF:-1,NATGEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+ 
+#EXTINF:-1,NATGEO PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+RAW Paste Data
+
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
+#EXTINF:-1,ROTANA clip
+http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
+#EXTINF:-1,ROTANA MUSIK
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/index.m3u8
+#EXTINF:-1,ROTANA DRAMA
+http://livecdnh3.tvanywhere.ae/hls/rotmas/index.m3u8
+#EXTINF:-1,PRIME CANADA
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1,B4U MOVIE
+http://161.0.157.7/PLTV/88888888/224/3221226255/index.m3u8
+#EXTINF:-1,ZEE WORLD
+http://161.0.157.7/PLTV/88888888/224/3221226542/index.m3u8
+#EXTINF:-1,ZEE AFLAM
+http://livecdnh3.tvanywhere.ae:80/hls/zeeaflam/index.m3u8
+#EXTINF:-1,RAJ DIGITAL
+http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
+#EXTINF:-1,NEW TV BLOUCKBUSTER
+http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1,MOVIE CHANNEL
+http://stream.cinesoft.live/cinehome/cmovies_576p/playlist.m3u8
+#EXTINF:-1,TVN
+http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
+#EXTINF:-1,WOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1,CCM
+http://bit.do/Ccmkunjuy
+#EXTINF:-1,WAKU WAKU
+http://edge.linknetott.swiftserve.com/channelgroup5/cg529production/ch340/02.m3u8
+
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/1pecqs.jpg" group-title="Zalvision-Movies2",ZALVISION GROUP Telegram
+https://dl.dropbox.com/s/pu9t3xjrehphbdn/intro.mp4?dl=0
+#EXTINF:-1 tvg-logo=https://i.imgur.com/6vlpvo1.jpg" group-title="Zalvision-Movies2, BRUCE LEE CHANNEL
+http://hitv.dyndns.info:19553/live/gomme/gomme/72879.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/6vlpvo1.jpg" group-title="Zalvision-Movies2", BRUCE LEE CHANNEL2
+http://163.172.9.41:19553/live/gomme/gomme/72879.m3u8?token=SxBRWEcJFAhGCgEDBQZUCFcLUF8KBF9UAF5RVVUADFAJAQgMVgBVBFYaGURBQRBVA185D10UA1FWAABaHBNMRlVAZlBQQwwQXAgFXwMXThIWWwsDGwwJSkZIXgcSCxsHAAcJGxhDU0oQXUcIU1k9VAdEDwVcFAMIEVRbTxJeV2pUV1RYWgUUCEYIF0oQXBFAQAhEKlBYUgMJGGQTcRMVF1JbTUtVFVMQXhoEVgIHQBxAUQkTV0JLH0YCFSpkExUXVUpNXFoSX10KGg9EXwYXCEAeRA9KaUsDF0xFBlFcXEcSCBsJFk0UXwVAagVdWwxVAUYPCVdFG1xGCRVPElxWW1lGVktrEV9WRgIXVwsEUxIf
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", JACKIE CHAN TV
+https://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", STEVEN CHOW TV
+https://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", JET LE TV
+https://aldirect.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", MR BEAN TV
+https://dl.dropbox.com/s/q8z7nk3xa6clmv3/bean.m3u8?dl=0
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", ANDY LAU TV
+https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", SAMO HUNG TV
+https://aldirect.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", CHOW YUN FAT TV
+https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", YANG MI TV
+https://aldirect.hls.huya.com/huyalive/30765679-2484192604-10669525991145078784-3049003162-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", AARON KWOK TV
+https://ws.streamhls.huya.com/huyalive/94525224-2705821608-11621415315170131968-986759016-10057-A-0-1_1200/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", WU JING TV
+https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", MASTER VAMPIRE TV
+https://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", HAPPY GHOST TV
+https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", JAPANESE HOROR MOVIE
+https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", THAI GHOST MOVIE
+https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", WEST HOROR MOVIE
+https://aldirect.hls.huya.com/huyalive/29359996-2689607744-11551777299548340224-2847687540-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", SUPER HERO TV
+https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", FUNNY MOVIE TV
+https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", SUNG GO KONG TV
+https://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", JIGONG CRAZY MONK TV
+https://aldirect.hls.huya.com/huyalive/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", FIVE LUCKY STAR TV
+https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", SUPER CLASSIC MOVIE TV
+https://aldirect.hls.huya.com/huyalive/29359996-2689646434-11551943471833022464-2847699146-10057-A-1525507126-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", KUNGFU SERIAL 1
+http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", KUNGFU SERIAL 2
+http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", POLICE MOVIE TV
+https://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", RUNNING MAN TV
+https://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", DWAYNE JOHNSON TV
+https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", DC COMIC TV
+https://aldirect.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", SCIENCE FICTION ACTION TV
+https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", MARVEL SUPERHEROES TV
+https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", THRILLER BLOCKBUSTER TV
+https://aldirect.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="Zalvision-Movies2", WEST MOVIE
+http://aldirect.hls.huya.com:80/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8

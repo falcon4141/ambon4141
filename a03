@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religion",RODJA TV
+http://45.126.83.51/qwr9ew/s/s14/index2.m3u8
+ 
+#EXTINF:-1 group-title="Religion",WESAL TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
+ 
+#EXTINF:-1 group-title="Religion",PULDAPII TV
+http://178.128.121.192/hlsmobile/web.m3u8
+ 
+#EXTINF:-1 group-title="Religion",AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/player.m3u8
+ 
+#EXTINF:-1 group-title="Religion",SURAU TV
+http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
+ 
+#EXTINF:-1 group-title="Religion",AL-IMAN TV
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+ 
+#EXTINF:-1 group-title="Religion",INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/chunklist_b768000.m3u8
+ 
+#EXTINF:-1 group-title="Religion",NIAGATV
+http://wowza60.indostreamserver.com:1935/niagatv/live/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Religion",RIFQANTV
+http://119.82.232.89:1935/rifqan/live/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Religion",ASHIILTV
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+ 
+#EXTINF:-1 group-title="Religion",MUADZ TV
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
+ 
+#EXTINF:-1 group-title="Religion",SALAM TV
+http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+ 
+#EXTINF:-1 group-title="Religion",LIVE MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+ 
+#EXTINF:-1 group-title="Religion",LIVE MADINAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+ 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="RELIGI",NABAWI TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="RELIGI",SALINGSAPA
+http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="RELIGI",TAHFIDZ TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="RELIGI",TAWAFTV
+http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="RELIGI",AL Bahjah
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="RELIGI",NU Channel
+http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Syiar TV" tvg-name="Syiar TV" tvg-logo="" group-title="TV",Syiar TV
+http://flash.klikstream.net:1935/sedekahtv/live/playlist.m3u8?wowzasessionid=1208595343
+
+#EXTINF:-1 tvg-id="DMI Channel" tvg-name="DMI Channel" tvg-logo="" group-title="TV",DMI Channel
+http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8    
+ 
+#EXTINF:-1 tvg-id="Hadi TV 2" tvg-name="Hadi TV 2" tvg-logo="" group-title="TV",Hadi TV 2
+http://38.96.175.40:1935/liveTrans//channel2_800k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BadarTV" tvg-logo="" group-title="TV",BadarTV
+https://video2.onlivestreaming.net/badartv/livestream/playlist.m3u8
