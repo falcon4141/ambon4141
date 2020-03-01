@@ -93,10 +93,6 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",DAAI TV 
 http://45.126.83.51/qwr9ew/s/s13/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",DAAI TV 2
-https://liveanevia.mncnow.id/live/eds/DAAITV/sa_hls/DAAITV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",GPR TV
-http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",JakTV
@@ -169,24 +165,17 @@ http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 
 ############################### HIBURAN #################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",AXN
-http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3223
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",AXN 2
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Blue Ant Entertainment 1
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Blue Ant Entertainment 2
 http://45.126.83.51/dr9445/h/h16/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Blue Ant Extreme 1
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Blue Ant Extreme (Opt-2)
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Blue Ant Extreme (Opt-3)
 http://45.126.83.51/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Celestial Classic Movies
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Celestial Movies
-ttps://anevia115.mncnow.id:443/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",CinemaWorld
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Diva
@@ -197,28 +186,21 @@ http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Elshinta TV 2
 http://45.126.83.51/qwr9ew/s/s10/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Foodie
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Hits
 http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Hits 2
 http://45.126.83.51/uq2663/h/h37/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Kix
-https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Oshop TV
-http://stream1.ninmedia.tv/oshop/udp.stream_360p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Sony Gem
 http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Sony Gem 2
 http://45.126.83.51/uq2663/h/h19/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",FAIL ARMY
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",FX
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",wakuwaku japan
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Food Network
@@ -229,8 +211,7 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Outdoor Channel
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Outdoor Channel Asia
-https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Monarch TV
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",People TV
@@ -243,12 +224,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",World Fashion TV
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",SCM
-https://anevia115.mncnow.id/live/eds/SCM/sa_hls/SCM-avc1_2499968=11-mp4a_98800_ind=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",SCM Legend
-https://anevia114.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend-avc1_2499968=6-mp4a_98800_ind=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",FMN
-https://anevia115.mncnow.id/live/eds/FMN/sa_hls/FMN-avc1_2499968=8-mp4a_98800_ind=2.m3u8
 
 =============================================TV Daerah================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV Daerah",BMSTV Purwokerto
@@ -318,19 +293,14 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="News",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="News",Euronews
-https://euronews-en-p7-cdn.hexaglobe.net/dba764688d1a688ba9ea5133f7adfdf0/5ddf3867/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenpri_eng.smil/ewnsabrenpri_eng_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="News",France24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="News",NHK World Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_4M.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="News",RT
 https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="News",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="News",TRT World
-https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-p.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="News",Berita Satu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="News",Jakarta Globe News
@@ -378,50 +348,14 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",ES: Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",ES: Nickelodeon
-http://tvla.xyz:25461/plovgisg/7illn9Z6G9/1342123
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",ES: Nickelodeon
-http://tvla.xyz:25461/plovgisg/7illn9Z6G9/1342123
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",ES: Nickelodeon HD
-http://tvla.xyz:25461/plovgisg/7illn9Z6G9/1342124
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",ES: Nicckelodeon FHD
-http://tvla.xyz:25461/plovgisg/7illn9Z6G9/1342125
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",ES: Nick JR
-http://tvla.xyz:25461/plovgisg/7illn9Z6G9/1342126
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",BEESMART
-https://anevia115.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_2499968=8-mp4a_98800_ind=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Disney Channel HD
-http://idxcode.streamid.tv:25251/live/stream/ID/5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Disney Channel
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Disney XD
-https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-DisneyXD-mp4a_98800_ind=16.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Cartoon Network
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",DJING TV
 http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",BOING TV
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Cartoon Network HD
-http://mona.dyndns.org:25461/live/RafalRaphe/NsSNXNT5fL/30.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",167 Nicktoons HD
-http://195.88.144.86:8000/play/167
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",NickToons
-http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",NickJR
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",NickJR HD
-http://idxcode.streamid.tv:25251/live/stream/ID/31.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",THE VENTURE BROS 
 http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Baby TV
-https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",LARVA TV 
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",ONE PIECE TV 
@@ -460,8 +394,6 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",SATKIDS
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",NATGEO PEOPLE
-http://203.207.56.228/live/iptv035.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",KurdMax Papule
@@ -492,49 +424,15 @@ http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high
 http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",BOOMERANG
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",BOOMERANG FULL HD
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",nick jr HD
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",CBeebies
-https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",KIDS CHANEL
-https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",FAN TV
 http://195.9.195.3:8080/hls/157239.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Jim Jam
-http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",One Piece
 http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
-
-
-=============================================  OLAH RAGA ================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Premier League
-https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Main Event
-https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Golf
-https://www.doofree88.com/streaming/uk-skysports-golf_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Football
-https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports F1
-https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Cricket
-https://www.doofree88.com/streaming/uk-skysports-cricket_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Arena
-https://www.doofree88.com/streaming/uk-skysports-arena_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",Sky Sports Action
-https://www.doofree88.com/streaming/uk-skysports-action_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",NFL
-https://www.doofree88.com/streaming/hd-nfl_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",|USA| Tennis Channel HD
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="OLAH RAGA",T-SPORT
-https://www.doofree88.com/streaming/sd-tsports_480/index.m3u8
 =============================================  Sports  ================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",PremierHD1 Backup 2
 https://live.mawintv2.com/02_PremierHD1_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",PremierHD3 Backup 2
 https://live.mawintv2.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",PremierHD4 Backup 2
@@ -576,44 +474,23 @@ https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/edgesport.png" group-title="Sports",Edge Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/eurosp1.png" group-title="Sports",Eurosport 1
-http://ott.artmott.com/eurosport1/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/eurosp2.png" group-title="Sports",Eurosport 2
-http://ott.artmott.com/eurosport2/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zalindo.my.id/logos/tivi/xtremesport.png" group-title="Sports",Extreme Sport
 http://ott.artmott.com/extremesport/playlist.m3u8
 
 =============================================  Movies  ================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",fox movies 2
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=b63a8893b7d332f2f7acfd3c14e761032035f66e&profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Thrill
-https://anevia115.mncnow.id:443/live/eds/Thrill/sa_hls/Thrill.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Sony PIX
 https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",KIX 2
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",WARNER TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",TVN MOVIES
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Thrill
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Thrill 2
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Thrill 3
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Zee Bioskop
-https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Zee Bioskop 1
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Zee Bioskop 2
-http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",MCN Sinema
 http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",ZEE BIOSKOP
@@ -624,10 +501,6 @@ http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",MYCINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CINEMA WORLD
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HITS
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HOLLYWOOD
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CELESTIALMOVIES
@@ -640,20 +513,13 @@ http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",TV5
 http://210.210.155.35/session/6858ba06-dd88-11e9-98dd-b82a72d63267/qwr9ew/s/s24/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",MULTIPLEX CINEMA
-https://streamidvo.multitvsolution.in/MultiplexCinema-e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",STAR GOLD
-http://fr-c.movply.stream/hls/Star_Gold.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",BOLLYWOOD CLASSIC
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",BOLLYWOOD PREMIER
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CINE VOICE
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Cinema TV
-https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CELESTIAL MOVIE
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",KIX
@@ -674,8 +540,6 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",AXN
 http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Cinemax
-http://203.153.218.26:9981/stream/channelid/51542457
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Celestial Clasic Movie MY
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",KIX
@@ -826,1244 +690,3 @@ https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 18
 https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
 
-############################### VOD INDONESIA #################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Wiro Sableng 212 Warrior (2018)
-https://www.googleapis.com/drive/v3/files/1TZ2sAfQPlryJ0-qSfMgS_uMPnIq96ja-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Anak Hoki (2019)
-https://www.googleapis.com/drive/v3/files/1Av9ddgvueTZcEydKPWu8N0RFEF7DMTkS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Soekarno (2013)
-https://www.googleapis.com/drive/v3/files/1RIZDqghC87MRI2RlWVEM8B1y1_gZUmlm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Si Juki (2017)
-https://www.googleapis.com/drive/v3/files/1cM-aoP1H-RNLEGbqF5WoLTxjS3sWfN2g?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Doa Cari Jodoh (2018)
-https://www.googleapis.com/drive/v3/files/1OiUsx5fuv_ghP7Qoms-MOr5NfmIr7WPE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",The Secret Suster Ngesot Urban Legend (2018)
-http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Arini (2018)
-http://srv19.nf21.net:80/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Benyamin Biang Kerok (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",London Love Story 3 (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",My Stupid Bos (2016)
-http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Revan & Reina (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Partikelir (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Flight 555 (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Suatu Hari Nanti (2017)
-http://srv18.nf21.net:80/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",5 Cowok Jagoan (2017)
-http://srv18.nf21.net:80/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Cek Toko Sebelah (2016)
-http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Naga Bonar Jadi 2 (2007)
-http://srv18.nf21.net:80/files/15-2018-08-06-ea59a563a6a6a0a51ff4356a23035870.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Galih Dan Ratna (2017)
-http://srv18.nf21.net:80/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Sepatu Dahlan (2014)
-http://srv28.nf21.net:80/files/6-2019-03-06-f7ab0cb8265616f14077202dc234ff7a.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Maju Kena Mundur Kena (1983)
-http://srv29.nf21.net/files/15-2019-10-09-3659d298fa9b29e16db0339cb997ac95.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Tahu Diri Dong (1984)
-http://srv29.nf21.net/files/15-2019-10-09-5800651e161619b8165734c584181e76.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Gantian Dong (1985)
-http://srv29.nf21.net/files/15-2019-10-09-9e09061a2b64e714ba164bcd19d42a34.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Pintar Pintar Bodoh (1980)
-http://srv29.nf21.net/files/15-2019-10-09-8e76b24e377fc2f92fa285524b10d6b1.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Kesempatan Dalam Kesempitan (1985)
-http://srv29.nf21.net/files/15-2019-10-09-38faca9819e03a23f4667e72a9412629.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Itu Bisa Diatur (1984)
-http://srv29.nf21.net/files/15-2019-10-09-14bea8bdae274c3a922f7d29c58d8d73.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vO91Q47.jpg" group-title="VoD INdo",Warkop DKI: Malu Malu Mau (1988)
-https://www.googleapis.com/drive/v3/files/1ucAdEKLCcv72iFcGOm75Kfc9Rh-ezgM4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-############################### MALAYSIA #################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",TVOKEY
-http://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",TV1
-http://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",TV2
-https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b1064000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",TV3
-https://1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",NTV7
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcwduLdwDNeOmL7Cz-qPD1o)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",BTV
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHckTrpo2sFf9br8oNojAyZw)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",TV9
-https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",Drama Sangat
-https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0t2hTz709q1kuJDmI6mRiRY)/dm/3/x6zvnex/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",OKEY
-http://rtm1hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",RTM Sports HD
-https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",RTM BES
-https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",One News
-https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",TV Alhijrah 
-https://freeview.github.io/iptv/source/offline-source.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",BNC 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1581472831/ei/3wdDXsilNIGDogPpvIKADQ/ip/202.187.156.1/id/KkfZI-MzF6c.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-uphxqvujvh-30a6.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/11870/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/2/pl/20/dover/11/keepalive/yes/fexp/23842630/mt/1581451098/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ALgxI2wwRQIgAVkUwHJO0KLZLQRcmaHqIo7fPTXWievjbT6nUgbJ1aoCIQD05d7NVQ2om_39-RRg9CSOvVz4cnAfkL5eOVPF6rwZXQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRAIgawsja019oKn1BfXTF0FiFylVynNHTvA7Xp-saEh36NsCIGa4pBjL55oShZZn-4QK8g4tHPKsVQEMTfLhPuL37oT9/playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="MALAYSIA",Astro Awani 
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-
-############################### FILM VOD #################################
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Milea: Suara dari Dilan (2020)
-https://bitball.b-cdn.net/movies/03-01-2020/Milea2020.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Inseparable Bros (2019)
-https://bitball.b-cdn.net/movies/02-16-2020/Inseparable.Bros.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Toilet 105 (2009)
-https://bitball.b-cdn.net/movies/02-16-2020/Toilet.105.2009.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Selimut Berdarah (2010)
-https://bitball.b-cdn.net/movies/02-16-2020/Selimut.Berdarah.2010.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Brightburn (2019)
-https://zaccar.b-cdn.net/movies/10-17-2019/Brightburn.2019.720p.BluRay.x264-[YTS.LT].mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Daughter of the Wolf (2019)
-https://zaccar.b-cdn.net/movies/10-17-2019/Daughter.Of.The.Wolf.2019.720p.WEBRip.x264-[YTS.LT].mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Gwen (2018)
-https://zaccar.b-cdn.net/movies/10-15-2019/Gwen.2018.720p.BluRay.x264-[YTS.LT].mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Devil’s Revenge (2019)
-https://zaccar.b-cdn.net/movies/10-14-2019/Devil's.Revenge.2019.720p.WEBRip.x264-[YTS.LT].mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Dawn (2020)
-https://bitball.b-cdn.net/movies/02-16-2020/The.Dawn.2019.WEB-DL.x264-FGT.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Climbers (2019)
-https://bitball.b-cdn.net/movies/02-16-2020/The.Climbers.2019.BluRay.720p.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",To All the Boys (2020)
-https://bitball.b-cdn.net/movies/02-16-2020/To.All.the.Boys.P.S.I.Still.Love.You.2020.1080p.NF.WEB-DL.x264.6CH-Pahe.in.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Taman Langsat Mayestik (2014)
-https://bitball.b-cdn.net/movies/02-16-2020/Taman.Langsat.Mayestik.2014.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Viral (2018)
-https://bitball.b-cdn.net/movies/02-16-2020/Viral.2018.DVDRip.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Kafan Sundel Bolong (2012)
-https://bitball.b-cdn.net/movies/02-16-2020/Kafan.Sundel.Bolong.2012.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Insya Allah Sah 2 (2018)
-https://bitball.b-cdn.net/movies/02-16-2020/Insya.Allah.Sah.2.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Ada Apa Dengan Pocong (2011)
-https://bitball.b-cdn.net/movies/02-16-2020/Ada.Apa.Dengan.Pocong.2011.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Sabtu Bersama Bapak (2016)
-https://bitball.b-cdn.net/movies/02-16-2020/Sabtu.Bersama.Bapak.2016.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Rectoverso (2013)
-https://bitball.b-cdn.net/movies/02-16-2020/Rectoverso.2013.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Slank Nggak Ada Matinya (2013)
-https://bitball.b-cdn.net/movies/02-16-2020/Slank.Nggak.Ada.Matinya.2013.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Rasuk (2018)
-https://bitball.b-cdn.net/movies/02-16-2020/Rasuk.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Mae Bia (2018) 18+
-https://bitball.b-cdn.net/movies/02-16-2020/Mae.Bia.2015.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Kron (2019)
-https://bitball.b-cdn.net/movies/02-16-2020/Kron.2019.SDTV.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Ghost Walk (2019)
-https://bitball.b-cdn.net/movies/02-16-2020/Ghost.Walk.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Meet Me After Sunset (2018)
-https://bitball.b-cdn.net/movies/02-14-2020/Meet.Me.After.Sunset.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Selimut Berdarah (2010)
-https://bitball.b-cdn.net/movies/02-16-2020/Selimut.Berdarah.2010.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Bangkitnya Suster Gepeng (2012)
-https://bitball.b-cdn.net/movies/02-16-2020/Bangkitnya.Suster.Gepeng.2012.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Attack on Titan II: End of the World (2015)
-https://bitball.b-cdn.net/movies/02-16-2020/Attack.on.Titan.Part.2.2015.720p.BluRay.x264.750MB.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Attack on Titan, Part 1 (2015)
-https://cdn.bitball.se/movies/02-16-2020/Attack.on.Titan.Part.1.2015.720p.BluRay.x264.850MB.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Sadako (2019)
-https://bitball.b-cdn.net/movies/02-12-2020/Sadako.2019.BluRay.480p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Rumah Bekas Kuburan (2012)
-https://bitball.b-cdn.net/movies/02-12-2020/Rumah.Bekas.Kuburan.2012.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Pusaka (2019)
-https://cdn.bitball.se//movies/02-12-2020/Pusaka.2019.HDRip.480p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Pocong The Origin (2019)
-https://cdn.bitball.se//movies/02-12-2020/Pocong.The.Origin.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Phobia 2 (2009)
-https://cdn.bitball.se//movies/02-12-2020/Phobia.2.2009.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Pengabdi Setan (2017)
-https://cdn.bitball.se//movies/02-12-2020/Pengabdi.Setan.2017.BluRay.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Pee Nak (2019)
-https://cdn.bitball.se//movies/02-12-2020/Pee.Nak.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Modus Anomali (2012)
-https://cdn.bitball.se//movies/02-12-2020/Modus.Anomali.2012.BluRay.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Metamorphosis (2019)
-https://cdn.bitball.se//movies/02-12-2020/Metamorphosis.2019.BluRay.480p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Makmum (2019)
-https://cdn.bitball.se//movies/02-12-2020/Makmum.2019.WEB-DL.480p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Uncle (2019)
-https://cdn.bitball.se//movies/02-12-2020/The.Uncle.2019.WEB-DL.480p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Doll 2 (2017)
-https://cdn.bitball.se//movies/02-12-2020/The.Doll.2.2017.WEB-HD.720p.DD5.1.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Rumah Jagal (2019)
-https://cdn.bitball.se//movies/02-12-2020/Rumah.Jagal.2019.WEBRip.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Monos (2019)
-https://cdn.bitball.se//movies/01-18-2020/Monos.2019.720p.WEBRip.x264-%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Darc (2018)
-https://cdn.bitball.se//movies/01-20-2020/stream/Darc.2018.720p.WEBRip.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Last Seen in Idaho (2018)
-https://cdn.bitball.se//movies/02-08-2020/Last.Seen.In.Idaho.2018.720p.WEBRip.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Haunted Drum (2007)
-https://cdn.bitball.se//movies/02-12-2020/The.Haunted.Drum.2007.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Virgin: Ketika Keperawanan Dipertanyakan (2004)
-https://cdn.bitball.se//movies/02-14-2020/Virgin.2004.WEB-DL.720p.FMZ.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Virgin 2: Bukan Film Porno (2009)
-https://cdn.bitball.se//movies/02-14-2020/Virgin.2.2009.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Virgin 3: Satu Malam Mengubah Segalanya (2011)
-https://cdn.bitball.se//movies/02-14-2020/Virgin.3.Satu.Malam.Mengubah.Segalanya.2011.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Walk With Me (2019)
-https://cdn.bitball.se//movies/02-14-2020/Walk.With.Me.2019.BluRay.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Kindergarten (2009)
-https://cdn.bitball.se//movies/02-14-2020/The.Kindergarten.2009.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",This Girl Is Bad-Ass!! (2011)
-https://cdn.bitball.se//movies/02-14-2020/This.Girl.Is.Badass.2011.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Sonic the Hedgehog (2020)
-https://cdn.bitball.se//movies/02-14-2020/Sonic.the.Hedgehog.2020.HDCAM.c1nem4.x264-SUNSCREEN.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Birds of Prey 2020
-https://cdn.bitball.se//movies/02-14-2020/Birds.of.Prey.2020.HDTS.c1nem4.x264-SUNSCREEN.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Poconggg Juga Pocong (2011)
-https://cdn.bitball.se//movies/02-14-2020/Poconggg.Juga.Pocong.2011.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Scandal (2011) 18+
-https://cdn.bitball.se//movies/02-14-2020/Skandal.2011.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Sawadikap (2016)
-https://cdn.bitball.se//movies/02-14-2020/Sawadikap.2016.DVDRip.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Ruqyah – The Exorcism (2017)
-https://cdn.bitball.se//movies/02-14-2020/Ruqyah.The.Exorcism.2017.WEB-HD.720p.DD5.1.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Rumah Malaikat (2016)
-https://cdn.bitball.se//movies/02-14-2020/Rumah.Malaikat.2016.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Reva: Guna Guna (2019)
-https://cdn.bitball.se//movies/02-14-2020/Reva.Guna.Guna.2019.HDTC.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Portals (2019)
-https://cdn.bitball.se//movies/02-14-2020/Portals.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Pelet Kuntilanak (2011)
-https://cdn.bitball.se//movies/02-14-2020/Pelet.Kuntilanak.2011.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Mall Klender (2014)
-https://cdn.bitball.se//movies/02-14-2020/Mall.Klender.2014.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Kembang Kantil (2018)
-https://cdn.bitball.se//movies/02-14-2020/Kembang%20Kantil.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Kalung Jelangkung (2011)
-https://cdn.bitball.se//movies/02-14-2020/Kalung.Jelangkung.2011.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Jaga Pocong (2018)
-https://cdn.bitball.se//movies/02-14-2020/Jaga.Pocong.2018.HDTC.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Hantu Jamu Gendong (2009)
-https://cdn.bitball.se//movies/02-14-2020/Hantu.Jamu.Gendong.2008.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Raging Phoenix (2009)
-https://cdn.bitball.se//movies/02-14-2020/Raging.Phoenix.2009.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Charlie’s Angels (2019)
-https://cdn.bitball.se/movies/02-14-2020/Charlies.Angels.2019.WEB-DL.x264-FGT.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Jumanji: The Next Level (2019)
-https://cdn.bitball.se/movies/02-12-2020/Jumanji.The.Next.Level.2019.KORSUB.HDRip.x264-STUTTERSHIT.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Parasite (2019)
-https://cdn.bitball.se//movies/02-14-2020/Parasite.2019.BluRay.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",KALA (2007)
-https://cdn.bitball.se//movies/02-14-2020/Kala.2007.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Ghost Wife (2018)
-https://cdn.bitball.se//movies/02-14-2020/Ghost.Wife.2018.WEB-DL.480p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Drakula Cinta (2014)
-https://cdn.bitball.se//movies/02-14-2020/Drakula.Cinta.2014.DVDRip.480p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Bayi Gaib (2018)
-https://cdn.bitball.se//movies/02-14-2020/Bayi.Gaib.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",13 Cara Memanggil Setan (2011)
-https://cdn.bitball.se//movies/02-14-2020/13.Cara.Memanggil.Setan.2011.DVDRip.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",XX (2017)
-https://cdn.bitball.se//movies/02-12-2020/XX.2017.BluRay.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Warning: Do Not Play (2019)
-https://cdn.bitball.se//movies/02-12-2020/Warning.Do.Not.Play.2019.HDRip.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Sunyi (2019)
-https://cdn.bitball.se//movies/02-12-2020/Sunyi.2019.WEB-DL.720p.FMZM.mp4
-
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Roh Fasik (2019)
-https://cdn.bitball.se///movies/indonesia/Roh.Fasik.2019.WEBRip.1080p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Ghost in the Graveyard (2019)
-https://cdn.bitball.se///movies/02-10-2020/Ghost.In.The.Graveyard.2019.720p.WEBRip.x264-%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Godzilla: King of the Monsters (2019)
-https://www.googleapis.com/drive/v3/files/1nh3BT7RQFaykkp2FW4_dbRgsiJFD9Ngl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Happy Death Day 2U (2019)
-https://www.googleapis.com/drive/v3/files/133E_ee0J1TZEUpnNoGdsw07Ic2q09rqf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",After She Wakes (2019)
-https://cdn.bitball.se///movies/02-10-2020/After.She.Wakes.2019.720p.WEBRip.x264-%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Ghost in the Graveyard (2019)
-https://cdn.bitball.se///movies/02-10-2020/Ghost.In.The.Graveyard.2019.720p.WEBRip.x264-%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",K-12 (2019)
-https://cdn.bitball.se///movies/02-10-2020/K-12.2019.720p.WEBRip.x264-%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Welcome to Mercy (2018)
-https://cdn.bitball.se///movies/02-08-2020/Welcome.To.Mercy.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Boo (2019)
-https://cdn.bitball.se///movies/02-08-2020/BOO!.2019.720p.WEBRip.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Black Wake (2018)
-https://cdn.bitball.se///movies/02-08-2020/Black.Wake.2018.720p.WEBRip.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Alien Predator (2018)
-https://cdn.bitball.se///movies/02-08-2020/Alien.Predator.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://cinemakeren1.id/wp-content/uploads/2020/02/mIkipFqsaYK17KCB7OslgN6WpsZ-170x255.jpg" group-title="VOD MOVIES",The Final Level: Escaping Rancala (2019)
-https://cdn.bitball.se///movies/02-11-2020/The.Final.Level.Escaping.Rancala.2019.720p.WEBRip.x264-%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://cinemakeren1.id/wp-content/uploads/2020/02/79ZbOA6mwzuDNICi6l0rVLouNDG-60x90.jpg" group-title="VOD MOVIES",Zeroville (2019)
-https://cdn.bitball.se///movies/02-10-2020/Zeroville.2019.720p.WEBRip.x264-%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://cinemakeren1.id/wp-content/uploads/2020/02/p08FoXVFgcRm5QZBaGj0VKa2W2Y-60x90.jpg" group-title="VOD MOVIES",A Shaun the Sheep Movie: Farmageddon (2019)
-https://cdn.bitball.se///movies/02-10-2020/A.Shaun.The.Sheep.Movie.Farmageddon.2019.720p.BluRay.x264.AAC-%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://cinemakeren1.id/wp-content/uploads/2020/02/9YMM2audtZ2Qg0XOg1tW11IkHtV-60x90.jpg" group-title="VOD MOVIES",A Serial Killer’s Guide to Life (2019)
-https://cdn.bitball.se///movies/02-10-2020/A.Serial.Killer's.Guide.To.Life.2019.720p.WEBRip.x264-%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://cinemakeren1.id/wp-content/uploads/2020/02/yE6q03pfWg9xZ4a7MoeldDXMV5y-60x90.jpg" group-title="VOD MOVIES",Svaha: The Sixth Finger (2019)
-https://cdn.bitball.se///movies/02-11-2020/Svaha.The.Sixth.Finger.2019.720p.BluRay.x264-%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",12 YEARS A SLAVE
-http://www.deadlyblogger.com/NewRelease/12slave.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",28 DAYS LATER
-http://www.deadlyblogger.com/NewRelease/28days.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",47 RONIN
-http://www.deadlyblogger.com/NewRelease/47ronin.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",A HAUNTED HOUSE 2 (COMEDY)
-http://www.deadlyblogger.com/NewRelease/haunted2.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",A NIGHT AT ROXBURY
-http://www.deadlyblogger.com/NewRelease/roxbury.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",AFFLICTED
-http://www.deadlyblogger.com/NewRelease/afflicted2013.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",AFTER EARTH
-http://www.deadlyblogger.com/NewRelease/after.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",ALI
-http://www.deadlyblogger.com/NewRelease/ali1.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",AMERICAN GANGSTER
-http://www.deadlyblogger.com/NewRelease/agangster.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",AMERICAN HUSTLE
-http://www.deadlyblogger.com/NewRelease/hustle2013.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",ANCHORMAN 2: THE LEGEND CONTINUES
-http://www.deadlyblogger.com/NewRelease/anchorman2.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",ANCHORMAN THE LEGEND OF RON BURGUNDY
-http://www.deadlyblogger.com/NewRelease/anchorman.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Angel Has Fallen (2019)
-https://www.googleapis.com/drive/v3/files/1e8zI98_BM0K4sVMo9byeInovIqfwLk7F?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",ANIMAL
-http://www.deadlyblogger.com/NewRelease/animal.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",AUSTIN POWERS
-http://www.deadlyblogger.com/NewRelease/austin1.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",AUSTIN POWERS: THE SPY WHO SHAGGED ME
-http://www.deadlyblogger.com/NewRelease/austin2.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BAD BOYS 2
-http://www.deadlyblogger.com/NewRelease/badboys2.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BAD BOYS
-http://www.deadlyblogger.com/NewRelease/badboys1.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BAD GRANDPA
-http://www.deadlyblogger.com/NewRelease/badgrandpa2013.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BALLER BLOCKIN
-http://www.deadlyblogger.com/NewRelease/blockin.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BATTLE FOR THE PLANET OF THE APES
-http://www.deadlyblogger.com/NewRelease/apes5.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BATTLE OF THE YEAR
-http://www.deadlyblogger.com/NewRelease/battleyear2013.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BEANEATH PLANET OF THE APES
-http://www.deadlyblogger.com/NewRelease/apes2.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BELLY
-http://www.deadlyblogger.com/NewRelease/belly1998.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BEWITCHED
-http://www.deadlyblogger.com/NewRelease/bewitched.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BLADE 1
-http://www.deadlyblogger.com/NewRelease/blade1.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BLADE 2
-http://www.deadlyblogger.com/NewRelease/blade2.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BLADE 3
-http://www.deadlyblogger.com/NewRelease/blade3.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BLADES OF GLORY
-http://www.deadlyblogger.com/NewRelease/glory.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BLOOD IN BLOOD OUT/ VATOS LACOS
-http://www.deadlyblogger.com/NewRelease/blood.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BODY HEAT
-http://www.deadlyblogger.com/NewRelease/bodyheat1981.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BOYZ N THE HOOD
-http://www.deadlyblogger.com/NewRelease/thehood.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",CABIN BY THE LAKE
-http://www.deadlyblogger.com/NewRelease/cabin1.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",CINDERELLA (1950)
-http://www.deadlyblogger.com/NewRelease/cinder1.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",CLASS ACT
-http://www.deadlyblogger.com/NewRelease/classact.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",COLORS
-http://www.deadlyblogger.com/NewRelease/colors.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",CONGO 1995
-http://www.deadlyblogger.com/NewRelease/congo1995.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",CONQUEST OF THE PLANET OF THE APES
-http://www.deadlyblogger.com/NewRelease/apes4.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",CRIMSON
-http://www.deadlyblogger.com/NewRelease/crimson.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",DANGEROUS MINDS
-http://www.deadlyblogger.com/NewRelease/minds.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Dark Phoenix (2019)
-https://hls.kotaksilver.casa/320288/720_867/playlist.m3u8?r=720p
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",DEAD PRESIDENTS
-http://www.deadlyblogger.com/NewRelease/deadp.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",DEJA VU
-http://www.deadlyblogger.com/NewRelease/dejavu.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",DELIVERY MAN
-http://www.deadlyblogger.com/NewRelease/deliveryman.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",DIRTY DANCING (1987)
-http://www.deadlyblogger.com/NewRelease/dirtydancing1987.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",DIRTY DANCING HAVANA
-http://www.deadlyblogger.com/NewRelease/dirtydancing2004.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",DIRTY
-http://www.deadlyblogger.com/NewRelease/dirty1.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",DOGMA
-http://www.deadlyblogger.com/NewRelease/dogma1999.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",DONT BE A MENACE
-http://www.deadlyblogger.com/NewRelease/menace.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",DONT TELL MOM THE BABYSITTERS DEAD
-http://www.deadlyblogger.com/NewRelease/babysitter1991.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Dora and the Lost City of Gold (2019)
-https://www.googleapis.com/drive/v3/files/1EUDzPiS24mzTflfh0BFtBmkglxZBEYE4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Dragon from shaolin
-https://www.googleapis.com/drive/v3/files/1YVX-hW0j9Y7EFILo816lyTIJWB1DVpr_?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",DUCKTALES: TREASURE OF THE LOST LAMP
-http://www.deadlyblogger.com/NewRelease/ducktales1990.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",EMPIRE STATE
-http://www.deadlyblogger.com/NewRelease/empirestate.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",ESCAPE FROM THE PLANET OF THE APES
-http://www.deadlyblogger.com/NewRelease/apes3.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",ESCAPE PLAN
-http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",EVERYTHING MUST GO
-http://www.deadlyblogger.com/NewRelease/mustgo.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",FALLEN
-http://www.deadlyblogger.com/NewRelease/fallen2.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Fast & Furious Presents: Hobbs & Shaw (2019)
-https://www.googleapis.com/drive/v3/files/1prVW0qvmIwq3FON6eVT0Luky2xHqqnuz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",FAST AND FURIOUS 4
-http://www.deadlyblogger.com/NewRelease/fast4.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",FAST AND THE FURIOUS 6
-http://www.deadlyblogger.com/NewRelease/fast6.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",FAST FIVE
-http://www.deadlyblogger.com/NewRelease/fast5.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",FINDING NEMO
-http://www.deadlyblogger.com/NewRelease/nemo2003.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Flight
-http://www.deadlyblogger.com/NewRelease/flight1.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",FLUBBER
-http://www.deadlyblogger.com/NewRelease/flubber.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",FOUR BROTHERS
-http://www.deadlyblogger.com/NewRelease/fourb.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",FRIDAY 1
-http://www.deadlyblogger.com/NewRelease/friday1.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",FRIDAY 2
-http://www.deadlyblogger.com/NewRelease/friday2.mp4
- 
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",FRIDAY 3
-http://www.deadlyblogger.com/NewRelease/friday3.mp4
- 
-
-#EXTINF:-1 tvg-logo="https://cinemakeren1.id/wp-content/uploads/2019/10/buRaywMQ2ixlnVfMEnPGAwsgxzZ-60x90.jpg" group-title="VOD MOVIES",The Young Cannibal (2019)
-https://cdn.bitball.se///movies/02-10-2020/The.Young.Cannibals.2019.720p.WEBRip.x264-%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://cinemakeren1.id/wp-content/uploads/2020/02/qsyKxImcXXs15XNRRbWASSXyJKc-60x90.jpg" group-title="VOD MOVIES",Darlin’ (2019)
-https://cdn.bitball.se///movies/02-11-2020/Darlin'.2019.720p.BluRay.x264-%5BYTS.LT%5D.mp4
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Sabyan Menjemput Mimpi (2019)
-https://cdn.bitball.se///movies/indonesia/Sabyan.Menjemput.Mimpi.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Last Warrior
-https://cdn.bitball.se///movies/02-06-2020/The.Scythian.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
-
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Monkey King 3
-https://cdn.bitball.se///movies/02-06-2020/The.Monkey.King.3.2018.720p.WEBRip.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Don’t Open Your Eyes
-https://cdn.bitball.se///movies/02-06-2020/Don't.Open.Your.Eyes.2018.720p.WEBRip.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Monsters Party
-https://cdn.bitball.se///movies/01-20-2020/Monster.Party.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Boarding School
-https://cdn.bitball.se///movies/01-20-2020/Boarding.School.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Dilan 1991 (2019)
-https://cdn.bitball.se///movies/indonesia/Dilan.1991.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Si Doel the Movie 2 (2019)
-https://cdn.bitball.se///movies/indonesia/Si.Doel.the.Movie.2.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Rumput Tetangga (2019)
-https://cdn.bitball.se///movies/indonesia/Rumput.Tetangga.WEBRip.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Roy Kiyoshi: The Untold Story (2019)
-https://cdn.bitball.se///movies/indonesia/Roy.Kiyosi.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Danur 3: Sunyaruri (2019)
-https://cdn.bitball.se///movies/indonesia/Danur.3.Sunyaruri.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",MALEFICENT
-http://www.deadlyblogger.com/NewRelease/maleficent.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Hit & Run (2019)
-https://cdn.bitball.se///movies/indonesia/Hit.and.Run.2019.WEBRip.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",KINGSMAN GOLDEN CIRCLE
-https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",MONSTER CALLS
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",THE HOST
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",THE HUNGER GAMES: CATCHING FIRE
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b8bc096c-fbe9-4a96-a6b8-510fd43156d8/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",WARM BODIES
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",YOU NOW SEE ME
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",YOU NOW SEE ME 2
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Si Doel The Movie
-https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Galih & Ratna
-https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Soekarno: Indonesia Merdeka
-https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Habibie & Ainun
-https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Sunyi
-https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p
-
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Dilan 1991
-https://hls.kotaksilver.casa/577970/720_312/playlist.m3u8?r=720p
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Yowis Ben 2
-https://hls.kotaksilver.casa/579955/480_575/playlist.m3u8?r=480p
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Terlalu Tampan
-https://hls.kotaksilver.casa/572667/720_716/playlist.m3u8?r=720p
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",PSP: Gaya Mahasiswa
-https://hls.kotaksilver.casa/577713/720_768/playlist.m3u8?r=720p
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Orang Kaya Baru
-https://hls.kotaksilver.casa/554733/720_161/playlist.m3u8?r=720p
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",AQUAMAN (Sub Indo)
-https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",VENOM 
-https://cdn.apidev.icu/drive/index.php?id=6enNzUc8IZpfvBxOHbjWigzGmohBAvI5u32aELfOwbDcRWmqu7kAxabqUk2aHOq9oZsUJ7UG2Ztr5d3fTdk1s4w293GXnPITRkrCYg2gIopeOhp1jrvr3NMKFJqERaGGCYCwam1wB%2B04l1NHmj5oN3pKC2tChel%2BkYS8K6pN8yoMkrVQdnp%2FAjjBwhuA46rts%3D&ref=https%3A%2F%2Fbos21.bid%2Fvenom%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",UMBLEBEE (Sub Indo)
-https://cdn.clonefile.icu/drive/index.php?id=njIdTwPLly%2FGjaLEgTKTpgNbLgICupPymtQTSRq6%2BsVYlubYvHYenMAAC275He1CkLQuKTXpGeI7nFJ4HqHjTlskmu%2FJ61RbJJSICie%2F%2FX82KZ%2FCXeZ9gWUrhwBAG2MBPJkKjZp8qHusojUxAiUq%2FG2T5lMZYQgFukHWPlzIXik29rev1%2FBP53s9lEQMvUsYA%3D&ref=https%3A%2F%2Fbos21.bid%2Fbumblebee%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The NuN (Sub Indo)
-https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Cabin (Sub Indo)
-https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",THE NIGHT COMES FOR US (Sub Indo)
-https://cdn.clonefile.icu/drive/index.php?id=4ssY7pVus%2FZYkeuu0Qn1Ug7MlzglwxgrYtoWyJi5jM%2FcXQ0K3IBZx2uhttJoxNCXdeX4XvMNwp9b2Opn3tvBKMrkGrDbIDKVxTR8OGcuQZAmvD8g90o1n92YGNA9kPu0bIjeQchmgnyEyYw5A7pqS8L5s%2Fsi3O2y4DIjEmCl3ecsBYK%2BPf22xskH3UqJFtgdA%3D&ref=https%3A%2F%2Fbos21.bid%2Fas-night-comes%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",AD Astra(2019)
-https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Aeronauts(2019)
-https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Joker (2019)
-https://www.googleapis.com/drive/v3/files/1gdsesv39yVSPlRY7WM9GyJDgTiHkeZv6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Men in Black: International (2019)
-https://w3.bagicdn.pro/drive//hls/b6dcfc175c0de7bdbc26f564d3c0fdca/b6dcfc175c0de7bdbc26f564d3c0fdca.m3u8
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",KINGSMAN GOLDEN CIRCLE
-https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",,A MONSTER CALLS
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",THE HOST
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",THE HUNGER GAMES: CATCHING FIRE
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b8bc096c-fbe9-4a96-a6b8-510fd43156d8/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",WARM BODIES
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",YOU NOW SEE ME
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",YOU NOW SEE ME 2
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Rurouni Kenshin: The Legend Ends
-https://d-2.files.im:182/files/6/aah97re0joaqak/video.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Rampant (2018)
-https://cdn.bitball.se//movies/01-20-2020/Rampant.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Kid Who Would Be King
-https://d-6.files.im:182/files/0/2k5pz58sckv8s3/video.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Troop Zero (2020)
-https://cdn.bitball.se//movies/01-18-2020/Troop.Zero.2020.PROPER.1080p.WEBRip.x264-RARBG.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Gundala (2019)
-https://cdn.bitball.se//movies/indonesia/Gundala.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Toy Story 4 (2019)
-https://cdn.bitball.se//movies/01-20-2020/Toy.Story.4.2019.PROPER.720p.HDRip.X264.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Isle (2018)
-https://cdn.bitball.se//movies/01-20-2020/The.Isle.2019.720p.WEBRip.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Troop Zero (2020)
-https://cdn.bitball.se//movies/01-18-2020/Troop.Zero.2020.PROPER.1080p.WEBRip.x264-RARBG.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Makmum (2019)
-https://s430.clipwatching.com/zx5x64ig2v2varfe43jclt57ybmokdun4337hu5kpp3lw3psw7reymv43d7a/v.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Mermaid: Lake of the Dead 
-https://cdn.bitball.se//movies/01-20-2020/The.Mermaid.Lake.Of.The.Dead.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",he Mermaid: Lake of the Dead
-https://cdn.bitball.se//movies/01-20-2020/The.Mermaid.Lake.Of.The.Dead.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Golem
-https://cdn.bitball.se//movies/01-20-2020/The.Golem.2018.720p.WEBRip.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Toy Story 4 (2019)
-https://cdn.bitball.se//movies/01-20-2020/Toy.Story.4.2019.PROPER.720p.HDRip.X264.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Aladdin (2019)
-https://cdn.zaccar.ru//movies/11-12-2019/Aladdin.2019.720p.BluRay.x264-%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Knight of Shadows: Between Yin and Yang (2019)
-https://cdn.zaccar.ru//movies/11-07-2019/The.Knight.Of.Shadows.Between.Yin.And.Yang.2019.720p.WEBRip.x264-%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Along with the Gods: The Last 49 Days
-https://cdn.bitball.se//movies/01-20-2020/stream/Along.With.The.Gods.The.Last.49.Days.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Basement (2018)
-https://cdn.bitball.se//movies/01-20-2020/The.Basement.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Patient Zero (2018)
-https://cdn.bitball.se//movies/01-20-2020/Patient.Zero.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Danur 3: Sunyaruri (2019)
-https://s320.clipwatching.com/zx5x44ugzj2txcne4zushe7gyc5wa47ftxlaliaz4lygzbfuoqllzwa4aysq/v.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Roy Kiyoshi: The Untold Story (2019)
-https://s170.clipwatching.com/zx5x5tak2v2varfe4z5shd54rd3necmrjo3fdwt5jnox24i6dkengv2haljq/v.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Ikut Aku ke Neraka (2019)
-https://s485.clipwatching.com/zx5x6ayk2v2varfe43gsjexc3uewemvaqdx7jca5qbaylf2yg7iodtyzxnuq/v.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Kembalinya Anak Iblis (2019)
-https://s485.clipwatching.com/zx5x4yik2v2varfe43zsjqxc2sruefpxsspfs43dflil3mow2frdoubab5uq/v.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Detention (2019)
-https://s210.clipwatching.com/zx5xqwyk2v2varfe4yhshrhmzkfo37muyjpsbedyuefekhjqhmy4tverj3lq/v.mp4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Divine Fury (2019 bluray no sub)
-http://getlink.fyvideo.info/m3u8/52ea87dcc928a90c9555e8c7a878dd786b0e093578ee6b20d7cfa3801b6681e2.m3u8
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The driver 2019
-https://hls11.mbplayer.info/hls/ed05b963c239e6aa278d7aa7e7819e62/ed05b963c239e6aa278d7aa7e7819e62.m3u8.app.m3u8
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Saaho (2019 hd sub Indo)
-https://www.googleapis.com/drive/v3/files/1eemUZInE5sB4clPRlnXwkMRVUMuWo8XL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Savage (hd sub Indo)
-https://www.googleapis.com/drive/v3/files/1qXePthPRBQnZRCPAgY2HY9ZHo9U_zE7K?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Reva: Guna-guna (2019)
-https://www.googleapis.com/drive/v3/files/1sOCdkMmsjsB1rXwXWB6aQ4LF9jTn24nc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Courier (2019 Bluray no sub)
-https://haoa.haozuida.com/20191122/YvDQ7sYZ/1000kb/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Frozen 2 no sub
-https://meng.wuyou-zuida.com/20191122/22590_cc8dd6ad/1000k/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Dua Garis Biru (2019 Webdl)
-https://www.googleapis.com/drive/v3/files/1WeqFtwt4vVaBQji-68JTKveC7D95wSBd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Aladdin (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=9AqM7daCB%2FgJBJw2jRJwFgh5uDnrp75l%2BLIa40o%2Bv0KDjNs%2Bai9ieql0c5ZDAXaMoyxGKmsjvbfiVIpJvwGWFsoJkWLCjf2QSsCYOe45nwqRZRL2VJN9pqJQTVnn3SBU8%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Annabelle Comes Home (2019)
-https://cdn.apidev.icu/drive/index.php?id=FV1zs%2FZHfF4TSgSDEp83UQnRBoQwid8xBkjne7VbNjerQPnh74ldsovM4gdWktrmleAo3p07HwN9c1vje0VjGf29hfARxyYrlJNFLurp7%2BEWPjbsbjWJQ1sY9UkWdXYJw%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Avengers Endgame (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=oVVEwrbX11rHFIJw4XFIWgBG9zApZUys7GmR%2BCsbZch68djfdCeMiSzQTBJBdfhHM%2BuHJ9uh4MFu1lEkygfStskePTcho%2B%2By7Iz5ggKcGkpfplemdooErTs%2FgOWpHkn4o%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Dark Phoenix (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=xNnumPG4RJVWyyeODhLuyQgwyplayl%2FEhdR7rbXXVrgzA7XVcl9SAH5Fw55DkwyXPcvT4Pnzb19FGSdrLMlPI6Cd7zO35Oo3PuMhNqcdTYWbTl9dxeNh%2Bt%2FV3upiQ%2Brbk%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Hellboy (2019) [No Sub]
-https://cdn.apidev.icu/drive/index.php?id=d%2FOms6zGlNpP80iYETxiLQ1sZx3rq2oD1kEQzQsz3ykI6UAxVn2aa99l9JueorouyRCyB%2FyLonu2UQOXqyN5vDPNZuNxMKjVzD5K52QG5imPQD5SfK3JGyc59qiJoqoOQ%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",John Wick: Chapter 3 - Parabellum (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=XgrpxEBpTae6en%2FtNxyLHgg3GKqQYmHKFF%2FnR3VpGixiZN0uB%2F5KNdMGJ5CQzcUEXXECS2qELl9lu8z1dl5rzDZJDmAzCNZnT0W9wmMmAxhJ46pYug3ugxIAIzYuQjlNI%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Men in Black: International (2019)
-https://cdn.clonefile.icu/drive/index.php?id=XNHUy5woqMDvr0mRi%2FJwkg479uN7EE6%2F%2B0WNdjZY52HVh3jgY6Qzaqaf1IFdmyk0hYSjK0ahQu0NgbNq47GfJ%2F4qqmtAomqPwX7Yl%2BFvCAUZHEwwo%2BLUK8VE62c%2BhGzsU%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Spider-Man: Far from Home (2019)
-https://cdn.apidev.icu/drive/index.php?id=zJV9kCT9h%2Fb3qrCMw6rxww4ixexr86I0ifpLxfDg0g8GWaHGMhHMr0VLmStszR%2F3n2MGeQzbRdnPD%2FEkcE9CoLfmq3%2F1RGDFfDcrHOcQyBUnanwO23fyYPTZ0q6XSqFgsraOuk3Blg1dBjR8IvtDdt&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Secret Life of Pets 2 (2019)
-https://cdn.clonefile.icu/drive/index.php?id=ibdM6LEZrlnPnONGz%2BLEjgVE6IYVD%2FxXO%2BC%2FKiVx6zAFyXdLlTUyaulptL8p742OrUm05S3VQ9j2or17OO0vcB%2BL%2FmEOQAxiEbOZZfpOEvuA33PZOFrLqT%2F3BP%2FmY8JCM%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Toy Story 4 (2019)
-https://cdn.clonefile.icu/drive/index.php?id=U3whVygzPhZzMe9dPvvJtQ09%2FstEZj8LyA%2BSyClt14UFGpH6T6u30EEb23uk0qFELbyunNUrXYWnN%2FQDEO8cV86cnCaWsKszTf4%2FwkbxQTgn3dJ%2F2IvYvfArcZlgzuWnk%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Adanga Maru (2018)
-https://cdn.apidev.icu/drive/index.php?id=JxPa8xo%2FE6pxZdc01hEtUwRgGVqwUcM3emdxglAuqzNLudrOCN8nGbeAU9F51B0kblgluDqdrr9sKVXvRXg4bQoDe%2BZ3EshhUzC1CIx2EwcW8dgq%2FP8Yo2EoG3iaIPGJA%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Gully Boy (2019)
-https://cdn.clonefile.icu/drive/index.php?id=ybZJY55NI1cjIZubmO2QBQjWudPVKea1RzyZp7qsaJPL%2Bx%2B5W1KgDhAw1W5MTwGwOsN9GgknwOwXx%2BKU4Rcv0vF8LApm5YouNZBT8ULWhvFAzobnJqtRBazrkum%2BVvEBI%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Hotel Mumbai (2018)
-https://cdn.apidev.icu/drive/index.php?id=iGQ7vCgWQYAH5sNrzEQxHAdTaBqaae%2Fmr41MVX0qm9g8FxjWLdYlueNyz9uUc%2FLjIqJsP0LN%2F1Lj0BrfHZdbwjopXUoSXqwZMmSCD2%2B2Ig294DaPba5ir0dlK%2Fob3UpZY%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD MOVIES",Mr. Majnu (2019)
-https://cdn.clonefile.icu/drive/index.php?id=h1%2B91DqS3fKGvOuXPh6XZQurnMmhojYY0mxVoY%2Fw3kGq2kwpB28YeesAS8zbrTGXPVaw0OEu4If2eF6%2BrDgMmnhK0IU5ufvrOxRbVU6ZXpcDyf81H%2F%2Fx8jOyqviv8uFMc%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD MOVIES",Sonchiriya (2019)
-https://cdn.apidev.icu/drive/index.php?id=Em%2Bx6mpAAsYj09fL5XPdrA3YnLvmZfWULva9LWurXfr6pxZsK%2FWOssRK9l%2Fd8yAfGxu6Tedi1Tbkgl6A3E%2BS8l3gyMG9HZL6uvNMYoD5qPMUAcd6dNb4c4PG0O8ot6TKA%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD MOVIES",Tholi Prema (2018)
-https://cdn.clonefile.icu/drive/index.php?id=XgrMBbDBMNMvfICV0HickwMjvGc0f9en2H1%2FDQYkhxqHipKPkIXqr%2Fe2fLxF52cpyF4HWLOrgQmbk09utopMq4ADgZS0yQquT%2FESK6twQN2e0pJSfKmJKu9JLqtunBeIc%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD MOVIES",Belok Kanan Barcelona (2018)
-https://gdrivecdn.us/drive/index.php?id=ErhUauo0y%2FOEIkWyfmqREAynxttw35TzD6ZlH7mgDBqBAl2ct%2ByrWxK9Ed3bCf66f8v4WnT%2BAsN2%2FELEkKRvBpXTWR3X%2BBu755r%2B5ZxIlwsm1XW2HP3p6A5HbJeuaPuJk%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD MOVIES",Buffalo Boys (2018)
-https://gdrivecdn.us/drive/index.php?id=tus%2FUzbybnfDii0VIgX0TgBUgVVC2SSwVMqTwpIUBCWacxqwdtjgd9LHsmjn7LWooi3FBhl8EqMgfPkSJBLAPDUODO6ew0FziXxuvVYP2I2Z1oXLrQ9Ncp2D5S%2Fpzme2k%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Danur 2: Maddah (2018)
-https://gdrivecdn.us/drive/index.php?id=yznYcTt8Xk54%2Bv4mZqdbEghT7qH1SKjov71yLHJX1LIPE77PYeEgWfzrFmu9DLsvrsW1sv3hM8vmXHRB9dLBu15BC7Gs%2F6hyjWhWY7U8wFUoz24e5u5gR9FyzO%2FNd20oo%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD MOVIES",Dear Nathan: Hello Salma
-https://gdrivecdn.us/drive/index.php?id=ezuGFuhAh6slWzD3AnDAbwJswK02KnAPKxG0VKxnIQJlm1WxlDiS0zxqJnrfud%2BATEQQNkXr0MJab3q2LaAQ0EirlnmYUWY%2BgaO9b%2B03e7VD5%2FI9Z25O8h91NtFo0dN4E%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD MOVIES",Hangout (2016)
-https://cdn.clonefile.icu/drive/index.php?id=dfcoaT7KFeMe4vNrYmDJqASs76gbjEwb9YJZ%2FdfnY9aR9qMk%2BN%2BBbH7tyrDcd1I6soTMNW%2B3ru9ib2wAtrDsxxJJdWeOsMJkMpFzfzYWagnIFXRAtZD88MWv8%2FxYn8cDY%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD MOVIES",Keluarga Cemara (2019)
-https://cdn.clonefile.icu/drive/index.php?id=VLuaGwVJjEQLuDGyP5S20wQbaG9stirkMdOL0WZvJ29GfhiB1hqBGWsQeOZqLXrXhkf7MZ%2BKqwG1M6epWxzahsm4P5y%2FaBSpE1o1AJv42s2Cks4dVTJiS7ANiZ2MxJKuE%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD MOVIES",Marlina the Murderer in Four Acts (2017)
-https://cdn.clonefile.icu/drive/index.php?id=6NKCDi5zuDyqI2qs0h4XoQBzqt85P%2BR44cKQbS%2B89xppqbk5YJwPfEho73K2fvBRYA4MjxzNcTvwDRZpViGUhg49UuN6uMoEIZgFegvO74lS44FPShFvb3oXO%2FfQOV4IQ%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD MOVIES",Milly & Mamet (2018)
-https://cdn.apidev.icu/drive/index.php?id=OD3kKKMWDdUID6nCyqV4Mwc1j1G4mewSAk4PWQt8zUcAcjjv3BiZLWfOubGwh%2FdMXFTLbgNtKqJddjej8eALTI54wm%2F21ETZa6Q0EqXucN6H6OwHGZIONDbNl5uvTcgvI%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWz11J.jpg" group-title="VOD MOVIES",My Stupid Boss 2 (2019)
-https://cdn.clonefile.icu/drive/index.php?id=DwhGdxuCu%2BxkXq3zah%2Fp%2Bwief4xpP8Qb4vSSRliJmSS8bzUHGGvb3OD8K6VSUKvyY7VBtv3rlN1wRwjAPN0sEoECufHNWJ8dWBFf5V4JSI5b8xRkE3d%2BKp2l53Zc3jVf0%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Obama Anak Menteng
-https://cdn.cloneapi.icu/drive/index.php?id=CE4QfyWbXE5Om5NYXQ9KtQMrpgwBMn3NHrMrZjPts0wTwcUIvoetBIMhNIOJmYOGTfapej0%2BgIQWPjtZAQAR31JKux4e3Im8sLmDlxEJ4wJ1fPXMj5bMnommq9dtONppg%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Partikelir (2018)
-https://cdn.cloneapi.icu/drive/index.php?id=gabAcaBJwxdrc8j6RiGrog2%2FgsnzIutCQ%2BQqlElfca8BgHKRxVfHkgfJ7vTNWEq68fHA5nIfxO1V43LrFgLD1iv5esi6K4%2FOuALLHP%2BRil0REeuzZyAAWbTgSDcIQX%2FBU%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Pengabdi Setan (2017)
-https://cdn.apidev.icu/drive/index.php?id=lfXvJeBvuCpevnojl7Jbjgc19waODkK3XqdF3TPXoLFKZ3xciHLqfyX1Nlf28X9MqeBLGbYjaBhugnhBgNEvmvJ2CA6hPDuYl7V8vbeGEI9n2kg1hxgGQP7gk75k39kGM%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Petualangan Menangkap Petir (2018)
-https://gdrivecdn.us/drive/index.php?id=AsnN6nQcVd6KYqk52B8QTgzytrW17SrmmAbcA9llOa%2B96AnQoVyWRuouwRHLQOxcyElNoV77uyok4%2FLbrzTLG66FHLoD3ObsKUMruxvkdxt5p%2FvJRxg7Dvat4FxeMeAWk%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Petualangan Sherina (2000)
-https://cdn.apidev.icu/drive/index.php?id=vmpp1ffDn1DXQl1b5Wa%2FqQY3zsI%2FD90DYKxLkqSek9KmZaDe7mlsIuguUsDZUhTUG4CtT0ZR6Uq8Jod9hK1%2BtQPak2R0GFwJrCUXPfpx5srsYTwmDCELuM3i8ibpjXTOo%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Preman Pensiun (2019)
-https://cdn.clonefile.icu/drive/index.php?id=GIGaTLjh6kt0njvCrsdJcAgyspaFPU8agoVHU8wxIUfcUPzEBWO2IFqJgNQ%2FKQNS0YVeS4mMMxjMKIW3Rp2nIxkQK3PI3VeXi4z416XvXjVTLtD41P73ACKFYXrEjvGF4%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Rompis (2018)
-https://gdrivecdn.us/drive/index.php?id=Iz8rFzxzwQGIpg8gHb%2FIWQcRglutPSkZ7MzlqlLbIpObpL4JurcEdpvuW%2BK4GNhm2EAjDvPzAE7B8dDnHcxuPU1mrYZL1gVH8nIujZn5t1IhOEpEGxNtrAndn5zgE1EKs%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Sebelum Iblis Menjemput (2018)
-https://gdrivecdn.us/drive/index.php?id=%2BN8Lwx3ZsIBXYr4RqHIlEwCKMMvic6EeLWJRypos3ZbqctfV6cgHeaRWV1JMxKVcDjXUmQdp23EmEiGwFPG13TUq1U72AWc6GTbPBH6MGKjB7uTsOjGwHoSxsvvT7XSEc%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Serendipity (2018)
-https://gdrivecdn.us/drive/index.php?id=wDwNzidypZXIl%2FrBwVoFhAy0Zamivs%2BCmhE7v69mYlBM%2BbEY%2B%2BeqztLQPRh6dRGfCr8gKPi%2FYtVA1gD9nRKjFZ%2FE%2BflryEiTkGUZeGOQeqSTprwyqEHHLmnTPcXn%2FMYkE%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Sesat (2018)
-https://gdrivecdn.us/drive/index.php?id=gmJO%2BK2h4wil9IC96c%2BgcQuSJff57ZnSI3N827%2FFC%2FJxhc77Yqzgb40B8qFuVCH9iFClgSmnq0GFxn%2FK%2FI4nK%2FCfvuhVTPT76c1TyE5QDvRaeyuizbvHQG3x4s16O6oms%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Si Doel The Movie (2018)
-https://gdrivecdn.us/drive/index.php?id=EP1J2d5D%2FjY0t47U9fWheQiTXbQOPNUOne6OmudoRbqnr5hkArX1T3Lv2kIf1ELzjrlGAPPiIbAqzSDys2ZE%2BS%2FRT78SaBalm716bBanU55Yt28Qjcn0mKD%2FVX9Xsctq8%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Siap Gan! (2018)
-https://gdrivecdn.us/drive/index.php?id=gQrzPzvtmg6TQRvBuu3h%2BA0QcNgjVUWgWyPx%2BYY5gE%2FXm26kLnwfpdzyTNmuyKU4wY8SHQ1VRlBj1MNUWKsaoKdWAX7773M6%2FPpfoSbnbk2pdOaQSLqnxTfXTF7W0ua%2FI%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Sultan Agung (2018)
-https://gdrivecdn.us/drive/index.php?id=jbMTNSNZGh57L%2BiuN6M%2Bfg1EnKQ4vGdFzbskJxu8g4YoRL%2BCQTiAzDAWtaR5VDyURY6pQs7d%2FTxH%2FFkY5ciASTkix43wf0NFTdkcNynJ0HZTBmVHd0XtWzDhGkaXHNx9I%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Suzzanna: Bernapas Dalam Kubur (2018)
-https://cdn.clonefile.icu/drive/index.php?id=PSI9CIy9YlN4xU%2BPDWafKA49tv34SWM54MyQP%2Fet193IUQCkzmxUbzlM5qPxQvIa8zmoiQiq4lxzMkWXXN06f50o85YhEvbHtpxCL9aOmdWTgm%2FRU266jqEyYeIySOP9k%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Night Comes For Us (2018)
-https://gdrivecdn.us/drive/index.php?id=nVYC6ZQEWME5HlSWLVGMbwp%2BGs8r%2FsttmW4eP%2BG1lq%2FhfjVJ0xaA%2BO8VplOwLu1BO0He%2Bn7V3mPmhCX1QGoz%2BhZwwpzOpshCnbEsopiRtd4LQmks%2BqDIzgCwPmguBN5Tw%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Three Sassy Sisters (2016)
-https://gdrivecdn.us/drive/index.php?id=XElCnydzKprpZTtyk2e4PgxsGHw8YEcC51Nan5z4tWMq8ZuSpOFBvOmuDZpL4H%2F3mYNytyhOMLrdbvI0rx8U2EppT8eRaawsFDm%2FKYEwub1d2zwwoljFGzH8AYtsHps%2BM%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Triple Threat (2019)
-https://gdrivecdn.us/drive/index.php?id=Po2yGuyIpselsocBSYCg%2BAoBm3jp5tym%2BCHjs4%2FDFfQz7v0aY2jAQoAw7VmNtne%2B47J28qsN0MERlFvuTDrWdyXKTdqcx76pJTd1rjY4RiVEr4Iio6w%2BzDP9DE6uBpQyc%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Valentine: The Dark Avenger (2019)
-https://cdn.apidev.icu/drive/index.php?id=d0MC03H7wtP1OJhdr5vxHAMSxv5e675BsuSlIA0mErmVxcTjNh5lG%2F3K5Nj7PBIi9jBMh7PT4JEKVdnKASBmqg05KaHAOjQKqKEJHiEypJX%2FDMO11Fnsn1Wf9luHSe3bs%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Asterix: The Secret of the Magic Potion (2018)
-https://cdn.clonefile.icu/drive/index.php?id=41IpLKLI0NntH%2FJngglgMApGgMjmgZzjpUcCRuyBP5noKWK4V8MO%2FteNVF49vg34IKWy02snXkeSKRobIbK3XTjXZdhGIZ%2BB%2BywV5gUyqo7P0anLUitmN%2FEZ161D8gJkg%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Big Miracle (2012)
-https://gdrivecdn.us/drive/index.php?id=yiff1NnsIObdQXzaMRAu2wYNiOOllJ%2B%2FmhREcDio0dRhOz57lFAG6mtjYm9ymLAv%2FmgYI9HNRz%2B1cbBKqwxM9qYL4%2BwbRByoScgogUTBjJfA%3D%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Coco (2017)
-https://gdrivecdn.us/drive/index.php?id=gC3axcWr1JqxTYH3oesMCAB%2B65QnHZi1IawUjkAMicmgEhCquvP1s%2BDRufOXMjUxhJF1LEqZ4bOOiVOq2Xdteiai%2B5AKqcFXfIPTVfXG0fX7vPlR79qTKE%2FZkEIdJ5kr4%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Dumbo (2019)
-https://cdn.clonefile.icu/drive/index.php?id=3UqhbCMEm2QSI4Znspu%2BTgWjaEHvfLLRWyVhRTdJdlHQxD6XSebaWIcqWewKF0Fj1b1%2B%2FAE5VOdsYJ%2BvANObFADrDC3UPK8hJRnzx6hv5AHQfJI44CseKWn8OR0VFvDrs%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Early Man (2018)
-https://gdrivecdn.us/drive/index.php?id=4IXyro5aGLqgyyOHsVURnAATNC5zxxnE19QpMTEpXxLJojm%2B7w7pulRJGFHICcAFi0IgHHUhKl9Zd4yZwpK8CKE4S%2BmSIl4%2FSvdsnPUL1LRl5M2%2BN%2B5ITBHjDdPur898M%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Fantastic Beasts: The Crimes of Grindelwald (2018)
-https://gdrivecdn.us/drive/index.php?id=E7bh4FOWcYbqG4dgwq2DxwHcS3JkR59%2FdkUGLCM%2Bg2VTDZ8HwhiOyoyZstBRWhXuvn4i5mHHiAO6s0URqdoCi%2FseBoDrDez2ZxMSG5FdEB0sPdRZSewiCO0ieVa0738YU%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Ferdinand (2017)
-https://gdrivecdn.us/drive/index.php?id=aT4qLsS170p6KhbNUydm9AyLEyIUOqTJMAfxpzGcdeZAgjSo3Pi18%2BlSBFaerqFgH%2BDxsPhvCuSGrotoF3o3qXlwmrqEvR3iuBU6RaM1iNqvSeIzqqespScgA2y7SYCZI%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Keluarga Cemara (2019)
-https://cdn.clonefile.icu/drive/index.php?id=VLuaGwVJjEQLuDGyP5S20wQbaG9stirkMdOL0WZvJ29GfhiB1hqBGWsQeOZqLXrXhkf7MZ%2BKqwG1M6epWxzahsm4P5y%2FaBSpE1o1AJv42s2Cks4dVTJiS7ANiZ2MxJKuE%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Mowgli (2018)
-https://cdn.apidev.icu/drive/index.php?id=dBp8KA57MrfT2Pq%2FHz0vhQ6A2%2FJgVMk9QZHMjoD7bpq9Cviltgwfh%2BeLk1a0SjZ2Hwnl%2BnzfNqRgnUIB9dW0yM%2B%2FpuEuMF5mLhovhRPJDSsQXJ6%2FSEUBqlWvuqjWbhmw0%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Nancy Drew and the Hidden Staircase (2019) [No Sub]
-https://gdrivecdn.us/drive/index.php?id=eLKj50j3E3WxaL1%2F62STYwOuBbrEtiB0WvvDV35d5MvfHr0191Kw4pb1Nqo3LA9sKEbXLsOV5dLCJSuVQXBebH83kdChTaoa3Ee39RNdOnSG8RimU%2FlqJzHO7uFDymQDE%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Petualangan Menangkap Petir (2018)
-https://gdrivecdn.us/drive/index.php?id=AsnN6nQcVd6KYqk52B8QTgzytrW17SrmmAbcA9llOa%2B96AnQoVyWRuouwRHLQOxcyElNoV77uyok4%2FLbrzTLG66FHLoD3ObsKUMruxvkdxt5p%2FvJRxg7Dvat4FxeMeAWk%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Petualangan Sherina (2000)
-https://cdn.apidev.icu/drive/index.php?id=vmpp1ffDn1DXQl1b5Wa%2FqQY3zsI%2FD90DYKxLkqSek9KmZaDe7mlsIuguUsDZUhTUG4CtT0ZR6Uq8Jod9hK1%2BtQPak2R0GFwJrCUXPfpx5srsYTwmDCELuM3i8ibpjXTOo%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Jungle Book (2016)
-https://cdn.clonefile.icu/drive/index.php?id=waNt9R1l9yBouiUcGzr6oAp8rswx4Mme%2BszhL%2BDlq8pDiJrXCqgr5mMYLb4sVJPpcrqiU3PcUKIPcZsju%2Fwx1N64X1SlT6v%2BmUPkmKdhvY1tFbywKQHxeeb12JiWUgxbI%3D&ref=http%3A%2F%2Fgdriveplayer.co%2Fembed2.php%3Flink%3Dhttps%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1S9_HJ0dd0QOH0tlEzFyLWOqhhZqZRbqF%2Fview&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Princess Diaries 2: Royal Engagement (2004)
-https://gdrivecdn.us/drive/index.php?id=kzZLp5uifgDShax6OMX6fQU2%2FKACFYnIrpYIDJFHetImwSxM1XcGIglAvpwYCn2NVsKBoCwiebIiNQOkJAHBSeNyoznw2QnOcJ0gtUm3nNVW51Xlda5YjYM9m3H3lQiWg%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Secret Life of Pets (2016)
-https://cdn.clonefile.icu/drive/index.php?id=Z5yxDmhrhxaVwQMct%2FmUPQqN9wGektYlsXdEoXoin5OF5UbLd10VGS%2B47CVe64Lg5QTZD%2FNgs6lbpwDmoto6HdLnNbXmNfinDUCMwZZg58sWcDrxyRBXUt97eSBdo3aqs%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Tomorrowland (2015)
-https://gdrivecdn.us/drive/index.php?id=LDxY2BLj3lM3V7zH1H68Hg%2FH9J03ul7t%2B9GMQWtUJC1PIvBxQ3Rwo7%2FI25ej%2Fj%2FsEK4LW0QoI7Fj08PqUc%2F3FXe2AWNDlqhmoN7OX8CrpPvYvQNaHmyf31YIQTsyD81zY%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Toy Story (1995)
-https://cdn.apidev.icu/drive/index.php?id=j3xBTXpkaGdGNDxoYM3OWAwSdPOtOfC5T8WCBqPFv2ej2mpQevPHBVF1Wxlm%2ByggLbyv61rcLNpsg7vEegLIByLodlsvLqPCktXGCcIS0m%2Bx%2BFSvw0fT7%2Bo6orkw9V5K0%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Toy Story 2 (1999)
-https://cdn.clonefile.icu/drive/index.php?id=wWuhTj1%2BDEzq2uvUom0krwkgHnL2npNUZ%2FKQD1KJU%2FKfSDXn2Yk5V82MateKD9v3lNWEAAD%2BtoQNgi2hoa34ojrAVQliZ4XynA5eVcm8%2FBZ8avK2xvMqcm7fj5xFwwXLM%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Toy Story 3 (2010)
-https://cdn.apidev.icu/drive/index.php?id=fyMc%2FVM2GcqhuVplKZdHkwpjSXVIZ2Pditwen4Schw16brpHLYWvU%2F1O7McwzP5f8hU00u2HKfmdXfC5g1vOHtfeEKOnZ7JmPwSrRzJsHpXycibgsfpvavXcb3IJhNGBk%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Bad Police (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=mcY7Q8YG7ZW7TJpU8YF9Gw%2BnWDE0VXuNGCzw%2Fq9aKcX3FqSOghO3O0TLN4VNbjg90HQ%2FG5GC%2FCrPJvA%2FB%2Beu7fP2vDSXSmTwnjpsU0fKm0qOPy%2FhxqAMBrsM3bJ2Iw%2BZg%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Default (2018)
-https://gdrivecdn.us/drive/index.php?id=Z8202LI2VF956VXlHMe%2B5wD%2F7GgQCPHnVfCKFV1pJKAHFkBafslc4GLErmGQttS2GrsgaStIMX740M7gC8jDEtwYUdsNE%2FlWL1%2Fa30zqnB%2BQxXzDxZ6H36mKFz6dyrlGI%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Don (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=agK6HDVnrHS7OXbM5JbwHQBnEajbOHut0ab1f4sEEi7fXOf0rRhE0wYKxztbYcETRJixddv4JMUqG7q4GY6k4m5NP%2B7m63x2CrERZf1FpxC9l6YSAzkphUNN%2F7hzXVsG8%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Fabricated City (2017)
-https://cdn.apidev.icu/drive/index.php?id=HfxsVNwZ1alnWQfmCyRbegzOdvU8gcjDflo8CII3F8f5woVmnCKfKpqHHYitWg3M9ga7a7yuPZcQoetvsJYJ7ynaQXUWGhF4zm24AK3nGEWCIOqb2gAzHKzOQ2hu0fK7I%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Svaha: The Sixth Finger (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=ImkOtECuHts%2FaQnFCph87QNQy28PbhZVbYHAFEUfYucrSISEpLDxv9IquJpCKWismiwG9URTcqfCitqZ%2BNOJ1aaZQBBhp377AyVErJEVbmFSyqyhBcsZpKngBuP2ANQlI%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Gangster- the Cop- the Devil (2019)
-https://cdn.apidev.icu/drive/index.php?id=WUvGZiHk%2FujfsDdrMcR%2F6QDQ7iPoGyaifnmnm407PYp9ctlGiCuRaN0D0Ku4H3hDkVFuSt7njNjuZfWaVY4oc4UJtrEhJabQRGTkPht5LHgx314FPRPgxRSfL5Rkge5b4%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",A quién te llevarías a una isla desierta? (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=xfgFrT2%2B%2FJmtUu8f15Z6XA0sFQmjd%2FLIuMkPITEotg3BLTxaauaw8UhZtSJsIgJPF2pmAX%2BSN7eqSBNS8aPJ4r8vFQQRAOsUcpxDYeV8Fsozz2bzxDZZokvE7jy7EcjRk%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Fast 2 Furious (2003)
-https://gdrivecdn.us/drive/index.php?id=DVumLuNwz%2FHpS32t7o3Q5Q1Ah9bwXt0ifo1J1i0lsNw%2BCYxzhSB9OXFUEnhpITmPFq5OMN8MlnO2B5Hb6gVB4xcOiA%2FYeEH9%2BKqyPmn4TGBUnfBEEKnzeVNq5VeYR%2BrnA%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",2012 (2009)
-https://cdn.apidev.icu/drive/index.php?id=aybi5fawncce%2BgSWvjcF0QQjfCf2Og%2B%2F3FOF1iSuzcJuw6BjTH4WSHFgSXDO3oR2pHGInK4Ef0JkzZX2OikBt2Fkhqi0cRt9kmE2pgklQGJ3vHc5CAW5gAMq1X%2Bl0B6N4%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",28 Weeks Later (2007)
-https://gdrivecdn.us/drive/index.php?id=Nar29JneOmIifUUnYUB6AAtDgnJ2a8h6%2FhmWdxAy9baQZ4%2BQgWi8HD2YKNhZlh4mvWPC1T%2BUJmXJhWaPezU4TVgqeP0%2BHNQnQ0lbaWMpOEG4NsCXE2GwoQjJyHLX63QjE%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",A Quiet Place (2018)
-https://gdrivecdn.us/drive/index.php?id=vHyschbb4BImC7lD3gDzHA04vNwYWUw8CNscxlTRfO1P61f18eu%2FZNYLMy%2FVf48V1%2FGRWFy41DPEI9YOcjI6%2B1pfyTcm2IrKEgooqnsN3ZB%2FLHrudd8obMqe%2Fdqy9ieYs%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",A Star Is Born (2018)
-https://gdrivecdn.us/drive/index.php?id=d7EXgxOphdhGjM7X2VdyEArNc0vtwZuHrcgtbfe%2FGKq8XNNdp0yUcLN65Y%2BigiDFiyret9ctfpZQwxdGGBfUvqRVqPHTXRdvCWZNiwBIG5lBSoJo3gdV6rnqf5ua5oMt4%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",A Vigilante (2019)
-https://gdrivecdn.us/drive/index.php?id=L74ifedahe35E5xOYtGr6wInyQiyCAPlwAfLTj07h8g7gCE4kD59zAnWzA6SXDil0xJK8cnl7DB4pi5LiUm0uuVJBsRahHsp9P3Vqlr6xFiyzDZCw1IUVlrUaOCRzFhyY%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Adanga Maru (2018)
-https://cdn.apidev.icu/drive/index.php?id=JxPa8xo%2FE6pxZdc01hEtUwRgGVqwUcM3emdxglAuqzNLudrOCN8nGbeAU9F51B0kblgluDqdrr9sKVXvRXg4bQoDe%2BZ3EshhUzC1CIx2EwcW8dgq%2FP8Yo2EoG3iaIPGJA%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Agatha And The Truth Of Murder (2018)
-https://gdrivecdn.us/drive/index.php?id=P8Qa3NQvkzWJDKJcL2LngwFAo7lbitLVf2fiPfL8ccT9h4Yub%2FPrBROZooH%2FUTovGdgMIufH9ND75skS0sXCYQqncHG0nifwyvATv2e93%2BOt0BB9YClsgEblGlGWAOc%2F4%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Alita: Battle Angel (2019)
-https://gdrivecdn.us/drive/index.php?id=2eXWWXeYDR18giuZRvC16wt6hLz8zrezibehYb4BQ%2FDcGHLUDqcNH3JMLY%2BHE9rRjD2FjtUg%2BoG7ikEPesIVXavDTi8GjQ8ksZML3z01qur7dwCYpSUOPkXJJHy55vk5Y%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",All Creatures Here Below (2018)
-https://cdn.clonefile.icu/drive/index.php?id=bPtDxWTDrAsIZ8QcyeHGJAX0JU78HdD9omcHC%2Fsp%2FCrukyFwkJAe97alt7rpGaGTDdGM23CkoApy1Gzz6pV5hokjiGQ0nrpIefyDrPn6wjPm2WG4KBEZHtg5%2F%2BHe3gm4E%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Alpha (2018)
-https://gdrivecdn.us/drive/index.php?id=tq8aDYIJFlxdnlxCFwcVTwcs03CUZTUjZxVNN6EgxSqoWoSPTzjqOZtxxJevAOrqTjdJtTDzWU64tpgOThFmkLLGZyFk%2BlYevGehV6dBO6izAvunjmmSuua%2BQ6EBV9Ip0%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",American Assassin (2017)
-https://gdrivecdn.us/drive/index.php?id=qF2M%2BS8%2FoOFAZ4IhvcPc8gY9%2Fv%2BIaxlR5vT3Sesp2FEeApyw5Fle%2FlbB47kdR04QLqWU7y8tl0X83snsjkK1%2FHGaDf0UDT0GS3b6NfFDhrkHP%2BgoP8FBaAkcMqV4RaqdQ%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Annabelle: Creation (2017)
-https://gdrivecdn.us/drive/index.php?id=KgScgSBY5Xp9Kt30WM8o8QszGau65f7X1W4elO3XAeVEVbs6j7b6hH4nPe8eEzZLag4S2JR4FZcbKBnvaoyM%2B7hwCtfsiYMOIfO1KVJOYZh9DIJBA%2F9uBGp66sCbF3l%2B0%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Aquaman (2018)
-https://gdrivecdn.us/drive/index.php?id=Bai0xmrT4PkuL0cRZ69eIAeFG3BggurAXcPIhJi59V2FLboQWerOtPxS14i%2Fa7pT8TRdCPs59Kf9sBDRJwhFLh5IaMnNnWp5TgcZOH8EgPAtUaiUYU%2BzMaSRbAzdkJFR0%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Arctic (2018)
-https://cdn.cloneapi.icu/drive/index.php?id=ASUrvwAKLYUjXj8CWK7gIwDL95%2B9A42da28ifvH2wPSz8CRmPEbEU6smaPYEFKFs4qPANXa%2FfPks8xnLpjLIrfERmsLLs%2Fof5uDDCnwWl%2FiGuBD%2BKQVmr8ZFrlwPqKipM%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Asterix: The Secret of the Magic Potion (2018)
-https://cdn.clonefile.icu/drive/index.php?id=41IpLKLI0NntH%2FJngglgMApGgMjmgZzjpUcCRuyBP5noKWK4V8MO%2FteNVF49vg34IKWy02snXkeSKRobIbK3XTjXZdhGIZ%2BB%2BywV5gUyqo7P0anLUitmN%2FEZ161D8gJkg%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Atomic Blonde (2017)
-https://gdrivecdn.us/drive/index.php?id=p8zAuL3pKJyuYgLDNUxbrA3dqigxiH5ob%2FM3vpUFkBda%2FF9iX2dMTdnk%2BjmYasTc9hCGZJFwiWMxUUIw3DF%2FZz7gycoL4Lj0JoZVLGkaE7P%2B65EOZm0p%2BlEXVm0LV5dlE%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Avengers (2012)
-https://gdrivecdn.us/drive/index.php?id=hv7wEnwKanRAKei2pOVObQ79ITO4s9no%2Buu6Fm8E3B%2B%2Fnho8SKgkKPCoi972EBFu1giHLnO%2FWMBTXI7U93tLmzpl4eyhHwb3S7QrSUPV9ASQgJ5o9Iilv4aH3%2FyUgiuYw%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Avengers: Age of Ultron (2015)
-https://gdrivecdn.us/drive/index.php?id=H242fBy5mk99tPHqNMBGvw2mJwlH4c%2BGwKWpuEhYqftpXftqLExLXmlfLGW3I0txx4YQBiUc%2B1wCgTcG2aJkiHcjj72tXstlkZgSscd2VixNzLFmtONtGTzbAHhavsWgo%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Avengers: Infinity War (2018)
-https://gdrivecdn.us/drive/index.php?id=sW%2FAj5u66rDU%2FnP6P9Fmsgw3M3ST17nHKHmAfI0krO7kmJ23iTt%2B%2Fk%2BDMudhBsFmmpAh83XCuWSuBOhd1WwokcVBNFH%2F8TLVGyfNI812rCZVZgF92iX%2FfvdBtYb8HvKX8%3D&ref=&res=720
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/RhVVVyLY/lk21-SUBINDO.png" group-title="VOD MOVIES",American Made (2017)
-https://gdrivecdn.us/drive/index.php?id=DAFnEqMMx9lxDHk4%2Bl1y6QxA2%2B7%2BnIlT12vBXqgU1kS7%2F%2FkzOTcbhVusUTUcfjmc%2FIbOvb62IJzqJkPIATOycYrSm%2BC9xEAExobmWb9HiuNnV6D6jD1DYv%2Bc%2BWoOVKmXI%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Baby Driver (2017)
-https://cdn.apidev.icu/drive/index.php?id=5CiVoNnXFrQcswtBl0ZruQSJcEHiZK%2F376m%2BvbqOJr%2BQvPXCVF7r8N%2FouEB%2Bt%2BALT2e1e24zwIoyKAUnEz0Qo08I6esIHl9UeVXpdPkYwUqbP%2Fqc0bJ4%2Fsi%2BCM%2FzpYCKQ%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Bad Police (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=mcY7Q8YG7ZW7TJpU8YF9Gw%2BnWDE0VXuNGCzw%2Fq9aKcX3FqSOghO3O0TLN4VNbjg90HQ%2FG5GC%2FCrPJvA%2FB%2Beu7fP2vDSXSmTwnjpsU0fKm0qOPy%2FhxqAMBrsM3bJ2Iw%2BZg%3D&ref=&res=720
-##EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Balkan Line (2019)
-https://cdn.clonefile.icu/drive/index.php?id=gC0aulujsZZ9Um3zC8M5Cg67%2FcNJkbdg2ttgjlh1qRhrbPzbc033ecYxKqVXTVasAVzV6OqqW%2BPGn%2F2MjvnKy%2Fe2SD1LFZ11Xcyr%2FoV%2FHm61HtfZSBvWwJ5lGNedKcm9k%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Belok Kanan Barcelona (2018)
-https://gdrivecdn.us/drive/index.php?id=ErhUauo0y%2FOEIkWyfmqREAynxttw35TzD6ZlH7mgDBqBAl2ct%2ByrWxK9Ed3bCf66f8v4WnT%2BAsN2%2FELEkKRvBpXTWR3X%2BBu755r%2B5ZxIlwsm1XW2HP3p6A5HbJeuaPuJk%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Big Miracle (2012)
-https://gdrivecdn.us/drive/index.php?id=yiff1NnsIObdQXzaMRAu2wYNiOOllJ%2B%2FmhREcDio0dRhOz57lFAG6mtjYm9ymLAv%2FmgYI9HNRz%2B1cbBKqwxM9qYL4%2BwbRByoScgogUTBjJfA%3D%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Black Panther (2018)
-https://gdrivecdn.us/drive/index.php?id=up6Mm8fMBkgPh3Lf8WAOLANST0G6F%2FNynJRnlnuKScPBara8wzMhYyqxjs9RFZHW%2BHCoG6xyMUAZLnSX4uof%2BhEQKMlXAXAlaQtUJGhdr%2F6iceCa%2BQ2VR5tjuhAV7q1bM%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Blade Runner 2049 (2017)
-https://gdrivecdn.us/drive/index.php?id=lY5yaLHHyuuqs6OF%2BZ4r6gQM4k3PhcrEcKxcEaCbIGm%2BckQgCJVJvt4FBu3EbYK2wga46KK352wbbd840nAJRTXGaYmbxFspKCcNAz%2BPXgg5uvu9eyzIjIAx5jartsY6Q%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Bleeding Steel (2018)
-https://gdrivecdn.us/drive/index.php?id=QMNaNJjH8RU9GhVp%2Bg1IKwagK7v6qexc7XwXSZgcxF2JHqnlfxIrpBIJQ6OQd92iPsvHgJQmndBnPmXOGU6hfKtlhAmFTprug%2BChQkkhwOIJkTrTUdVlA4YbMI8zlHZ%2BU%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Body at Brighton Rock (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=RvUzfwsrkgrQVKnnJLtqpgHRnQS55%2F0meh8pq0AkIIW8NRnN72XiMXhEaFYMf9fJ9YKDg3r56TGiGj22A8hODxwg32Pjx3WSNnK8qvv7ThKOZ7S%2F6nDRp5s0yGcVgsPdA%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Bohemian Rhapsody (2018)
-https://gdrivecdn.us/drive/index.php?id=1RZWLN%2FA1SkW5senI3AHZA8D2Q5cEAWauTxcK7yDU2p3XoAW1pboSnokYb58qIckbrHtwm5%2BTLh7G%2F3C%2BHvmtEIRgBMrhyX5ANlVp91oya5wHI6DNPl8iIDANtc6LvNvQ%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Bright (2017)
-https://gdrivecdn.us/drive/index.php?id=GcnGSVN5PNRfHzwhMZwWQwtpKvCSYnnjytC4nT0liHyIGJ1y4Ti0NzVC8GPKFdWneQ9fgmnlHEj%2BTWstAQzKyiAGOHgsQ8SltZR5CZVIlPqc%2BgZ1EGmG7qBgT%2BL8v%2BrsM%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Buffalo Boys (2018)
-https://gdrivecdn.us/drive/index.php?id=tus%2FUzbybnfDii0VIgX0TgBUgVVC2SSwVMqTwpIUBCWacxqwdtjgd9LHsmjn7LWooi3FBhl8EqMgfPkSJBLAPDUODO6ew0FziXxuvVYP2I2Z1oXLrQ9Ncp2D5S%2Fpzme2k%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Bumblebee (2018)
-https://gdrivecdn.us/drive/index.php?id=nmnCYo4Li%2FhfstE5YLP2ewjGWUZhyCd2k94p%2BvSE7%2BhUv0Hm%2FIPAclwSHB40%2BQ9pZ5s%2Bs1DV7w3KgNvUkF4x0kNocEOBpxRZBOv0nOVv3TTdFsc3AhT2rFaKnWcTnlAG8%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Camp X-Ray (2014)
-https://gdrivecdn.us/drive/index.php?id=F27Jlq66Bjeu4E47lVAHlg%2FCkpxc%2BPGRHfEZBZTeOeL0wKzlwC3mvFpDYrhTwZV%2BOGKNyayywCr2HZc6co3EIWE%2F7eP3wSzepoQyreQ%2FRpPW4GSt13li9xtoh2ial1rvw%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Can You Ever Forgive Me? (2018)
-https://gdrivecdn.us/drive/index.php?id=YPJiywUQvXspZzeIHy1BAAZmprFXtHaqkKs7cWP1LLTc9hDbTx0CppdRPsn%2BkcCMVhsuM%2FzL%2BBPTY6SthLwx53MqbcaPDOZ2T3Lm5NrAilVQ%2FcA4kbUK1S4UZ6BOKhXMU%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Captain America: Civil War (2016)
-https://gdrivecdn.us/drive/index.php?id=vC6hyf4IYZzKcb%2FBFHfcgQPWCZAKj1zujAGCNnV4w13VZQ6tZXHFPJizqZJWbF5HcXd%2Fid9YSFt1n5FW%2ByzzYCjyVrR6eYuapJ2MnFrOKPdV9o7%2F9NbZJFY1BCt2SgaKo%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Captain America: The First Avenger (2011)
-https://gdrivecdn.us/drive/index.php?id=wzk0ziCL66mc3CxnihvAgQyeMMC%2BYz2GUTCr%2BfgAFeflveKMbawnwBB89p%2FtIKoGukbFyyYj3Q9dyLsHIxs4SMX1pAW%2B0Y7LeId9TqG6ZgLkmkmepsxfmJWy0CgtEWWxw%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Captain America: The Winter Soldier (2014)
-https://gdrivecdn.us/drive/index.php?id=3mkmcKUL%2FnBW89Eb7Lvp3ATPj783Xu8mkZ8FFaGakfNYIZ6EWu6vJmFV7%2FovWdZIpEpsXFCNDHnViL4lPtS3R0WvcrZvSpkMG6NwM6yT%2FFfLQpWU2Nbd61cSelN8BW5Qw%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Captain Marvel (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=JJaVYt%2F5kgx%2BEH%2BPcBuoagcDChiFjGGjSTJOuaek2EKCabkuYBaunWVFGBftJyVb0n%2BinJRMb98UZMpssPqhCmRq14Q76MSZNh5SYsDa6g6uheZ7otXNXCtToGhlEeam8%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Captive State (2019)
-https://cdn.clonefile.icu/drive/index.php?id=yhoaj%2F6%2FSOEs%2FdJSRXbtYAVsj8t3MJBajUHW0YvvGGW6KtS9AKrbiDIS0ASHkgl8nhCq9uZ%2BudMidHP73eWMpSuF9zqhliPFFMCgRS%2B9oi2qmNm%2BkE0VNPj1WHo3e7sTg%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Cars 3 (2017)
-https://gdrivecdn.us/drive/index.php?id=frBARY88h%2FZ3ZtxaehJOJQmtS6TtGCjwjEV74qTB3KgsvXMqM0%2B0XRzUkY%2FEIbGmGtBS3UJJXNMrvbQR0OZosDcyi8XJdANk%2FKBExy%2BJowwb3sKVjZPreKJT822SmBHLk%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Certified Copy (2010)
-https://gdrivecdn.us/drive/index.php?id=JHDTzNVRpZXgj%2FII%2BsNvlQViH2MdiO15L6yCocEkR0x1en7QsRIGAo8C0vMlsSC1Zraoypgl%2BCTcAzy7or33C%2F4KhYAPmOKzNM4Cni67jPzWFduqGMsBm%2FudNKUOd6qGY%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Checkered Ninja (2018)
-https://cdn.cloneapi.icu/drive/index.php?id=QjDP9%2FKQCOP3QThYZX0mrAL1LpLYw84nC6lYVrK4RrQV3ibiImZatZD7aPVqmzxJBHTCftJK2bWu14oy5vpsQKd3YtWLW04DyJ4Uwvb%2FTYJbTNbp3DeV8aSxoTGUNtN6k%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Chronicle (2012)
-https://gdrivecdn.us/drive/index.php?id=jrZHE0Zs1HYv6ejfkpTwcgRpsrasRdwTbUojcL7jy9kqf05RCaHqtQ1Izes70wYdWZQe5HdzWukm6xWxlG9BK4ClTWkzikO12v550h6cHjBs08uPUcGzTISpZKUvWBDPY%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Coco (2017)
-https://gdrivecdn.us/drive/index.php?id=gC3axcWr1JqxTYH3oesMCAB%2B65QnHZi1IawUjkAMicmgEhCquvP1s%2BDRufOXMjUxhJF1LEqZ4bOOiVOq2Xdteiai%2B5AKqcFXfIPTVfXG0fX7vPlR79qTKE%2FZkEIdJ5kr4%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Cold Pursuit (2019)
-https://cdn.apidev.icu/drive/index.php?id=CT%2FVQZeVCSIlIVet931%2FDQy8d5pQFjB0uX0cNBTKpuXDqgkzL6A6%2Bv9WcnAeHwYr1tUGW9nxLjGXLildjfTKCWf4E8SlUwtGisC1Ou%2FlaUfHX1RraUmFet3K6bQ67W3Ls%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Concussion (2015)
-https://gdrivecdn.us/drive/index.php?id=2DFRy69kszDqy4qMxdgBjgzTquycT%2BrgPQq596k3U59vBsDufZn9Ct6%2BhVFYr3G3TlD2Gyb8nF%2FzlWP8yrOT1SvSM4QLEzW5RDXG5apsUrr2NoLH2bEhYm6njItUEB1cw%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Crazy Rich Asians (2018)
-https://cdn.clonefile.icu/drive/index.php?id=d%2BKgBkVUPKG12QkJt9ViLw1YtEQPoQhZYq3PTDP5F847bZ8KolyHJY6jtFY9yclOBnGAgvDg3Juusi5K5XIAOg0UHXcnKxyjpHcNl637e6E3XuEvU4zIuekUPNkskM2Yg%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Crypto (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=w168gwKRMPV%2F9s4SJTVdGgqQqFU8flXy800BIRKnj0Hp0IqfHJgPf0ZhQaSWDs247h%2BuKn4lO1WB0RQrvlEBiL0NwmZyoPPDQT8mxEybP3iTsc6P6504T919sKOxs%2BFHI%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Danur 2: Maddah (2018)
-https://gdrivecdn.us/drive/index.php?id=yznYcTt8Xk54%2Bv4mZqdbEghT7qH1SKjov71yLHJX1LIPE77PYeEgWfzrFmu9DLsvrsW1sv3hM8vmXHRB9dLBu15BC7Gs%2F6hyjWhWY7U8wFUoz24e5u5gR9FyzO%2FNd20oo%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Darc (2018)
-https://gdrivecdn.us/drive/index.php?id=ZFq4cY0f8ch04q3jpmEACgixKZ6BZSqPbGhNPqK7vuiMwh4nRisjO8fBwNjJPMYItPM47fCHJPB1ayOAWLLoT9W1FpcVnQSMOa2Cn0LOXltzcUj8IMkKmzL9XwI3nODRM%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Deadpool (2016)
-https://cdn.apidev.icu/drive/index.php?id=Hpy4anUnObKaNbotlotXBAzVIhYmtYe0VBN7%2FVxt5Kr0pdxkZyxCfaduZui02%2F3Ns%2BMSc1guSKynTpJhIiibOBSU9a7QoJMzIEpynM01usDIfR4HeNE1XBlT3LpkfnB8w%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Deadpool 2 (2018)
-https://gdrivecdn.us/drive/index.php?id=%2B4Y3rYLlzU64ZIyKSX0S%2FguCIe6TEvGV%2F9m1BR3WT%2FEMwq%2BjmaDktx05AF42DEY2Zq1mRspYPHE9sXjiIJd%2Fsxa24Wdfxe4NhY%2FsIRPJlUkB9cc%2FKF6ASQrh5RCCDFbyY%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Dear Nathan: Hello Salma
-https://gdrivecdn.us/drive/index.php?id=ezuGFuhAh6slWzD3AnDAbwJswK02KnAPKxG0VKxnIQJlm1WxlDiS0zxqJnrfud%2BATEQQNkXr0MJab3q2LaAQ0EirlnmYUWY%2BgaO9b%2B03e7VD5%2FI9Z25O8h91NtFo0dN4E%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Deadwood The Movie (2019)
-https://cdn.clonefile.icu/drive/index.php?id=rm8RSQpEMrRuEPhvxiOghgvZUeVQQfskVd%2B1UErD7kBK6qpkdTollMTd2ruuEfmqsX0RR4qJ0mr4%2BXCd7635uycMawrJDZRNJ31RFEBrJ%2FV5qqrGevcH3hU6gSgrvcZuY%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Death Race: Beyond Anarchy (2018)
-https://gdrivecdn.us/drive/index.php?id=ReM94Iuve6%2Bgu6eDmsO09Q9tmtJIs095TxLNjKRp%2FJ6uKMSflu42sIqAZ1YF14w3adm4JX5Lk3pMueWKT3NLONr1LYxia8421CMSQSKkwmZlwLZ1mSm9H7IJ6akAisgsM%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Death Wish (2018)
-https://gdrivecdn.us/drive/index.php?id=9Nbn%2FgVbf82JLOzOJf0g%2BAFF9puUZYgbSVXzt1u4jp8o4BuJ8%2Fjl3TTBO4kxoRlwu59quxTaj1Ta4rKl8FPV9qE8DYw5vPtv0KaqGOoRTom6qaFlza8oa77LfvnWsdhTw%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Default (2018)
-https://gdrivecdn.us/drive/index.php?id=Z8202LI2VF956VXlHMe%2B5wD%2F7GgQCPHnVfCKFV1pJKAHFkBafslc4GLErmGQttS2GrsgaStIMX740M7gC8jDEtwYUdsNE%2FlWL1%2Fa30zqnB%2BQxXzDxZ6H36mKFz6dyrlGI%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Despite Everything (2019)
-https://cdn.apidev.icu/drive/index.php?id=BgskYGXOOy3ldrV95L1pmgJlBtYsH2YW0jiHYBi1JJg8TopIuzsyKdj5GM%2F5JqJDBM0WiHQGOazZQj7EEmbdvC8dL35WYnXn6B6bMvNNNzT8Zkp8Le9YizuKhKvZvsfZ0%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Destination Wedding (2018)
-https://gdrivecdn.us/drive/index.php?id=QQP99bk6BqiQF%2FZtEvHBbA%2BIiUyZAzWhcvybMfw82gPqLv7IwjTc4bQ4hC6smG8wLfbCNuJWBkxoPa2EfN2cQJddTmu6sV6YTbthPYRz34fmKLij22i0r8Wlbm5MTT9ks%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Doctor Strange (2016)
-https://cdn.apidev.icu/drive/index.php?id=Pyx2L84UpALO9vEkdKlUnwZt1fYR5iDd4UnGVkRBxsmAGL2yqfj9vC7%2Fk%2BacBKbvB%2FNxqszWN9YyJEreTtfX%2BX7I8J2tq71DyEBowY%2BEwTld3wp37u46f7ZzNUCA0ydxY%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Dolphin Kick (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=hMMOW2vJGHEbKcUg4b9TygaT5VXW%2F%2B4blaqU%2F6RKAxzqv8vkmkkRA1wnmiXHi2UVgyOxwxqro6Ay4czuxI4SHjQ1qbq1st8uIJO8s5Ao2tLP9BbBbCkqW4GBWvYM7RZpY%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Don (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=agK6HDVnrHS7OXbM5JbwHQBnEajbOHut0ab1f4sEEi7fXOf0rRhE0wYKxztbYcETRJixddv4JMUqG7q4GY6k4m5NP%2B7m63x2CrERZf1FpxC9l6YSAzkphUNN%2F7hzXVsG8%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Don’t Worry- He Won’t Get Far on Foot (2018)
-https://cdn.clonefile.icu/drive/index.php?id=xb7ulntrNBVzk870DcWLzQbH%2B%2BEkNSrjUCCOrHo%2BoS5fdldXk00h9DfNYnBHwAfuLNN67dXeDPpJepvtnWHmpzfHg54zhMn8xdkQr9S8BZfZweaW76iZSWlKe2R0XXObo%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Doraemon the Movie: Nobita’s Treasure Island (2018)
-https://gdrivecdn.us/drive/index.php?id=5C9RZekKKiVJcMEFp7aKqQeHg2YB4uvzeipHtjti0TgWeeZgLiOCwQSEzUrPJCi%2FL48yC53CfVqWgCnsHNYTvjbILEA1SB290mvNbU%2BB5jAw6kQWQYmTCchdXKJSJTfQ4%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Dragged Across Concrete (2019)
-https://gdrivecdn.us/drive/index.php?id=HTkzyBZE%2B%2FX3ItWdB19V8A7utncm4RBkGFKvP7QmgAeps43nvPEN2u%2BZ2qIYMFEPnJ4QiC%2BaxQXoasLXKU6DVE%2Fq9HesJAYtiDIQ2pkawjywHum%2FGXrLIB3o0weBgOg2Q%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Iron Crown (2019) Sub Indo
-https://cdn.apidev.icu/drive/index.php?id=lyvXsT4dhGjlQYEbFoNz6QjxbUv4%2BseZCbfAtBDByKAOyFArOyMJl1WmCPLPc4pKXdTTZdKYjGLeTThTO3gILCMm2Bif20koc%2FirupheZSC3KV%2F3b8cmIqZa%2FMawLnDxn0ah8D2Ud%2FGBO%2FIZkBnkcPuF0GOTG9XVnUn7QHoWkmRlytjw1aMZs0O9EDe7BXOzTxKD6TtfnzqbLxT7LVO89W&ref=https%3A%2F%2Fbos21.bid%2Fmythica-the-iron-crown%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",AQUAMAN {Sub Indo}
-https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",VENOM 
-https://cdn.apidev.icu/drive/index.php?id=6enNzUc8IZpfvBxOHbjWigzGmohBAvI5u32aELfOwbDcRWmqu7kAxabqUk2aHOq9oZsUJ7UG2Ztr5d3fTdk1s4w293GXnPITRkrCYg2gIopeOhp1jrvr3NMKFJqERaGGCYCwam1wB%2B04l1NHmj5oN3pKC2tChel%2BkYS8K6pN8yoMkrVQdnp%2FAjjBwhuA46rts%3D&ref=https%3A%2F%2Fbos21.bid%2Fvenom%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",BUMBLEBEE {Sub Indo}
-https://cdn.clonefile.icu/drive/index.php?id=njIdTwPLly%2FGjaLEgTKTpgNbLgICupPymtQTSRq6%2BsVYlubYvHYenMAAC275He1CkLQuKTXpGeI7nFJ4HqHjTlskmu%2FJ61RbJJSICie%2F%2FX82KZ%2FCXeZ9gWUrhwBAG2MBPJkKjZp8qHusojUxAiUq%2FG2T5lMZYQgFukHWPlzIXik29rev1%2FBP53s9lEQMvUsYA%3D&ref=https%3A%2F%2Fbos21.bid%2Fbumblebee%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The NuN (Sub Indo)
-https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Cabin (Sub Indo)
-https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Tumbbad (Sub Indo)
-https://cdn.clonefile.icu/drive/index.php?id=DOLi0B%2FzoQd50xfwtPdXPQNqO4qgzJpmCYFNzcnq0RtTeLauTaWVbSlOm6sCCvB9FwwOhTvLqBqMnJHLC44NPR%2FZDFSKVSjz7W0GaRxid9%2FLgbBs7uBaCA%2Buwi2%2Fbblhb%2Fs60O5wuE0oN%2ByZHW6T5YFOv%2BtM6jq6ounetjRlwI8UywpcPRAcRkvAhDSKHLIco%3D&ref=https%3A%2F%2Fbos21.bid%2Ftumbbad%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Scarecrow's Revenge (Sub Indo)
-https://cdn.clonefile.icu/drive/index.php?id=O1%2B4fmFLZJdiAtVhLn0rLgBuzsZJLYINP8SjXaGamR2TShBiwjiHf8uJ44s6Yh8B1IyIftca3y7DS%2FXVGfJmytlqDT7ioPKn9k9fzuMsGE3Wl%2FICHUreurw5hh1q5AkZFaff8ChsZ4alRObHIiYd5ZNGQPNPXcTG9t92MsqkF18RfX0FrymdYBI5e7PSpg%2Bf3M30tDCNkDcUPsjAvh4jEt&ref=https%3A%2F%2Fbos21.bid%2Fscarecrows-revenge%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Wispering (Sub Indo) 
-https://cdn.clonefile.icu/drive/index.php?id=llg0kIAQCI8hxyhx9vq2sg1BywbpfC17Vg8yJPGwKBl35u9q3eiqDfqZ7pndSZ5W2UXFk6OqN3Vhg5rmEtHjTUP7gUwaPK%2Fg1Sx1zvp%2BkNtsHLeUkuisYKRl%2BLqx4NiJtD%2FoN72VssNkQZ22awKwVjKLizWAIIIKJXKnK5ZyjOvjwsmbVCSgstk2Upw1YhKDQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-whispering%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",THE NIGHT COMES FOR US {Sub Indo}
-https://cdn.clonefile.icu/drive/index.php?id=4ssY7pVus%2FZYkeuu0Qn1Ug7MlzglwxgrYtoWyJi5jM%2FcXQ0K3IBZx2uhttJoxNCXdeX4XvMNwp9b2Opn3tvBKMrkGrDbIDKVxTR8OGcuQZAmvD8g90o1n92YGNA9kPu0bIjeQchmgnyEyYw5A7pqS8L5s%2Fsi3O2y4DIjEmCl3ecsBYK%2BPf22xskH3UqJFtgdA%3D&ref=https%3A%2F%2Fbos21.bid%2Fas-night-comes%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Doll (2018) Sub indo
-https://cdn.apidev.icu/drive/index.php?id=7ZztOZg3nhfVUO7IJ7wv%2FATajoaq2Rja3RuXZ6tCne37cP0nbKrRw06qZLVUvpIsHBxKJdhu%2BAlhxUzffOct9jj3VG2nxdlc5RH94Ftfh9nt5EtqQca6D2F4aj5stvTmoqnPsBAkvGGGTAx0zxC2QvNbjIt%2BQrZqQ7bGcp2LTowXSOPKswtF6u1HQEIfsPZno%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-doll-1%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Doll 2 (2019)
-https://cdn.apidev.icu/drive/index.php?id=5OMEtKxtQJ8ux9aJpERMOwQ7paIYjC8bRwrjzFm0yECXbv1IgEI2hc%2BlHHc6yIP9gVKvJuYs%2Fbv0bKid%2F5en9DP7pX8rUKKnEv%2BDOscJ1wy98Jo58rG7G2QJJoHllCGK%2FUiojLPzqvCiL56527pvzTk6TItGRi4J8My4ztWMEc2ek%2B%2FVvXm1bPB8rS2pq192c%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-doll-2%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Perjanjian Dengan Iblis (2019) 
-https://cdn.apidev.icu/drive/index.php?id=vrcmevtgIywLTqsvNFZRwwWZYIP%2Frx0iwo%2F%2Fu%2BEK5Aygy%2FuGCueTc69aGP5hYLKLP%2FOMf6CqKcX40iUQS%2BMdbMrTvF%2BNMM395CJ9yeFObzl16GZbxXdSTr40glDKtADF0fsuJo%2Bf0lun0Y%2FmhClUmKvLAmVhkiXAVjhZt4tArBJQ0mGcLAhtliXCPWN8gMXz1CMGyTgdayspT90OvjEFMp&ref=https%3A%2F%2Fbos21.bid%2Fperjanjian-dengan-iblis%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",TABU : MENGUSIK GERBANG IBLIS (2019)
-https://cdn.apidev.icu/drive/index.php?id=Aoh6pdASNtWPRwx4tbR%2FTw2e4kOdabQbvAxIGJAIFWERe4aNWPzCtjm6b9bDGwu%2F8b44DFstxT4Dq1itQQvWOscY6%2FWkGk8WUQeGlsUpB1ib0CX2eCJEr619c6mshkJv51OSaK0zygq3Gl%2FVSgT0UmZRctq0pbNhigQUjI59CtJP5BdvczIDNKTcnu1FHnzro9QpzvIMZypZ70c39Ar5Nh&ref=https%3A%2F%2Fbos21.bid%2Ftabu-mengusik-gerbang-iblis%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Dreadout (2019)
-https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",SATU SURO
-https://cdn.apidev.icu/drive/index.php?id=8gAu2PwGQwNPo5oy4U51XQ5VGhTahPZCxCiEnFu4M1E6saqJkny%2F4yeNeqRk7yL0ZkGWQ%2F6nVHEF21XSR8LSPiJ1gCneJPuK8X5iQXC0TrDwrJ1eGvGZe4WIKYQdhNMmsslixb3YOB%2FDOwaNgtTiW%2BP%2FBLHB%2FcJqI2Z3JlB5zgS5FbqhomMYdrqF%2BqB3CMGfY%3D&ref=https%3A%2F%2Fbos21.bid%2Fsatu-suro%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Suzanna: Bernafas Dalam Kubur 
-https://cdn.cloneapi.icu/drive/index.php?id=jCNMXUqGI5sc7uBEeXHV8wdZluqzTQGNFsydbyOoHysvMdL1uMg4buFb1BZApESg%2Bh4oL%2BKOPCCd800YyDCi5dWfOJzyVKYpIkXGxOfhlJmLV%2FjFyZYS%2BlULO3HgKlj%2FJBQIIzEzW3IVCBrcSm%2FDVaz5vf7925ZZ%2BDZXrT3BrHo%2B0J7dO7jijCTEAvfWhbIzU4QD3bE%2FG1iVfGtbPB6TyR&ref=https%3A%2F%2Fbos21.bid%2Fsuzzanna-bernapas-dalam-kubur%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Tusuk Jelangkung
-https://cdn.apidev.icu/drive/index.php?id=PbYxpduDge%2BTF4V2h%2F3l%2BQ8eyoTRNg8U1rHySiyTvO7ivrS1X4EJlnX75guPZSPxbhUlNK4%2Bef%2FMJ3Z8wx2w5IDYLB6jWGOyeS3MdoSXBG%2BwTBVe3usVgCeT9PoahDDslm8TzOyaWdnV6zxLsfv%2Fl0HpJ8vhR4Y3uhyWgPMtV0KWNh1nwKudorCSGfh8xUh6rGPupb8GQMnB4KJmKQnHgT&ref=https%3A%2F%2Fbos21.bid%2Ftusuk-jelangkung%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Kalung Jelangkung
-https://cdn.clonefile.icu/drive/index.php?id=ENZ86kFYtD42CeCfOr%2BcSgpRONv9iWz2Ez7jzVNxePKGo%2BeNVGNuO0P1D%2BmhwsTf37E4WFQwYvMZpak7iGFoYs6ujw2aXQMhTMptrDOWkwhf%2FHSo0x0FVOhzf4J1%2FODQK5QZhbq2z%2BwQkrIVV2GZUY45WX%2F8kA8YIUcUfVcdwUR1aGPO8x49g0lDUC9vRuigbbqRxGmac8XUuZcGVApP3n&ref=https%3A%2F%2Fbos21.bid%2Fkalung-jelangkung%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",MATA BATIN 2 (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=WEFxKcEL4fg%2BbUAFtOwXDg2rgOa9jxXLgYvPRuIuRaumeDZJOxZRkiFB4RPLpMXZrAsuvsN13xwv4kH%2Be34UiabYNRueZaULKRWEazun4RPBLEnYYBxScTsqEa1RHCYPhO%2Bofu%2BHvu%2FTst4A%2FuxKrvKajjca2bP9ItoI15ii6c8Iwj%2Bozm2lj0sr48v2C5juI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-3rd-eye-2%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",DANUR
-https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",DANUR 2
-https://cdn.apidev.icu/drive/index.php?id=ZeCY2fIn9COiecFNbPy%2BlAw%2BrhP0EgIhhOmXS6W8pUlicAGnOnEAEzHePpSEBnEkS%2B05C4o9zkeQg4FmhlutYd1j0bhFV0XFVGHBXYJXWPeKuAZf0NdqFJ0slErgadJFCK5tdvgdj56vmS69iwKdo9uvSh2Hgrnek5qS8%2FW%2Be8HP5%2BI7m9f9su85oWu3Q3n%2BQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fdanur-2-maddah%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",ENGABDI SETAN
-https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",MUNAFIK {Sub Indo}
-https://cdn.apidev.icu/drive/index.php?id=tUO87cKoBABkZgpakP7W%2BgQsQKer92Sm%2FRdxQ2dwvOH78CNfLbIYQZ7yyya69Dixbo6rzu1tslwkq4JJ35aF5CsI2%2FLsd0zPL8%2FF6kDGaeFNyUWReG1P0JZAM4rhrOBTIy8K1S%2BRkCwWV8zCK%2FdCGmI59IPRwXSwjOKf6cjY8ljo%2BL0arIQeANeY2%2B3OIq1RA%3D&ref=https%3A%2F%2Fbos21.bid%2Fmunafik%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Ayat Ayat Cinta
-https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Ayat Ayat Cinta 2
-https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Si Doel The Movie
-https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Galih & Ratna
-https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Soekarno: Indonesia Merdeka
-https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Habibie & Ainun
-https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
-
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",SKYSCRAPER {Sub Indo}
-https://www.googleapis.com/drive/v3/files/1YdrT-WhduFYnK0qtm_7BJ1pwU3MQs4uM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",HE CAR ROAD TO REVENGE {Sub Indo}
-https://cdn.clonefile.icu/drive/index.php?id=8bY55hcAsfPjEBMRluOCnABT8MgMek%2FZRHBVyf%2BGhkBN%2Ff5KE9tGvvSQEs%2FK8M9xjWNvt%2F7mO0%2FpzUFOMi5%2BSV3eHZ1UdE8yO%2FzpOqIVtz2BmvZGl4E60LS7sr82r08d45DtWVnXHhO2lXlVfR6rjuezQ7K85Aa44HQCADdjSi3zVZCZKWkLWvuESE8yxkRDMaOwQ6Ed5XDBgfsHqOWUIU&ref=https%3A%2F%2Fbos21.bid%2Fthe-car-road-to-revenge%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",JUMANJI: WELCOME TO THE JUNGLE {Sub Indo}
-https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",TOMB RAIDER (2018) {Sub Indo}
-https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",THE LEGEND OF SECRET PASS (2019) {Sub Indo}
-https://id.terafile.net/the-legend-of-secret-pass2019-360p.mp4
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",MULE (2019) {Sub Indo}
-https://www.googleapis.com/drive/v3/files/1YsXH2V6TbScWzERFrACm9lTvBLuLobcs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",COLD PURSUIT (2019) {Sub Indo}
-https://www.googleapis.com/drive/v3/files/1oSWO6PTNM1nb6TnS6PDXj0C0JdNJqRMG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",AVENGERS: ENDGAMES HD (2019) {Sub Indo}
-https://www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",INSIDIOUS: THE LAST KEY (2019) {Sub Indo}
-https://www.googleapis.com/drive/v3/files/1px8eLVDzVtnDz5C3ptZcaPt2AfBRw7lp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",ESSIE (2019) 
-https://cdn.clonefile.icu/drive/index.php?id=ktgAy6pfyu9L6K4HtVHlfQUCgFSImD4IrxQ2doj95vqhwWSf840t97da0prNHTqJEXKezA1J4Npb2TZtB9NC72E3%2F1fv6IM%2Fr6PEMUMOV696fvvMfj5EigIs6Xai9BxHxCI3lAz%2FOiqLlL1CcZQW9cIKxoHl4bJw%2FO64B8bhVeul9Q1NgyZ1ULfsWkenWS3CE%3D&ref=https%3A%2F%2Fbos21.bid%2Fjessie%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",UNDA (2019) 
-https://cdn.apidev.icu/drive/index.php?id=905A7%2Fe2YENvh7FT7jbsGQpNJEYkhfKkyGK93lY0aPyIS048vx6ME27YNXMA54Fk8FI9r1KEZTBPUA%2FjUKfFBEr9yeaDWUe7c%2BpdSChm268wzXCJyk0JDz6V0av9228icvWUYJURWRUvAtq5BsmyuoO7jUZdvfUMAXkU%2BR0%2FGDfBAq%2B6tWC9ldqiOYePfgkHw%3D&ref=https%3A%2F%2Fbos21.bid%2Funda%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",A Score To Settle (2019) 
-https://cdn.clonefile.icu/drive/index.php?id=qhD9HZlA9Xbf%2FMflmswYmQGJKCyBt1a9M1sqiXvs3cv0I1O7ZOM8bxPxzzzGQJnRIUvG99coirCpCyZPAxXzt2RCR637O0xOZ%2FvvC5nDt7evBnFmDRPZ5RYD5QhetzLxCbCj%2FpPMhNC0%2F2ioEssEg6gkEon8uy%2Fbev1pIPPG7c1tHEx45xRgtR51851ObHgXL65%2F33CxKnUtaUgFUyzmc9&ref=https%3A%2F%2Fbos21.bid%2Fa-score-to-settle%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Bharat (2019) 
-https://cdn.cloneapi.icu/drive/index.php?id=4spaMcjKAHB10bV3BeQEiAtaobmRKskePYjKvCI9xz%2FHbPsPxbHpHKQVM%2FxCtF%2B6oeCLAlogc%2BODheSnZcfz1WQUQyf9g35aM3iN1kkPSTyoxw1Z%2BP6DdNcOaIx3cJjdnstpPkswwLPanV2BTzMrCsn%2BpliORGvASTmjLxfonKvc%2BjznGjWLibvvnn8o5DBKg%3D&ref=https%3A%2F%2Fbos21.bid%2Fbharat%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9kBsQv_9R6onI_SyYnp-fr53Dks62Mzo73xaDjKs3qalxkhDh" group-title="VOD MOVIES",Seven (2019) 
-https://cdn.clonefile.icu/drive/index.php?id=ytHdUFZ%2Bxo7B4mnlY01uXQYPHvRR40cw%2F5k%2BeAmesW%2F0pJRf8Wwj4iJaJV5HD59%2B6ZhiplFjfIXaOMsJOcCMYOkvx08mbhovd6nnClOwoo1LT4aMFqrEptCCAqMqtwz8x%2BKwQKVcriH90QTJvP0UI2xv%2FcoLEsg9tICI8TAog1kDMPzJnW9Jy45dzbsOVfH90%3D&ref=https%3A%2F%2Fbos21.bid%2Fseven%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Time To Retaliate: MASOOM (2019) 
-https://cdn.clonefile.icu/drive/index.php?id=seG3hwGglcG7sN2zokhXrwmMEWhFYi0ZkP8Ym7PBzRy1OP3eEFWa97F71sTCOG97mksNf5gLDhxReQJGSzAhRYSQZ5lAQ8ILylxS8tZXt5Acjurq7%2Fq%2B5QXViFx9DgvJkAWrT1DvkntzmdIMJx8tQjrg67uEbz%2F%2BHza7B1Z1h1nP8UDCmQByuHsjQBPiKt19%2BVQ%2FXopf5gGrC5zV6sNg8P&ref=https%3A%2F%2Fbos21.bid%2Ftime-to-retaliate-masoom-2%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Great Hack (2019) 
-https://cdn.apidev.icu/drive/index.php?id=sQixUUB2mGsTPjnBLc%2F3HA8YmSIr%2BjA3aISMrbQXzlCQaydOaOIL09FfpBLm3DrJHEeArEwL4T8QT8Mtu0rxcLyVdFAca6zoZlA7ULXEiLEK%2FTCJ0CGFHrl1%2Bt%2FBdHnLN3Y8dQKFqvpvpjinpQGp52wRjjteciDp1x71%2FK3SXo4StjDeYSAf56pyZiW3E1g%2FI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-great-hack%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",El Chicano (2019) 
-https://cdn.clonefile.icu/drive/index.php?id=gAs52XEWaSy8ENes17sFUwx0yXZvfGwt949EIJ%2BFbITHnR1TYBRKXUqbMetRC576NHH6H5xlrpWUpbiSP6WhDvRo4fs9ZBGUyILIXqXBkBnW96kOCw1w%2F0CVBlvX5HRgVsB7XbtyCAFR%2BCDRIPggzUHuuh5T9IjtkTmDJKnzLX8wAimpyE2zBcw9B2ZkBKzyM%3D&ref=https%3A%2F%2Fbos21.bid%2Fel-chicano%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Batman: Hush (2019) 
-https://cdn.cloneapi.icu/drive/index.php?id=N%2Bi2ByjvYLyRKAoyr9HMhwvQ%2F5Y%2BnL10Lb3H9wi0joj1s67Pnz0SOAhY1Aiyg74UOJzL3RLKtu7Ajg6jScNWhmVYbhr%2F69NyJEGl9Q4c7rrezbRnh%2BMqQcZM%2FL3xu6lmKt2Rm3zTkwPyXXgwxIUlpKm35FhJphWJ7ZvZq%2FzPdLmBjTDVK%2Bp3xPigr%2BiQGYNoE%3D&ref=https%3A%2F%2Fbos21.bid%2Fbatman-hush%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Pokemon Detective Pikachu (2019) 
-https://cdn.apidev.icu/drive/index.php?id=x%2Bqtp8%2BFn8Km2SZIX1WOJgqsvCig4I4r%2BRO9Py78lYoKWTcTi%2FtAB5bDu3amluh0MGMxpb8D3qygyc%2F5gcbX%2BEu5xIrW0A6K4qfYogC%2BWbTZDIlQg2xmWD5xKfAdUfGpSgjBguYJ4j4LJACgytFukRafqiP46JjJHNN%2FM%2FOe7vxJr8SIQBKxxXMnuaekZfZtl1Y%2F%2B3BwuhXdNXZyjXD9y3WZbqZCzEiOo6VylEB%2FI5Pg%3D%3D&ref=https%3A%2F%2Fbos21.bid%2Fpokemon-detective-pikachu-bluray%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",The Immortal War : Resurgence (2019) 
-https://cdn.apidev.icu/drive/index.php?id=SDL8%2FFxgey%2B87NVzHzUWMQbvzI357hQoCk1pfSKmXIEfegy5I2wThsIUAsTXLXFHIqt0Fgod8lGQex5pwLsGHWcpEej3h6oobriYE6d%2BUJ3ZIZz4%2B6jZivEb5DLpNwBd7MFpnzQJ%2FsTU2S9CJ9iF1GkD6xkgKrhUGOsi%2FfgghaEDCWXJy9ybpGNvUjHe82bUyizuO5b36X75vGRih8YwJH&ref=https%3A%2F%2Fbos21.bid%2Fthe-immortal-wars-resurgence%2F&res=default
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="VOD MOVIES",Hollow Point (2019) 
-https://cdn.clonefile.icu/drive/index.php?id=zHUPbjg%2BUb3gMFD944L0ZAkI5mriF5eA43q%2FQlk9xNTgiotwQvBHMypOOavp%2BR4p8tGlsyzgLFUf47zZFZjSfj543N%2FJE5n702jMW2lwWxzispkUyluyX6aE9FG%2BWtviQIyNOtE0hV4LYuTZwRa75jCwkEgoCCylkB11XGmrVAeRhbL5KhaDp0xcmimE16I40%3D&ref=https%3A%2F%2Fbos21.bid%2Fhollow-point%2F&res=default
