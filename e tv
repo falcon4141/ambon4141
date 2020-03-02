@@ -1,23 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
 https://i.imgur.com/ODEwKKv.mp4
-
 ============================================= CHANEL INDONESIA ================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",Liga Indonesia
-https://etslive-2-vidio-com.akamaized.net/exp=1583162649~acl=/hls-p/ingest_6589_*/*~hmac=8fd684769772501b87ae755b9417ba36234d3c416a0b604abc390def96fa0347/hls-p/ingest_6589_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",Liga Indonesia 1
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/lauguone
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",Liga Indonesia 2
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/one
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",CHAMPIONS 1 HD
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",CHAMPIONS 2 HD
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",LIGA SHOPHY 1 HD
-http://bit.ly/389JEfd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",LIGA SHOPHY 2 HD
-http://bit.ly/2T9EVGb
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI 2
