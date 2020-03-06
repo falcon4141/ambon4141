@@ -764,7 +764,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Knowledge",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
-
 =============================================  Music  ================================================
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Music",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
