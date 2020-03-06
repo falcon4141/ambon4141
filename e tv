@@ -4,8 +4,9 @@ https://i.imgur.com/ODEwKKv.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON TV
 http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
 
+
 ============================================= CHANEL INDONESIA ================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",FALCON TV
 http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
@@ -88,7 +89,7 @@ http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TVRI++
 http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
 =============================================  Movies  ================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FALCON TV
 http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",hbo family
 http://203.153.218.28:9981/stream/channelid/1316004766
@@ -211,7 +212,7 @@ http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",My Cinema Channel
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 ============================================= TV LOKAL ================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS",FALCON TV
 http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -278,7 +279,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", T Sports Channel
 http://host4.dynns.com/stream/3ee1e656d6ae417a914743328d44f20f.m3u8
 ============================================= TV LOKAL ================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",FALCON
 http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 1
 http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
@@ -326,7 +327,7 @@ http://62.203.143.51:9981/play/SPORT2HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sky Sports Premier League HD
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 ============================================= TV LOKAL ================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",FALCON TV
 http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Arek TV
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
@@ -384,7 +385,8 @@ http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 
 ############################### HIBURAN #################################
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",FALCON TV
+http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",AXN 2
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Blue Ant Extreme (Opt-2)
