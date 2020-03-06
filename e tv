@@ -3,7 +3,6 @@
 https://i.imgur.com/ODEwKKv.mp4
 
 ============================================= CHANEL INDONESIA ================================================
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI 2
@@ -84,6 +83,128 @@ http://45.126.83.51/qwr9ew/s/s11/01.m3u8
 http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TVRI++
 http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
+=============================================  Movies  ================================================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",hbo family
+http://203.153.218.28:9981/stream/channelid/1316004766
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",hbo hits
+http://203.153.218.28:9981/stream/channelid/2038175895
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",hbo signature
+http://203.153.218.28:9981/stream/channelid/1197019186
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",RAI MOVIES HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",WOWOW MOVIESS
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FILMBOX
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1071/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CELESTIAL MOVIE ID HD
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Sony PIX
+https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",KIX 2
+https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Thrill 2
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Thrill 3
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Zee Bioskop 1
+https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",MCN Sinema
+http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",ZEE BIOSKOP
+http://210.210.155.35/session/0aa07616-303f-11e9-aeaf-8b22abb4aaa4/qwr9ew/s/s32/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CHINA GHOST
+http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",ZEE BOLYWOOD
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",MYCINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HOLLYWOOD
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CELESTIALMOVIES
+http://210.210.155.35/session/bee44ae8-de23-11e9-8dcf-b2cdb5aa69bf/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",THRILL
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",THRILL 2
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CINEMAWORlD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",TV5
+http://210.210.155.35/session/6858ba06-dd88-11e9-98dd-b82a72d63267/qwr9ew/s/s24/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",B4U Plus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",BOLLYWOOD CLASSIC
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",BOLLYWOOD PREMIER
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CELESTIAL MOVIE
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",KIX
+http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",ZEE BIOSKOP
+http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",hrill
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Ray Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",First Movie
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",AXN
+http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Celestial Clasic Movie MY
+http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",KIX HD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",thrill SD
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",thrill HD
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CINEMA WORD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Movies
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",My Cinema Channel
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -237,10 +358,8 @@ http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",TV 9 Nusantara (Opt-2)
 http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",,BMS TV
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",ADI TV YOGYAKARTA
@@ -482,9 +601,7 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 http://195.9.195.3:8080/hls/157239.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",One Piece
 http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
-
 ============================================= BeInSport ================================================
-
 
 ============================================= Arabic Premium ================================================
 #EXTINF:0 group-title="Arabic Premium"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",KSA SPORT 1
@@ -602,128 +719,7 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg"group-title="Sports",Extreme Sport
 http://ott.artmott.com/extremesport/playlist.m3u8
 
-=============================================  Movies  ================================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",hbo family
-http://203.153.218.28:9981/stream/channelid/1316004766
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",hbo hits
-http://203.153.218.28:9981/stream/channelid/2038175895
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",hbo signature
-http://203.153.218.28:9981/stream/channelid/1197019186
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",RAI MOVIES HD
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",WOWOW MOVIESS
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FILMBOX
-http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1071/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",AXN
-http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CELESTIAL MOVIE ID HD
-http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HITS
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Cinemax
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",JGO
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Sony PIX
-https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",KIX 2
-https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Thrill 2
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Thrill 3
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Zee Bioskop 1
-https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",MCN Sinema
-http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",ZEE BIOSKOP
-http://210.210.155.35/session/0aa07616-303f-11e9-aeaf-8b22abb4aaa4/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CHINA GHOST
-http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",ZEE BOLYWOOD
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",MYCINEMA
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HOLLYWOOD
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CELESTIALMOVIES
-http://210.210.155.35/session/bee44ae8-de23-11e9-8dcf-b2cdb5aa69bf/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",THRILL
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",THRILL 2
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CINEMAWORlD
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",TV5
-http://210.210.155.35/session/6858ba06-dd88-11e9-98dd-b82a72d63267/qwr9ew/s/s24/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",B4U Plus
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",BOLLYWOOD CLASSIC
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",BOLLYWOOD PREMIER
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CELESTIAL MOVIE
-http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",KIX
-http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",MY CINEMA
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",THRILL
-http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",ZEE BIOSKOP
-http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",hrill
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",MY CINEMA
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Ray Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",First Movie
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",AXN
-http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Celestial Clasic Movie MY
-http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",KIX HD
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",thrill SD
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",thrill HD
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",CINEMA WORD
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",HITS
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",WOWOW MOVIES
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",THRILL
-http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Movies
-http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",My Cinema Channel
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
 =============================================  Entertainment  ================================================
 
