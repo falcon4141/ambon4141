@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
 https://i.imgur.com/ODEwKKv.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON TV
+http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
 
 ============================================= CHANEL INDONESIA ================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
+http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI 2
@@ -84,7 +88,8 @@ http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TVRI++
 http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
 =============================================  Movies  ================================================
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
+http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",hbo family
 http://203.153.218.28:9981/stream/channelid/1316004766
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",hbo hits
@@ -205,7 +210,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",My Cinema Channel
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-
+============================================= TV LOKAL ================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
+http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", 100 AUTOMOTO TV
@@ -262,7 +269,6 @@ http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", Real Betis TV
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", RTSH Sport
@@ -271,7 +277,9 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", T Sports Channel
 http://host4.dynns.com/stream/3ee1e656d6ae417a914743328d44f20f.m3u8
-
+============================================= TV LOKAL ================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
+http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 1
 http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 2
@@ -318,6 +326,8 @@ http://62.203.143.51:9981/play/SPORT2HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sky Sports Premier League HD
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 ============================================= TV LOKAL ================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
+http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Arek TV
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Bali TV
@@ -764,6 +774,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Knowledge",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+
 =============================================  Music  ================================================
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Music",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
