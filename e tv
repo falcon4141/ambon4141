@@ -821,7 +821,6 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Music",Prambors
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Music",Lapak Musik
 http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Music",MIX
