@@ -349,6 +349,55 @@ https://doofree88.com/streaming/uk-skysports-action_720/index.m3u8
 https://doofree88.com/streaming/uk-skysports-football_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/rizalzalogi/anjingtukangcuri/skymainevent.png" group-title="Sports",Sky Sports Main Event
 https://doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
+
+============================================= BEIN ================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",FALCON
+http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 1
+http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 2
+http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 3
+http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 4
+http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 5
+http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 6
+http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN", Sony Six
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Six (Opt. 2)
+http://51.15.8.16:8081/lolind2/sonysixhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 1 (Opt. 2)
+http://51.15.8.16:8081/lolind2/sonyten1hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 2 (Opt. 2)
+http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony ESPN (Opt. 2)
+http://51.15.8.16:8081/lolind2/sonyespnhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",STADIUM
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",UFC FIGHT PASS
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 2 ARABIC
+http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",SPORT TV 2
+http://62.203.143.51:9981/play/SPORTV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",SPORT TV 2 HD
+http://62.203.143.51:9981/play/SPORT2HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sky Sports Premier League HD
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+
 ============================================= TV LOKAL ================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS",FALCON TV
 http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
@@ -416,54 +465,6 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", T Sports Channel
 http://host4.dynns.com/stream/3ee1e656d6ae417a914743328d44f20f.m3u8
-============================================= TV LOKAL ================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",FALCON
-http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 1
-http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 2
-http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 3
-http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 4
-http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 5
-http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 6
-http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN", Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Six (Opt. 2)
-http://51.15.8.16:8081/lolind2/sonysixhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 1
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 1 (Opt. 2)
-http://51.15.8.16:8081/lolind2/sonyten1hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 2
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 2 (Opt. 2)
-http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony ESPN (Opt. 2)
-http://51.15.8.16:8081/lolind2/sonyespnhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",STADIUM
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",UFC FIGHT PASS
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 2 ARABIC
-http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",SPORT TV 2
-http://62.203.143.51:9981/play/SPORTV2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",SPORT TV 2 HD
-http://62.203.143.51:9981/play/SPORT2HD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sky Sports Premier League HD
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 ============================================= TV LOKAL ================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",FALCON TV
 http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
