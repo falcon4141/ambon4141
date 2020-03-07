@@ -87,6 +87,52 @@ http://45.126.83.51/qwr9ew/s/s11/01.m3u8
 http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TVRI++
 http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
+
+============================================= BeInSport ================================================
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 1 HD
+http://skdn.redi-vo.com/iptv/ch111?code=138137164006399&amp;key=54576
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 1 SD
+http://skdn.redi-vo.com/iptv/ch8111?code=138137164006399&amp;key=33281
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 2 HD
+http://skdn.redi-vo.com/iptv/ch112?code=138137164006399&amp;key=46098
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 2 SD
+http://skdn.redi-vo.com/iptv/ch8112?code=138137164006399&amp;key=12334
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 3 HD
+http://skdn.redi-vo.com/iptv/ch113?code=138137164006399&amp;key=39255
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 3 SD
+http://skdn.redi-vo.com/iptv/ch8113?code=138137164006399&amp;key=46519
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 4 HD
+http://skdn.redi-vo.com/iptv/ch114?code=138137164006399&amp;key=46165
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 4 SD
+http://skdn.redi-vo.com/iptv/ch8114?code=138137164006399&amp;key=40487
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 5 HD
+http://skdn.redi-vo.com/iptv/ch115?code=138137164006399&amp;key=45992
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 5 SD
+http://skdn.redi-vo.com/iptv/ch8115?code=138137164006399&amp;key=26611
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 6 HD
+http://skdn.redi-vo.com/iptv/ch116?code=138137164006399&amp;key=57392
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 6 SD
+http://skdn.redi-vo.com/iptv/ch8116?code=138137164006399&amp;key=29929
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 7 HD
+http://skdn.redi-vo.com/iptv/ch117?code=138137164006399&amp;key=58844
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 7 SD
+http://skdn.redi-vo.com/iptv/ch8117?code=138137164006399&amp;key=24135
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 8 HD
+http://skdn.redi-vo.com/iptv/ch118?code=138137164006399&amp;key=43336
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 8 SD
+http://skdn.redi-vo.com/iptv/ch8118?code=138137164006399&amp;key=39883
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 9 HD
+http://skdn.redi-vo.com/iptv/ch510?code=138137164006399&amp;key=27398
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 9 SD
+http://skdn.redi-vo.com/iptv/ch8510?code=138137164006399&amp;key=20158
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 10 HD
+http://skdn.redi-vo.com/iptv/ch511?code=138137164006399&amp;key=51278
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 10 SD
+http://skdn.redi-vo.com/iptv/ch8511?code=138137164006399&amp;key=15103
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 11 HD
+http://skdn.redi-vo.com/iptv/ch512?code=138137164006399&amp;key=55556
+#EXTINF:0 group-title="BeInSport"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",BeInSport 12 HD
+http://skdn.redi-vo.com/iptv/ch513?code=138137164006399&amp;key=55186
 =============================================  Movies  ================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FALCON TV
 http://127.0.0.1:1935/vod/mp4:sample.mp4/manifest.mpd
@@ -610,7 +656,6 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 http://195.9.195.3:8080/hls/157239.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",One Piece
 http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
-============================================= BeInSport ================================================
 
 ============================================= Arabic Premium ================================================
 #EXTINF:0 group-title="Arabic Premium"tvg-logo="https://i.imgur.com/EI5RUGZ.jpg",KSA SPORT 1
