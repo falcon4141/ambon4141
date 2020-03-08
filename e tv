@@ -3,12 +3,7 @@
 https://i.imgur.com/ODEwKKv.mp4
 
 ================================================================================================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,SUGENG DALU
-http://moduloffice.my.id/s/DennyCaknan-SugengDalu.zip
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,DANCE MONKEY
-http://moduloffice.my.id/s/EltasyaNatasha-DM.zip
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,SABYAN
-http://bit.ly/39bldPN
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" , Nella Kharisma - Jaran Goyang [MP4]
 https://media-vidio-com.akamaized.net/uploads/860901/nella-20kharisma-20jaran-20goyang-386f-b1200.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" , Nella Kharisma - Bojo Galak MP4]
@@ -63,7 +58,12 @@ https://www.googleapis.com/drive/v3/files/1VAdggVA6x9U6seQRcLkogbgCEFJsVL5e?alt=
 https://www.googleapis.com/drive/v3/files/12b6x6JZdZuKpYaRuEzOSCc-756ojGqUf?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" , Bohoso Moto [MP4]
 https://www.googleapis.com/drive/v3/files/1T7aw63oQL_5A6zTW0t1LN73izi1BB2CV?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,SUGENG DALU
+http://moduloffice.my.id/s/DennyCaknan-SugengDalu.zip
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,DANCE MONKEY
+http://moduloffice.my.id/s/EltasyaNatasha-DM.zip
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,SABYAN
+http://bit.ly/39bldPN
 ============================ INDONESIA ==============================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", LAGU LAGU
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
