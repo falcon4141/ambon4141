@@ -91,9 +91,9 @@ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 https://live.rctiplus.id/rctiplus/inews_360p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", DAAI TV
 http://rr2.dens.tv/s/s13/index2.m3u8
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/KOMPAS-TV.png" group-title="Live Channel",Lokal TV - KOMPAS TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", KOMPAS TV 
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/KOMPAS-TV.png" group-title="Live Channel",Lokal TV - KOMPAS TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", KOMPAS TV 
 http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", Metro-TV 
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w2035713128_b1128000_sleng.m3u8
