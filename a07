@@ -1,9 +1,4 @@
-#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/zalindo.png" group-title="TV Lokal",KODE FREE/ GRATIS 
-http://3.0.93.95:25461/welcome/zalindo/50
-#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/zalindo.png" group-title="TV Lokal",https://t.me/ZALINDO 
-http://3.0.93.95:25461/welcome/zalindo/50
-#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/zalindo.png" group-title="TV Lokal",https://iptv.my.id/
-http://3.0.93.95:25461/welcome/zalindo/50
+
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/zalindo/nettv.png" group-title="TV Lokal",NET TV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1584010803~acl=/hls-b/ingest_875_*/*~hmac=ddce0fd4b09e5c3f7a47d627b41ea9cdf4f85c388689c6e9f256033e6f0a1537/hls-b/ingest_875_720p/index.m3u8
 
