@@ -1,732 +1,1732 @@
-#EXTM3U
-#EXTINF:-1,ANTV
-http://id2.indostreamingtv.com/live/antv/index.m3u8
-
-#EXTINF:-1,BERITA SATU NEWS
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-
-#EXTINF:-1,CNBC INDONESIA
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
-
-#EXTINF:-1,CELESTELIAL MOVIES
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
-
-#EXTINF:-1,CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
-
-#EXTINF:-1,DANGDUT TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
-#EXTINF:-1,FIRST MEDIA
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,GLOBAL TV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-
-#EXTINF:-1,INDONESIA CHANNEL
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
-
-#EXTINF:-1,PAL TV HD
-http://stream1.ninmedia.tv/paltv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1,RTV
-http://45.126.83.51/qwr9ew/s/s12/01.m3u8
-
-#EXTINF:-1,SENEMA INDONESIA HD
-http://210.210.155.35/session/44f6d74a-01a1-11ea-b55a-9182955aa916/x6bnqe/s/s71/S4/mnf.m3u8
-
-#EXTINF:-1,THRILL HD
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-
-#EXTINF:-1,TVRI Sports
-http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
-
-#EXTINF:-1,Indosiar
-http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
-
-#EXTINF:-1,
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w591695661_b1492000_sleng.m3u8
-
-#EXTINF:-1,I NEWS TV
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-
-#EXTINF:-1,JAKARTA GLOBE
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-
-#EXTINF:-1,JGO TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-
-#EXTINF:-1,KARAOKE TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
-
-#EXTINF:-1,Maleo
-http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1,MIOMY TV
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-
-#EXTINF:-1,MNC TV
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-
-#EXTINF:-1,NET TV
-http://id2.indostreamingtv.com/live/nettv/index.m3u8
-
-#EXTINF:-1,NU TV
-http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1,RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-
-#EXTINF:-1,RTM 1
-http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
-
-#EXTINF:-1,RTM 2
-http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
-
-#EXTINF:-1,SCTV
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
-
-#EXTINF:-1,TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w63099618_b384000_sleng.m3u8
-
-#EXTINF:-1,TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1678042997_b384000_sleng.m3u8
-
-#EXTINF:-1,NET TV
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-
-#EXTINF:-1,NET TV
-http://210.210.155.35/qwr9ew/s/s08/02.m3u8
-
-#EXTINF:-1,KOMPAS TV
-http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
-
-#EXTINF:-1,METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-
-#EXTINF:-1,METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-
-#EXTINF:-1,INDOSIAR
-http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8
-
-#EXTINF:-1,RCTV
-http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1,RUMAH TV
-http://stream2.ninmedia.tv/rumahtv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1,NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
-
-#EXTINF:-1,Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-
-#EXTINF:-1,TAHFIDZ TV
-http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
-
-#EXTINF:-1,TAWAFTV
-http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
-
-#EXTINF:-1,AL Bahjah
-https://edge.siar.us/albahjahtv/live/playlist.m3u8
-
-#EXTINF:-1,TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-
-#EXTINF:-1,USEE PHOTO
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
-
-#EXTINF:-1,Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
-
-#EXTINF:-1,Tom & Jerry TV
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-
-#EXTINF:-1,LARVA TV
-http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-
-#EXTINF:-1,KurdMax Papule
-http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
-
-#EXTINF:-1,Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,3ABN KIDS TV
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-
-#EXTINF:-1,ToonMax
-http://rr2.dens.tv/s/s50/01.m3u8
-
-#EXTINF:-1,Kurokoai Basketball
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,DRAGON BALL KAI TV
-http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
-
-#EXTINF:-1,DRAGON BALL Z TV
-https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
-
-#EXTINF:-1,Boruto TV
-http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
-
-#EXTINF:-1,Captain Stubasa 2019 TV
-http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
-
-#EXTINF:-1,DETECTIFE CONAN 1 TV
-http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
-
-#EXTINF:-1,DETECTIFE CONAN 2 TV
-http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
-
-#EXTINF:-1,DETECTIFE CONAN 3 TV
-http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
-
-#EXTINF:-1,DORAEMON SERIES
-http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
-
-#EXTINF:-1,DORAEMON MOVIE
-http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
-
-#EXTINF:-1,HUNTER X HUNTER
-http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
-
-#EXTINF:-1,INUYASHA
-http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
-
-#EXTINF:-1,TOTALLY SPIES
-http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
-
-#EXTINF:-1,ONE PIECE TV
-http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
-
-#EXTINF:-1,ONE PUNCH MAN
-http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
-
-#EXTINF:-1,Animal Planet
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-
-#EXTINF:-1,Asian Food Channel
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-
-#EXTINF:-1,ASTRO
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-
-#EXTINF:-1,AXN
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
-
-#EXTINF:-1,Blue Ant Extreme
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-
-#EXTINF:-1,Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-
-#EXTINF:-1,DAVINCI KIDS
-http://213.174.8.7:11111/index.m3u8
-
-#EXTINF:-1,Discovery Channel
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
-
-#EXTINF:-1,Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-
-#EXTINF:-1,DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
-#EXTINF:-1,
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-
-#EXTINF:-1,EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1,NAT PEOPLE
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-
-#EXTINF:-1,NAT GEO WILD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
-#EXTINF:-1,NAT GEO
-http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?
-
-#EXTINF:-1,Nickelodeon Asia
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-
-#EXTINF:-1,BABT FIRST
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-
-#EXTINF:-1,TOM & JERRY
-http://aldirect.hls.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
-
-#EXTINF:-1,PLUTO MOVIES
-http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1,SPACETOON
-http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
-
-#EXTINF:-1,WOWON MOVIES
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-
-#EXTINF:-1,ANDY LAU
-http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,CHOW YOUN FAT
-http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,CINNEMAX
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
-
-#EXTINF:-1,THRILL
-http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
-
-#EXTINF:-1,MY CINEMA
-http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
-
-#EXTINF:-1,FILM 1
-http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
-
-#EXTINF:-1,FILM 2
-http://tx.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8
-
-#EXTINF:-1,FILM 3
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,FILM 4
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,FILM 5
-http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
-
-#EXTINF:-1,FILM 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,FILM 7
-http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,RAI PREMIUM
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-
-#EXTINF:-1,RAI YOYO
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-
-#EXTINF:-1,BOOGELE BOOLYWOOD
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-
-#EXTINF:-1,FOX FILM MOVIES
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-
-#EXTINF:-1,FOX MOVIES
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
-
-#EXTINF:-1,HBO FAMILY
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
-
-#EXTINF:-1,HBO HITS
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
-
-#EXTINF:-1,HBO SIGNATURE
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
-
-#EXTINF:-1,History Channel
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
-
-#EXTINF:-1,
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-
-#EXTINF:-1,SAMO HUNG
-http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,STAR MOVIES
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-
-#EXTINF:-1,STAR WORLD
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-
-#EXTINF:-1,BEIN SPORT 2
-http://125.227.210.37:8886/VideoInput/play.ts
-
-#EXTINF:-1,FLOW SPORT
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
-#EXTINF:-1,FOX SPORT 2
-http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
-
-#EXTINF:-1,REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
-#EXTINF:-1,RTSH SPORT
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-
-#EXTINF:-1,SETANTA SPORT+
-http://ott-cdn.ucom.am/s82/03.m3u8
-
-#EXTINF:-1,SETANTA SPORT
-http://ott-cdn.ucom.am/s81/03.m3u8
-
-#EXTINF:-1,X SPORT
-http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
-
-#EXTINF:-1,RAI MOVIE HD
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1,Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-
-#EXTINF:-1,Sport 1 FeedOn
-http://ott-cdn.ucom.am/s41/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-
-#EXTINF:-1,Family Sport 6 FeedOn
-http://182.73.122.74:10001/bysid/706
-
-#EXTINF:-1,Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-
-#EXTINF:-1,Fanatik TV
-http://mn-nl.mncdn.com/fanatik_livestream/smil:fanatik.smil/chunklist_b996000.m3u8
-
-#EXTINF:-1,Fight Box
-http://92.43.140.249/s86/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-
-#EXTINF:-1,PACUAN KUDA 1
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-
-#EXTINF:-1,PACUAN KUDA 2
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
-
-#EXTINF:-1,KARAOKE CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-
-#EXTINF:-1,Pop Musik
-http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1,MUSICB
-http://zaman-now.com/﻿zxtvxz﻿/MusicB
-
-#EXTINF:-1,Dangdutz TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 1
-https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 2
-https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 4
-https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 5
-https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 6
-https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 7
-https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 8
-https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 9
-https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 10
-https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 11
-https://dl.dropbox.com/s/nzd3ekunnrbkh60/Dubaimovie.m3u8?dl=0
-
-#EXTINF:-1,Netflix LIVE Movies 12
-https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 13
-https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 14
-https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 15
-https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 16
-https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 17
-https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Netflix LIVE Movies 18
-https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
-
-#EXTINF:-1,SINEMA INDONESIA
-http://210.210.155.35:80/session/670515de-73b9-11e9-8f02-846587341add/x6bnqe/s/s71/S4/mnf.m3u8
-
-#EXTINF:-1,Black Cinema
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1,HBO
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-
-#EXTINF:-1,HBO
-http://cableserver1.cableguy.pro:82/live?cId=491&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-
-#EXTINF:-1,HBO 2
-http://cableserver1.cableguy.pro:82/live?cId=376&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-
-#EXTINF:-1,HBO 3
-http://cableserver1.cableguy.pro:82/live?cId=377&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-
-#EXTINF:-1,HBO Hits
-https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-
-#EXTINF:-1,HBO Signature
-https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
-
-#EXTINF:-1,Red by HBO
-https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
-
-#EXTINF:-1,FOX
-https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
-
-#EXTINF:-1,Fox Action Movies
-https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
-
-#EXTINF:-1,Fox Action Movies
-https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
-
-#EXTINF:-1,FOX Action Movies
-http://cableserver1.cableguy.pro:82/live?cId=1665&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-
-#EXTINF:-1,FOX Family Movies
-https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
-
-#EXTINF:-1,Fox Movies
-https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-
-#EXTINF:-1,FOX Life
-https://www.livedoomovie.com/02_FOX_Life_HD_720p/chunklist.m3u8
-
-#EXTINF:-1,FOX Life
-http://cableserver1.cableguy.pro:82/live?cId=650&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-
-#EXTINF:-1,FOX Crime
-http://cableserver1.cableguy.pro:82/live?cId=1666&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-
-#EXTINF:-1,CINEMA WORLD SD
-http://210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8
-
-#EXTINF:-1,CINEMA WORLD
-http://210.210.155.35:80/session/1be19ff4-7252-11e9-8405-a92a8c3111c3/uq2663/h/h04/02.m3u8
-
-#EXTINF:-1,CINEMA WORLD
-http://45.126.83.51/uq2663/h/h04/index2.m3u8
-
-#EXTINF:-1,CinemaWorld Malaysia
-http://45.126.83.51:443/uq2663/h/h04/01.m3u8
-
-#EXTINF:-1,CinemaWorld Malaysia
-http://210.210.155.35/uq2663/h/h04/02.m3u8
-
-#EXTINF:-1,MY CINEMA
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-
-#EXTINF:-1,Cinemax
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-
-#EXTINF:-1,HITS
-http://45.126.83.51/uq2663/h/h37/01.m3u8
-
-#EXTINF:-1,HITS HD
-http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
-
-#EXTINF:-1,Thrill SD
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-
-#EXTINF:-1,Thrill
-http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
-
-#EXTINF:-1,ZEE Aflam
-http://livecdnh3.tvanywhere.ae:80/hls/zeeaflam/index.m3u8
-
-#EXTINF:-1,ZEE World
-http://161.0.157.7/PLTV/88888888/224/3221226542/index.m3u8
-
-#EXTINF:-1,Warner TV
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-
-#EXTINF:-1,FX
-https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
-
-#EXTINF:-1,STAR MOVIES
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
-
-#EXTINF:-1,Hollywood Movies 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-
-#EXTINF:-1,Hollywood Movies 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Hollywood Movies 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Hollywood Movies 10
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
-
-#EXTINF:-1,Hollywood Movies 12
-http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-
-#EXTINF:-1,Mandarin Movies 1
-http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Mandarin Movies 4
-http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
-
-#EXTINF:-1,Mandarin Movies 5
-http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
-
-#EXTINF:-1,Mandarin Movies 6
-http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
-
-#EXTINF:-1,Mandarin Movies 7
-http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
-
-#EXTINF:-1,Mandarin Movies 8
-http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
-
-#EXTINF:-1,Animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
-
-#EXTINF:-1,Animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-
-#EXTINF:-1,Aniplus
-http://210.210.155.35:80/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-
-#EXTINF:-1,Aniplus
-http://45.126.83.51/dr9445/h/h02/index.m3u8
-
-#EXTINF:-1,Aniplus
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-
-#EXTINF:-1,Miao Mi
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,Disney Junior
-http://103.47.132.164:80/PLTV/88888888/224/3221226011/04.m3u8
-
-#EXTINF:-1,My Kids
-http://45.126.83.51:80/session/ed35b066-8776-11e9-8be0-b73f998c1fa0/x6bnqe/s/s113/index.m3u8
-
-#EXTINF:-1,RTV
-http://210.210.155.35/session/916c75e4-0647-11ea-b42d-c81f66f89318/qwr9ew/s/s12/02.m3u8
-
-#EXTINF:-1,Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
-
-#EXTINF:-1,EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1,Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-
-#EXTINF:-1,KTV
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv4
-
-#EXTINF:-1,SAT 7 Kids
-http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
-
-#EXTINF:-1,TeleToon
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,DISNEY JUNIOR Indo SD
-http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
-
-#EXTINF:-1,Clubbing TV
-https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
-
-#EXTINF:-1,KARAOKE CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
-
-#EXTINF:-1,MIX MUSIC
-http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
-
-#EXTINF:-1,MTV
-https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-
-#EXTINF:-1,RADIO M20
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-
-#EXTINF:-1,RETRO TV
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1,Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-
-#EXTINF:-1,Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-
-#EXTINF:-1,Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-
-#EXTINF:-1,Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-
-#EXTINF:-1,Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-
-#EXTINF:-1,Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-
-#EXTINF:-1,Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-
-#EXTINF:-1,Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-
-#EXTINF:-1,Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-
-#EXTINF:-1,RedTraffic Big Ass
-http://live.redtraffic.xyz/bigass.m3u8
-
-#EXTINF:-1,RedTraffic Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
-
-#EXTINF:-1,RedTraffic Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
-
-#EXTINF:-1,RedTraffic Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
-
-#EXTINF:-1,RedTraffic Fetish
-http://live.redtraffic.xyz/fetish.m3u8
-
-#EXTINF:-1,RedTraffic Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8
-
-#EXTINF:-1,RedTraffic Interracial
-http://live.redtraffic.xyz/interracial.m3u8
-
-#EXTINF:-1,RedTraffic Latina
-http://live.redtraffic.xyz/latina.m3u8
-
-#EXTINF:-1,RedTraffic Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8
-
-#EXTINF:-1,RedTraffic MILF
-http://live.redtraffic.xyz/milf.m3u8
-
-#EXTINF:-1,RedTraffic Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
-
-#EXTINF:-1,RedTraffic POV
-http://live.redtraffic.xyz/pov.m3u8
-
-#EXTINF:-1,RedTraffic Russian
-http://live.redtraffic.xyz/russian.m3u8
-
-#EXTINF:-1,RedTraffic Teen
-http://live.redtraffic.xyz/teen.m3u8
-
-#EXTINF:-1,RedTraffic Threesome
-http://live.redtraffic.xyz/threesome.m3u8
-
-#EXTINF:-1,Jasmin HD 18+
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8#EXTINF:0,http://layarcinema21.fun/tag/lebahganteng21/
+<|-- Al-Quran
+================================================================================================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[001] Surah Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[002] Surah Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[003] Surah Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[004] Surah An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[005] Surah Al-Maa'idah (Hidangan)
+https://archive.org/download/MurotalMR/005.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[006] Surah Al-An'aam (Binatang Ternakan)
+https://archive.org/download/MurotalMR/006.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[007] Surah Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[008] Surah Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[009] Surah At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[010] Surah Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[011] Surah Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[012] Surah Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[013] Surah Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[014] Surah Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[015] Surah Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[016] Surah An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[017] Surah Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[018] Surah Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[019] Surah Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[020] Surah Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[021] Surah Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[022] Surah Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[023] Surah Al-Mu'minun (Golongan yang Beriman) 
+https://archive.org/download/MurotalMR/023.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[024] Surah An-Nuur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
+https://archive.org/download/MurotalMR/025.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[026] Surah Asy-Syu'araa (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[027] Surah An-Naml (Semut)
+https://archive.org/download/MurotalMR/027.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[028] Surah Al-Qasas (Cerita-cerita)
+https://archive.org/download/MurotalMR/028.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[029] Surah Al-'Ankabut (Labah-labah)
+https://archive.org/download/MurotalMR/029.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[030] Surah Ar-Rum (Bangsa Rom)
+https://archive.org/download/MurotalMR/030.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[031] Surah Luqman (Luqman)
+https://archive.org/download/MurotalMR/031.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[032] Surah As-Sajdah (Sujud)
+https://archive.org/download/MurotalMR/032.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[033] Surah Al-Ahzab (Golongan yang Bersekutu)
+https://archive.org/download/MurotalMR/033.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[034] Surah Saba' (Kaum Saba')
+https://archive.org/download/MurotalMR/034.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[035] Surah Faatir (Pencipta)
+https://archive.org/download/MurotalMR/035.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[036] Surah Yaasin
+https://archive.org/download/MurotalMR/036.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[037] Surah As-Saaffat (Yang Teratur Berbaris)
+https://archive.org/download/MurotalMR/037.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[038] Surah Saad
+https://archive.org/download/MurotalMR/038.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[039] Surah Az-Zumar (Rombongan)
+https://archive.org/download/MurotalMR/039.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+https://archive.org/download/MurotalMR/040.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[041] Surah Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/041.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[042] Surah Asy-Syuraa (Permesyuaratan)
+https://archive.org/download/MurotalMR/042.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[043] Surah Az-Zukhruf (Perhiasan Emas)
+https://archive.org/download/MurotalMR/043.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[044] Surah Ad-Dukhaan (Kabut / Asap)
+https://archive.org/download/MurotalMR/044.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[045] Surah Al-Jatsiyah (Yang Berlutut)
+https://archive.org/download/MurotalMR/045.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+https://archive.org/download/MurotalMR/046.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[047] Surah Muhammad (Nabi Muhammad SAW)
+https://archive.org/download/MurotalMR/047.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[048] Surah Al-Fath (Kemenangan)
+https://archive.org/download/MurotalMR/048.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[049] Surah Al-Hujurat (Bilik-bilik)
+https://archive.org/download/MurotalMR/049.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[050] Surah Qaaf
+https://archive.org/download/MurotalMR/050.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+https://archive.org/download/MurotalMR/051.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[052] Surah At-Tur (Bukit)
+https://archive.org/download/MurotalMR/052.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[053] Surah An-Najm (Bintang)
+https://archive.org/download/MurotalMR/053.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[054] Surah Al-Qamar (Bulan)
+https://archive.org/download/MurotalMR/054.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan) 
+https://archive.org/download/MurotalMR/056.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[057] Surah Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[058] Surah Al-Mujadilah (Perempuan yang Merayu)
+https://archive.org/download/MurotalMR/058.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[059] Surah Al-Hasyr (Pengusiran)
+https://archive.org/download/MurotalMR/059.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+https://archive.org/download/MurotalMR/060.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[061] Surah As-Saf (Barisan)
+https://archive.org/download/MurotalMR/061.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[062] Surah Al-Jumu'ah (Hari Jumaat)
+https://archive.org/download/MurotalMR/062.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[063] Surah Al-Munafiquun (Golongan Munafik)
+https://archive.org/download/MurotalMR/063.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[064] Surah At-Taghabun (Dinampakkan Kesalahan)
+https://archive.org/download/MurotalMR/064.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[065] Surah At-Talaq (Cerai / Talak)
+https://archive.org/download/MurotalMR/065.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[066] Surah At-Tahrim (Mengharamkan)
+https://archive.org/download/MurotalMR/066.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[067] Surah Al-Mulk (Kerajaan)
+https://archive.org/download/MurotalMR/067.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[068] Surah Al-Qalam (Pena / Kalam)
+https://archive.org/download/MurotalMR/068.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://archive.org/download/MurotalMR/069.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[070] Surah Al-Ma'arij (Tempat-tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[071] Surah Nuh (Nabi Nuh a.s.)
+https://archive.org/download/MurotalMR/071.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[072] Surah A-Jin (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[073] Surah Al-Muzammil (Yang Berselimut)
+https://archive.org/download/MurotalMR/073.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[074] Surah Al-Muddathir (Yang Berselubung)
+https://archive.org/download/MurotalMR/074.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://archive.org/download/MurotalMR/075.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[076] Surah Al-Insaan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[077] Surah Al-Mursalat (Malaikat Yang Diutus)
+https://archive.org/download/MurotalMR/077.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[078] Surah An-Naba' (Berita Besar)
+https://archive.org/download/MurotalMR/078.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+https://archive.org/download/MurotalMR/079.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[080] Surah 'Abasa (Dia Bermasam Muka)
+https://archive.org/download/MurotalMR/080.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[081] Surah At-Takwiir (Menggulung)
+https://archive.org/download/MurotalMR/081.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[082] Surah Al-Infitar (Terpecah & Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[083] Surah Al-Mutaffifiin (Golongan yang Curang)
+https://archive.org/download/MurotalMR/083.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[084] Surah Al-Insyiqaaq (Terbelah)
+https://archive.org/download/MurotalMR/084.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[085] Surah Al-Buruj (Gugusan Bintang)
+https://archive.org/download/MurotalMR/085.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[086] Surah At-Taariq (Pengunjung Malam)
+https://archive.org/download/MurotalMR/086.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[087] Surah Al-A'laa (Yang Tertinggi)
+https://archive.org/download/MurotalMR/087.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://archive.org/download/MurotalMR/088.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[089] Surah Al-Fajr (Fajar / Sinar Mentari)
+https://archive.org/download/MurotalMR/089.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[090] Surah Al-Balad (Negeri)
+https://archive.org/download/MurotalMR/090.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[091] Surah Asy-Syams (Matahari)
+https://archive.org/download/MurotalMR/091.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[092] Surah Al-Lail (Malam)
+https://archive.org/download/MurotalMR/092.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://archive.org/download/MurotalMR/093.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+https://archive.org/download/MurotalMR/094.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[095] Surah At-Tin (Buah Tin / Buah Ara)
+https://archive.org/download/MurotalMR/095.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[096] Surah Al-'Alaq (Segumpal Darah)
+https://archive.org/download/MurotalMR/096.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[097] Surah Al-Qadr (Kemuliaan)
+https://archive.org/download/MurotalMR/097.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[098] Surah Al-Baiyinah (Bukti yang Nyata)
+https://archive.org/download/MurotalMR/098.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[099] Surah Al-Zalzalah (Kegoncangan)
+https://archive.org/download/MurotalMR/099.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+https://archive.org/download/MurotalMR/100.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+https://archive.org/download/MurotalMR/101.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[102] Surah At-Takathur (Bermegah-Megah)
+https://archive.org/download/MurotalMR/102.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[103] Surah Al-'Asr (Masa)
+https://archive.org/download/MurotalMR/103.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[104] Surah Al-Humazah (Pengumpat)
+https://archive.org/download/MurotalMR/104.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[105] Surah Al-Fiil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[106] Surah Quraisy (Kaum Quraisy)
+https://archive.org/download/MurotalMR/106.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[107] Surah Al-Ma'un (Barangan Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[108] Surah Al-Kauthar (Sungai Di Syurga)
+https://archive.org/download/MurotalMR/108.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[109] Surah Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[110] Surah An-Nasr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+https://archive.org/download/MurotalMR/111.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+https://archive.org/download/MurotalMR/112.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+https://archive.org/download/MurotalMR/113.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt5KGj4.jpg" group-title="◄● Al-Quran ●►",[114] Surah An-Naas (Manusia)
+https://archive.org/download/MurotalMR/114.mp3
+
+
+
+
+<|-- Nightmare Side
+================================================================================================================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ https://rizaldi.web.id
+http://listento.ardanradio.com:1059/;
+
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2020.03.26
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2020.03.19
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2020.03.12
+https://cloud.rizaldi.web.id/uploads/NMS/2020/03.12.2020.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2020.03.05
+https://cloud.rizaldi.web.id/uploads/NMS/2020/03.05.2020.mp3
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2020.02.27
+https://cloud.rizaldi.web.id/uploads/NMS/2020/02.27.2020.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2020.02.20
+https://cloud.rizaldi.web.id/uploads/NMS/2020/02.20.2020.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2020.02.13
+https://cloud.rizaldi.web.id/uploads/NMS/2020/02.13.2020.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2020.02.06
+https://cloud.rizaldi.web.id/uploads/NMS/2020/02.06.2020.mp3
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2020.01.30
+https://cloud.rizaldi.web.id/uploads/NMS/2020/01.30.2020.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2020.01.23
+https://cloud.rizaldi.web.id/uploads/NMS/2020/01.23.2020.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2020.01.16
+https://cloud.rizaldi.web.id/uploads/NMS/2020/01.16.2020.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2020.01.09
+https://cloud.rizaldi.web.id/uploads/NMS/2020/01.09.2020.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2020.01.02
+https://cloud.rizaldi.web.id/uploads/NMS/2020/01.02.2020-high-56.mp3
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.12.26
+https://cloud.rizaldi.web.id/uploads/NMS/2019/12.26.2019-clean.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.12.19
+https://cloud.rizaldi.web.id/uploads/NMS/2019/12.19.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.12.12
+https://cloud.rizaldi.web.id/uploads/NMS/2019/12.12.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.12.05
+https://cloud.rizaldi.web.id/uploads/NMS/2019/12.5.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.11.28
+https://cloud.rizaldi.web.id/uploads/NMS/2019/11.28.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.11.21
+https://cloud.rizaldi.web.id/uploads/NMS/2019/11.21.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.11.14
+https://cloud.rizaldi.web.id/uploads/NMS/2019/11.14.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.11.07
+https://cloud.rizaldi.web.id/uploads/NMS/2019/11.07.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.10.31
+https://cloud.rizaldi.web.id/uploads/NMS/2019/10.31.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.10.24
+https://cloud.rizaldi.web.id/uploads/NMS/2019/10.24.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.10.17
+https://cloud.rizaldi.web.id/uploads/NMS/2019/10.17.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.10.10
+https://cloud.rizaldi.web.id/uploads/NMS/2019/10.10.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.10.03
+https://cloud.rizaldi.web.id/uploads/NMS/2019/10.03.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.09.26
+https://cloud.rizaldi.web.id/uploads/NMS/2019/09.26.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.09.19
+https://cloud.rizaldi.web.id/uploads/NMS/2019/09.19.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.09.12
+https://cloud.rizaldi.web.id/uploads/NMS/2019/09.12.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.09.05
+https://cloud.rizaldi.web.id/uploads/NMS/2019/09.05.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.08.29
+https://cloud.rizaldi.web.id/uploads/NMS/2019/08.29.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.08.22
+https://cloud.rizaldi.web.id/uploads/NMS/2019/08.22.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.08.15
+https://cloud.rizaldi.web.id/uploads/NMS/2019/08.15.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.08.08
+https://cloud.rizaldi.web.id/uploads/NMS/2019/08.08.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.08.01
+https://cloud.rizaldi.web.id/uploads/NMS/2019/08.01.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.07.25
+https://cloud.rizaldi.web.id/uploads/NMS/2019/07.25.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.07.18
+https://cloud.rizaldi.web.id/uploads/NMS/2019/07.18.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.07.11
+https://cloud.rizaldi.web.id/uploads/NMS/2019/07.11.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.07.04
+https://cloud.rizaldi.web.id/uploads/NMS/2019/07.04.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.06.27
+https://cloud.rizaldi.web.id/uploads/NMS/2019/06.27.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.06.20
+https://cloud.rizaldi.web.id/uploads/NMS/2019/06.20.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.06.13
+https://cloud.rizaldi.web.id/uploads/NMS/2019/06.13.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.05.02
+https://cloud.rizaldi.web.id/uploads/NMS/2019/05.02.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.04.25
+https://cloud.rizaldi.web.id/uploads/NMS/2019/04.25.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.04.18
+https://cloud.rizaldi.web.id/uploads/NMS/2019/04.18.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.04.11
+https://cloud.rizaldi.web.id/uploads/NMS/2019/04.11.2019.mp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nightmare-Side.jpg" group-title="◄● Nightmare Side ●►",☠ Nightmare Side - 2019.04.04
+https://cloud.rizaldi.web.id/uploads/NMS/2019/04.04.2019.mp3
+
+
+
+<|-- Dangdut on Demand 
+================================================================================================================================
+================= Fitri Karlina =================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n09hcw6.jpg" group-title="♬ Dangdut on Demand ♬",♬ Fitri Carlina - Goyang Gagak
+https://media-vidio-com.akamaized.net/uploads/1789267/ets-fitri-f01a_f2802cf1_med.mp4.m3u8
+
+
+================= Jihan Audy =================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Adek Jilbab Biru [MP3]
+https://www.googleapis.com/drive/v3/files/14MUM3s6S37m7TZTZoOFhyQ5i5Vv3uQgc?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Adek Jilbab Biru [MP4]
+https://www.googleapis.com/drive/v3/files/1mLlKKQTADbMXZVXHYxm3-PxnXZVoKxfw?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Aku Sayang Banget Sama Kamu [MP3]
+https://www.googleapis.com/drive/v3/files/1lwtOSLRLKKCh8Nlr3hcc9CIi6S4unsO6?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Aku Sayang Banget Sama Kamu [MP4]
+https://www.googleapis.com/drive/v3/files/11Xo7hh3BXrW5raocAZdVKhRbhmDi3sep?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Aku Takut (Repvblik) [MP3]
+https://www.googleapis.com/drive/v3/files/19MK5lx0hH6y39sMaKoU3gEFs1stsDDJA?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Aku Takut (Repvblik) [MP4]
+https://www.googleapis.com/drive/v3/files/1Z1xnk6aAH4MexXVsJCq4Khehn9e2at2_?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Anak Yang Malang [MP3]
+https://www.googleapis.com/drive/v3/files/12TaoRz1nMH-NqZPw58rly8mhhMdUkQK5?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Anak Yang Malang [MP4]
+https://www.googleapis.com/drive/v3/files/1xBogwAQNEPdkxKs7DnJuabn_nn83RrZi?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Anugrah [MP3]
+https://www.googleapis.com/drive/v3/files/1ANHQEWqVQD8-UoPvnL5It-EEDlTPeukI?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Anugrah [MP4]
+https://www.googleapis.com/drive/v3/files/1Cx9m2Gn0OFDYXfX81pIGDM6Ibo7L3wu-?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Ayah [MP3]
+https://www.googleapis.com/drive/v3/files/1Xwtwn_P7oA4-vfpiwzqUWCCb1KnRFJM6?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Ayah [MP4]
+https://www.googleapis.com/drive/v3/files/1VFCB8NTZoo8OObg_q31g1nIeFIPqjO2R?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Baby Baby [MP3]
+https://www.googleapis.com/drive/v3/files/1wNUizjSe0l-Ljafq8EH_oCRAYmSNqka6?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Baby Baby [MP4]
+https://www.googleapis.com/drive/v3/files/1ETqIH4cEvh2wDA3pA74n1lfqfLJPRORz?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Badai Pasti Berakhir [MP3]
+https://www.googleapis.com/drive/v3/files/1Xvecpi6raI57CkrhtHm0kwQVlpqVGWML?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Badai Pasti Berakhir [MP4]
+https://www.googleapis.com/drive/v3/files/1V4VtsKCSGhE0kLMYDsR3AG2z4KNFNWxO?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Bayem Eri [MP3]
+https://www.googleapis.com/drive/v3/files/1arR3W4KwxEWxTmv38IT4gXvKd2vecRFq?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Bayem Eri [MP4]
+https://www.googleapis.com/drive/v3/files/19pVJM6Hzr-Wzzz7n3PvnEa0RMtFUzmvr?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Bikes [MP3]
+https://www.googleapis.com/drive/v3/files/1p0FfMyPPQFn_N1OSYJSa9h9ecgWlC35U?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Bikes [MP4]
+https://www.googleapis.com/drive/v3/files/1VAdggVA6x9U6seQRcLkogbgCEFJsVL5e?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Bisane Mung Nyawang [MP3]
+https://www.googleapis.com/drive/v3/files/1nLpd780gqNydXI8u7QvfxDFd-lXzVvWA?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Bisane Mung Nyawang [MP4]
+https://www.googleapis.com/drive/v3/files/12b6x6JZdZuKpYaRuEzOSCc-756ojGqUf?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Bohoso Moto [MP3]
+https://www.googleapis.com/drive/v3/files/1T7aw63oQL_5A6zTW0t1LN73izi1BB2CV?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Bohoso Moto [MP4]
+https://www.googleapis.com/drive/v3/files/1T7aw63oQL_5A6zTW0t1LN73izi1BB2CV?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Bojo Galak [MP3]
+https://www.googleapis.com/drive/v3/files/1Kx44XVJYOc2yaHh9td9VSMZI-eGUU6nC?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Bojo Galak [MP4]
+https://www.googleapis.com/drive/v3/files/1VU3eoVUgsuytyNDZKf0PLfl0WDIZqJtO?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Bojo Ketikung [MP3]
+https://www.googleapis.com/drive/v3/files/1Raypc0Au84K2qWdMmCm-H2lU1oEcnLW1?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jihan-Audy.jpg" group-title="♬ Dangdut on Demand ♬",♬ Jihan Audy - Bojo Ketikung [MP4]
+https://www.googleapis.com/drive/v3/files/1hSMR9cwqj8VljTpXXiZXE6thJHs4iV4L?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+================= Nella Kharisma =================
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717M00pDhfL._SS500_.jpg" group-title="♬ Dangdut on Demand ♬",♬ Nella Kharisma - Jaran Goyang [MP4]
+https://media-vidio-com.akamaized.net/uploads/860901/nella-20kharisma-20jaran-20goyang-386f-b1200.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717M00pDhfL._SS500_.jpg" group-title="♬ Dangdut on Demand ♬",♬ Nella Kharisma - Bojo Galak MP4]
+https://media-vidio-com.akamaized.net/uploads/1177188/bojo-20galak-4ed4-b1200.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717M00pDhfL._SS500_.jpg" group-title="♬ Dangdut on Demand ♬",♬ Nella Kharisma - Pulang Malu Gak Pulang Rindu MP4]
+https://media-vidio-com.akamaized.net/uploads/1251218/pulang-20malu-20gak-20pulang-20rindu-20master-6bdf-b1200.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717M00pDhfL._SS500_.jpg" group-title="♬ Dangdut on Demand ♬",♬ Nella Kharisma - Asal Kau Bahagia [MP4]
+https://media-vidio-com.akamaized.net/uploads/1239012/asal-20kau-20bahagia-20ok-db7a-b1200.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717M00pDhfL._SS500_.jpg" group-title="♬ Dangdut on Demand ♬",♬ Nella Kharisma - Kuwa Kuwi [MP4]
+https://media-vidio-com.akamaized.net/uploads/1678958/ets-nella-20kharisma-20-20kuwa-20kuwi-20-a31c-b1600.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717M00pDhfL._SS500_.jpg" group-title="♬ Dangdut on Demand ♬",♬ Nella Kharisma - Lanangan Ra Mutu [MP4]
+https://media-vidio-com.akamaized.net/uploads/1821667/ets-nella-20kharisma-20-20lanangan-20ra-20mutu-20-2b-20logo-c7b2_55471119_high.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717M00pDhfL._SS500_.jpg" group-title="♬ Dangdut on Demand ♬",♬ Nella Kharisma - Hanya Kamu [MP4]
+https://media-vidio-com.akamaized.net/uploads/1833294/ets-hanya-20kamu-20-20-20nella-20kharisma-20-official-20music-20video-20-2b-20logo-ca79_3ee9b769_high.mp4.m3u8
+
+================= Via Vallen =================
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71NSWedKDoL._SS500_.jpg" group-title="♬ Dangdut on Demand ♬",♬ Via Vallen - Selow MP4]
+https://media-vidio-com.akamaized.net/uploads/1829739/ets-via-20vallen-20-20selow-20-official-20music-20video-62b3_4d9dd44a_high.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71NSWedKDoL._SS500_.jpg" group-title="♬ Dangdut on Demand ♬",♬ Via Vallen - Ra Jodo [MP4]
+https://media-vidio-com.akamaized.net/uploads/1828843/ets-via-20vallen-20-20ra-20jodo-20-official-20music-20video-d8e8_abd1d431_high.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71NSWedKDoL._SS500_.jpg" group-title="♬ Dangdut on Demand ♬",♬ Via Vallen - Bojo Galak [MP4]
+https://media-vidio-com.akamaized.net/uploads/1828825/ets-via-20vallen-20-20bojo-20galak-20-official-20music-20video-771e_ebfeb24f_high.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71NSWedKDoL._SS500_.jpg" group-title="♬ Dangdut on Demand ♬",♬ Via Vallen - Meraih Bintang [MP4]
+https://media-vidio-com.akamaized.net/uploads/1639063/ets-via-20vallen-20-20meraih-20bintang-20hd-f185-b1600.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71NSWedKDoL._SS500_.jpg" group-title="♬ Dangdut on Demand ♬",♬ Via Vallen - Bro [MP4]
+https://media-vidio-com.akamaized.net/uploads/1829825/ets-via-20vallen-20-20bro-20-official-20music-20video-43b7_8feb6457_high.mp4.m3u8
+
+
+
+<|-- CocoFun
+================================================================================================================================
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 001 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/001.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 002 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/002.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 003 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/003.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 004 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/004.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 005 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/005.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 006 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/006.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 007 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/007.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 008 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/008.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 009 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/009.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 010 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/010.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 011 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/011.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 012 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/012.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 013 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/013.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 014 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/014.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 015 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/015.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 016 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/016.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 017 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/017.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 018 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/018.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 019 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/019.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 020 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/020.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 021 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/021.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 022 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/022.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 023 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/023.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 024 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/024.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 025 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/025.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 026 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/026.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 027 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/027.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 028 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/028.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 029 [filmbluray.iD]
+http://vod.rizkikhaizir.com/cocofun/029.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 030 [filmbluray.iD]
+https://moduloffice.my.id/zip/030adbb.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 031 [filmbluray.iD]
+https://moduloffice.my.id/zip/031jhsufdn.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 032 [filmbluray.iD]
+https://moduloffice.my.id/zip/032csdjnvks.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 033 [filmbluray.iD]
+https://moduloffice.my.id/zip/033kfhfm.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 034 [filmbluray.iD]
+https://moduloffice.my.id/zip/034ksufhs.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 035 [filmbluray.iD]
+https://moduloffice.my.id/zip/035scdsvdf.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 036 [filmbluray.iD]
+https://moduloffice.my.id/zip/036nzcjn.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 037 [filmbluray.iD]
+https://moduloffice.my.id/zip/037iuyha.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 038 [filmbluray.iD]
+https://moduloffice.my.id/zip/038mnbhjk.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 039 [filmbluray.iD]
+https://moduloffice.my.id/zip/039lkjmn.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 040 [filmbluray.iD]
+https://moduloffice.my.id/zip/040qrewt.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 041 [filmbluray.iD]
+https://moduloffice.my.id/zip/041qwert.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 042 [filmbluray.iD]
+https://moduloffice.my.id/zip/042hgfrt.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 043 [filmbluray.iD]
+https://moduloffice.my.id/zip/043jhknb.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 044 [filmbluray.iD]
+https://moduloffice.my.id/zip/044xvcbd.zip
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title="CocoFun",CocoFun 045 [filmbluray.iD]
+https://moduloffice.my.id/zip/045dfgsh.zip
+
+
+
+
+<|-- FTV SCTV
+================================================================================================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cRq2jPh.jpg" group-title="FTV SCTV",20200317 Jodoh Ditolak Nikah Bertindak
+http://url.filmbluray.id/03y73q5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Djzf03V.jpg" group-title="FTV SCTV",20200316 OMG Jodohku Kok Dia
+http://url.filmbluray.id/xm7gsxn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6kvedmT.jpg" group-title="FTV SCTV",20200315 Dari Security Bidadari Jatuh Ke Hati
+http://url.filmbluray.id/fpo2brr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wrFuYpN.jpg" group-title="FTV SCTV",20200314 Yakin Pengen Nikah? 
+http://url.filmbluray.id/3vdt33w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hPJgS8l.jpg" group-title="FTV SCTV",20200313 Jodohku Berawal Dari Hidung
+http://url.filmbluray.id/dcyo1x0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LB6xsMu.jpg" group-title="FTV SCTV",20200312 Layangan Putus, Cinta Nyambung Terus
+http://url.filmbluray.id/q4k1n9p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/etG9FFt.jpg" group-title="FTV SCTV",20200311 Pasien Aja Disembuhin, Apalagi Hati Kamu
+http://url.filmbluray.id/2vpuks7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AeNbULS.jpg" group-title="FTV SCTV",20200310 Nanti Kita Cerita Tentang Pelarian Kita ke KUA
+http://url.filmbluray.id/zp34cuc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/asC83OD.jpg" group-title="FTV SCTV",20200309 Mr. Steril Terjerumus Cinta
+http://url.filmbluray.id/rilkx8g
+#EXTINF:-1 tvg-logo="https://i.imgur.com/58Yo9Uy.jpg" group-title="FTV SCTV",20200308 Awas Jatuh Cinta, Nanti Nikah Beneran
+http://url.filmbluray.id/wisz1h5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qx0oJSp.jpg" group-title="FTV SCTV",20200307 Miss Tahu Bulat Jadi Mantu Dadakan
+http://url.filmbluray.id/93zg3pu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2zvP.jpg" group-title="FTV SCTV",20200306 Fix Terjebak Diantara Klean
+http://url.filmbluray.id/sl8f4v4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lPooiD.jpg" group-title="FTV SCTV",20200305 Badut Imut Anti Santuy
+http://url.filmbluray.id/v5ca7kt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dv3Nm1I.jpg" group-title="FTV SCTV",20200304 The Best Cowok Romantis Evah
+http://url.filmbluray.id/2q472cq
+#EXTINF:-1 tvg-logo="https://i.imgur.com/enRz3Y7.jpg" group-title="FTV SCTV",20200303 Satria: Negeri Ini Butuh Es Tebu
+http://url.filmbluray.id/8ssynd7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2fpvbv.jpg" group-title="FTV SCTV",20200302 Jadi Bucin Tapi Cuma Magang
+http://url.filmbluray.id/gdn3he4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FUq7EHc.jpg" group-title="FTV SCTV",20200301 Sandiwara Cinta Pangeran Agung Sejagat
+http://url.filmbluray.id/jvkx6tw 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ofkjj0n.jpg" group-title="FTV SCTV",20200229 Macho Tapi Mellow
+http://url.filmbluray.id/3efwqwu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQ6rByE.jpg" group-title="FTV SCTV",20200228 Club Ambyar Pejuang Cinta
+http://url.filmbluray.id/axmebzs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l7w2kVC.jpg" group-title="FTV SCTV",20200227 Diam Diam Cinta Akutu
+http://url.filmbluray.id/cimlzhw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ueLoknM.jpg" group-title="FTV SCTV",20200226 The Lord of Bintang Film
+http://url.filmbluray.id/yy3sgz6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71yQmRD.jpg" group-title="FTV SCTV",20200225 Cinta Paripurna Babang Hansip
+http://url.filmbluray.id/rwj47bt
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S4u1L7j.jpg" group-title="FTV SCTV",20200224 Dede Gemes Mentiktok Hatiku
+https://media-vidio-com.akamaized.net/uploads/1907894/ets-playlist-1200-39665.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h72LMFf.jpg" group-title="FTV SCTV",20200223 Rindu: Suara dari Pisang Nugget 
+https://media-vidio-com.akamaized.net/uploads/1907455/ets-playlist-1200-8a5dd.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3RO6MqU.jpg" group-title="FTV SCTV",20200222 Polisi Ganteng Mah Bebas
+https://media-vidio-com.akamaized.net/uploads/1907021/ets-playlist-1200-a73be.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7BtVqqX.jpg" group-title="FTV SCTV",20200221 Cintaku Zonk Ke Pelaminan
+https://media-vidio-com.akamaized.net/uploads/1906359/ets-playlist-1200-ccccc.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eVhCj2k.jpg" group-title="FTV SCTV",20200220 Cake Manis Buat Si Manis
+https://media-vidio-com.akamaized.net/uploads/1905750/ets-playlist-1200-59f92.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tS3YEkC.jpg" group-title="FTV SCTV",20200219 Mama Calon Mertua Culamitan
+https://media-vidio-com.akamaized.net/uploads/1905054/ets-playlist-1200-3a744.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh5LO6B.jpg" group-title="FTV SCTV",20200218 Miss Kumis Bikin Hati Kembang Kempis
+https://media-vidio-com.akamaized.net/uploads/1904419/ets-playlist-700-43efc.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4wBn9rV.jpg" group-title="FTV SCTV",20200217 Cewek Perabot Cintanya Ambyar Menembus Awan
+https://media-vidio-com.akamaized.net/uploads/1903728/ets-playlist-1200-8062f.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7lx3bzW.jpg" group-title="FTV SCTV",20200216 Terinfeksi Virus Tongseng yang Ku Mau
+https://media-vidio-com.akamaized.net/uploads/1903352/ets-playlist-1200-3e16a.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kxK09Hl.jpg" group-title="FTV SCTV",20200215 Nanti Kita Cerita Tentang Pukis Nangka
+https://media-vidio-com.akamaized.net/uploads/1903032/ets-playlist-1200-ec515.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ii3Z78V.jpg" group-title="FTV SCTV",20200214 Harta, Tahta, Cinta Sasha
+https://media-vidio-com.akamaized.net/uploads/1901941/ets-playlist-1200-8a412.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XNPhWyy.jpg" group-title="FTV SCTV",20200213 Culametan Met Met Di Playground
+https://media-vidio-com.akamaized.net/uploads/1900065/ets-playlist-1200-7c1b1.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PXo16zE.jpg" group-title="FTV SCTV",20200211 Jangan Ada Sambel Diantara Kita
+https://media-vidio-com.akamaized.net/uploads/1898373/ets-playlist-700-0be50.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J0v5TE2.jpg" group-title="FTV SCTV",20200210 Kehaluan Hakiki Calon Manten
+https://media-vidio-com.akamaized.net/uploads/1897441/ets-playlist-1200-e1489.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gzCkFy2.jpg" group-title="FTV SCTV",20200209 Cintaku di Share Location ke Hati Kamu
+https://media-vidio-com.akamaized.net/uploads/1896851/ets-playlist-1200-79078.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgTcK6q.jpg" group-title="FTV SCTV",20200208 I Love 1000 Karung Beras
+https://media-vidio-com.akamaized.net/uploads/1896204/ets-playlist-1200-26b32.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DwxyoBz.jpg" group-title="FTV SCTV",20200207 Cowok Gue Anak DWP (Dah Waktunya ke Penghulu)
+https://media-vidio-com.akamaized.net/uploads/1895027/ets-playlist-1200-572a3.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s9tNPEt.jpg" group-title="FTV SCTV",20200206 Virus Cinta Cewek Cincau
+https://media-vidio-com.akamaized.net/uploads/1893796/ets-playlist-1200-9f2fe.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hew7CpU.jpg" group-title="FTV SCTV",20200205 Pacar Trial Nona Es Kelapa Muda
+https://media-vidio-com.akamaized.net/uploads/1893117/ets-playlist-1200-33e13.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jn5Vnpf.jpg" group-title="FTV SCTV",20200204 Bucin Cinta, Aku Bisa Apa
+https://media-vidio-com.akamaized.net/uploads/1891298/ets-playlist-1200-2e2b4.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCyOmTz.jpg" group-title="FTV SCTV",20200203 Siapa Takut Cewek Galak?
+https://media-vidio-com.akamaized.net/uploads/1890029/ets-playlist-1200-82a70.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MSjSgCf.jpg" group-title="FTV SCTV",20200202 Cintaku di Top Up Sampai Unlimited
+https://media-vidio-com.akamaized.net/uploads/1889354/ets-playlist-1200-2fa8b.m3u8?filmbluray.iD.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2vVZ2n.jpg" group-title="FTV SCTV",20200201 Seblak Empire Hentikan Ledakan Cinta
+https://media-vidio-com.akamaized.net/uploads/1888777/ets-playlist-1200-f6a8b.m3u8?filmbluray.iD.m3u
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W0YnmaK.jpg" group-title="FTV SCTV",20200131 Kontrak Cinta yang Haqiqi
+https://media-vidio-com.akamaized.net/uploads/1888099/ets-playlist-1200-9399b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0suLkH.jpg" group-title="FTV SCTV",20200130 Jatuh Cinta Boleh Ngutang
+https://media-vidio-com.akamaized.net/uploads/1887301/ets-playlist-1200-b8ff9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VLks8mG.jpg" group-title="FTV SCTV",20200129 Cintaku Padamu Tanpa Tedeng Aling Aling
+https://media-vidio-com.akamaized.net/uploads/1886427/ets-playlist-1200-c269b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDZrEZb.jpg" group-title="FTV SCTV",20200127 Cintaku Pantang Keduluan Mantan
+https://media-vidio-com.akamaized.net/uploads/1884602/ets-playlist-1200-550db.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QhdzlVj.jpg" group-title="FTV SCTV",20200126 Jomblo Ngenes Anti Galau
+https://media-vidio-com.akamaized.net/uploads/1884074/ets-playlist-1200-0044f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xJ0Jrmr.jpg" group-title="FTV SCTV",20200125 Apa Harus Dipatok Ayam Biar Dinotice
+https://media-vidio-com.akamaized.net/uploads/1883379/ets-playlist-1200-185d0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T0xL3vu.jpg" group-title="FTV SCTV",20200124 Tourguide Setengah Cinta
+https://media-vidio-com.akamaized.net/uploads/1882512/ets-playlist-1200-72ce3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iExchgI.jpg" group-title="FTV SCTV",20200123 Service Hati Anti Missqueen
+https://media-vidio-com.akamaized.net/uploads/1881565/ets-playlist-1200-67576.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSsYMPt.jpg" group-title="FTV SCTV",20200122 Ratu Selendang Mayang Sejagat
+https://media-vidio-com.akamaized.net/uploads/1880912/ets-playlist-1200-d3cfb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQibnDg.jpg" group-title="FTV SCTV",20200120 Jiwa Baper Dangduter Meronta-ronta
+https://media-vidio-com.akamaized.net/uploads/1879704/ets-playlist-1200-5446d.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FJrBHZG.jpg" group-title="FTV SCTV",20200119 Banjir Cintamu Berpotensi Tsunami
+https://media-vidio-com.akamaized.net/uploads/1879341/ets-playlist-1200-22e45.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ng7Qj4X.jpg" group-title="FTV SCTV",20200118 Dari Lifeguard Jadi Loveguard
+https://media-vidio-com.akamaized.net/uploads/1879028/ets-playlist-1200-8ed47.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zMW8VeN.jpg" group-title="FTV SCTV",20200117 Jangan Kasih Kendor Mas Paijo!
+https://media-vidio-com.akamaized.net/uploads/1878475/ets-playlist-1200-26363.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hae4w2U.jpg" group-title="FTV SCTV",20200116 Comeback Sang Mantan
+https://media-vidio-com.akamaized.net/uploads/1877873/ets-playlist-1200-8ddda.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9YfYC3y.jpg" group-title="FTV SCTV",20200115 Semua Akan Naik Ojek Pada Waktunya
+https://media-vidio-com.akamaized.net/uploads/1877279/ets-playlist-1200-67105.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yndM1aD.jpg" group-title="FTV SCTV",20200114 Didalam Soto yang Segar Terdapat Cinta yang Enak
+https://media-vidio-com.akamaized.net/uploads/1876637/ets-playlist-1200-094f1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AU0WNwQ.jpg" group-title="FTV SCTV",20200113 Dicari: Suami Part Time
+https://media-vidio-com.akamaized.net/uploads/1876102/ets-playlist-1200-a0b54.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqqXe65.jpg" group-title="FTV SCTV",20200112 Musuh Tapi Jadian
+https://media-vidio-com.akamaized.net/uploads/1875700/ets-playlist-1200-849b9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gzm3PRk.jpg" group-title="FTV SCTV",20200111 Miss Patin Cinta Lahir Batin
+https://media-vidio-com.akamaized.net/uploads/1875362/ets-playlist-1200-3b202.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GgNETWK.jpg" group-title="FTV SCTV",20200110 Asisten Boss, Kenalan Jangan?
+https://media-vidio-com.akamaized.net/uploads/1874815/ets-playlist-1200-66efb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gpr8uAy.jpg" group-title="FTV SCTV",20200109 Cewek Catering Bikin Salfok
+https://media-vidio-com.akamaized.net/uploads/1874259/ets-playlist-1200-9615e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ceRslOs.jpg" group-title="FTV SCTV",20200108 My Love From India
+https://media-vidio-com.akamaized.net/uploads/1873682/ets-playlist-1200-e8570.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i6M0Vni.jpg" group-title="FTV SCTV",20200106 Sobat Ambyar Jadi Saksi Nikah Kita
+https://media-vidio-com.akamaized.net/uploads/1872381/ets-playlist-1200-93875.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qtYaDAi.jpg" group-title="FTV SCTV",20200104 Abang Ojek Hampir Macho
+https://media-vidio-com.akamaized.net/uploads/1871799/ets-playlist-1200-6abc2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Htwq20X.jpg" group-title="FTV SCTV",20200103 Boyfriend Kiriman dari Surga
+https://media-vidio-com.akamaized.net/uploads/1871291/ets-playlist-1200-6cbf4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gpIBrr0.jpg" group-title="FTV SCTV",20200102 Cinta Ambyar Sobat Meong
+https://media-vidio-com.akamaized.net/uploads/1870915/ets-playlist-1200-a60b7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fZLt5Y1.jpg" group-title="FTV SCTV",20200101 Fix Gue Jatuh Cinta di Playground
+https://media-vidio-com.akamaized.net/uploads/1870587/ets-playlist-1200-f7c22.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QWu532p.jpg" group-title="FTV SCTV",20191231 Siapa yang Suruh Datang Jakarta?
+https://media-vidio-com.akamaized.net/uploads/1870165/ets-playlist-1200-23ef2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CbhJ21w.jpg" group-title="FTV SCTV",20191230 Mba Angkot Berkalung Sorban
+https://media-vidio-com.akamaized.net/uploads/1869695/ets-playlist-1200-03ca5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hsyX9tm.jpg" group-title="FTV SCTV",20191229 Musuh Bebuyutan Cintanya Belum End
+https://media-vidio-com.akamaized.net/uploads/1869367/ets-playlist-700-f9e19.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPoNiCl.jpg" group-title="FTV SCTV",20191228 Karier, Cinta dan Pak Satpam
+https://media-vidio-com.akamaized.net/uploads/1869076/ets-playlist-700-cf2f7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BL4cV1d.jpg" group-title="FTV SCTV",20191227 Mas Ganteng Bikin Frozen
+https://media-vidio-com.akamaized.net/uploads/1868479/ets-playlist-1200-65fbe.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1mWKxj.jpg" group-title="FTV SCTV",20191225 Badut Santuy To The Max
+https://media-vidio-com.akamaized.net/uploads/1866883/ets-playlist-1200-dbf14.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNjJxnn.jpg" group-title="FTV SCTV",20191223 Inem Asisten Seksi Repot
+https://media-vidio-com.akamaized.net/uploads/1865333/ets-playlist-900-31d5d.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4YYwIom.jpg" group-title="FTV SCTV",20191222 Akhirnya Kopilih Aku Daripada Dia
+https://media-vidio-com.akamaized.net/uploads/1864807/ets-playlist-900-bca1f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68ybhNq.jpg" group-title="FTV SCTV",20191221 Neng Supir Aku Tanpamu I'Mbyar
+https://media-vidio-com.akamaized.net/uploads/1864179/ets-playlist-1200-007f2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZAzAj9.jpg" group-title="FTV SCTV",20191220 Biar Tak Seumur Cintaku Pantang Mundur
+https://media-vidio-com.akamaized.net/uploads/1863511/ets-playlist-1200-d1ff4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVaxUZi.jpg" group-title="FTV SCTV",20191219 Cintaku Bernapas dalam Bubur
+https://media-vidio-com.akamaized.net/uploads/1862362/ets-playlist-400-92508.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UulJIgX.jpg" group-title="FTV SCTV",20191218 Jodoh Gak Akan Kemana Saingan Dimana-Mana
+https://media-vidio-com.akamaized.net/uploads/1861383/ets-playlist-900-4abd3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/moYvr1o.jpg" group-title="FTV SCTV",20191217 Pacar Gue Bukan Cewek Gedongan
+https://media-vidio-com.akamaized.net/uploads/1860478/ets-playlist-1200-166a2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3lcbRt.jpg" group-title="FTV SCTV",20191216 Biduan Gerobak Dangdut Trending
+https://media-vidio-com.akamaized.net/uploads/1859430/ets-playlist-1200-dc567.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qrod2wQ.jpg" group-title="FTV SCTV",20191215 Pantang Pulang Sebelum Jadian
+https://media-vidio-com.akamaized.net/uploads/1858476/ets-playlist-1200-27fd5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuPEZbC.jpg" group-title="FTV SCTV",20191214 Modus Cinta Tingkat Kuli
+https://media-vidio-com.akamaized.net/uploads/1857514/ets-playlist-1200-757de.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8xNnLZC.jpg" group-title="FTV SCTV",20191213 Aku Cinta Kamu 3000 Kilo
+https://media-vidio-com.akamaized.net/uploads/1856382/ets-playlist-1200-361f7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sFjWuUP.jpg" group-title="FTV SCTV",20191212 Aku Terlalu Palsu Untuk Cintamu yang Asli
+https://media-vidio-com.akamaized.net/uploads/1855254/ets-playlist-1200-614cf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V8YdLml.jpg" group-title="FTV SCTV",20191211 Jodoh Cewek Sapi Kena Cancel
+https://media-vidio-com.akamaized.net/uploads/1854077/ets-playlist-1200-d7e1a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3tNZ0oE.jpg" group-title="FTV SCTV",20191210 Cinta Kamu Munculnya di Ending
+https://media-vidio-com.akamaized.net/uploads/1852950/ets-playlist-1200-857d5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dt5ZTo2.jpg" group-title="FTV SCTV",20191209 Miss Kinclong Colong Hatiku
+https://media-vidio-com.akamaized.net/uploads/1851907/ets-playlist-1200-9651c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dU7sMev.jpg" group-title="FTV SCTV",20191208 Kekuatan Cintamu Bertegangan Tinggi
+https://media-vidio-com.akamaized.net/uploads/1851126/ets-playlist-1200-a4cae.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K683k9C.jpg" group-title="FTV SCTV",20191207 Dear Eneng Bebekku Sayang
+https://media-vidio-com.akamaized.net/uploads/1850341/ets-playlist-1200-d8d99.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MDtFpDI.jpg" group-title="FTV SCTV",20191206 Cowok Mreki Bikin Jatuh Hati
+https://media-vidio-com.akamaized.net/uploads/1849322/ets-playlist-1200-b4b6b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/92wN5J1.jpg" group-title="FTV SCTV",20191205 Kue Leker Bukan Kaleng-Kaleng
+https://media-vidio-com.akamaized.net/uploads/1848390/ets-playlist-1200-1e6bc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8bx39J.jpg" group-title="FTV SCTV",20191204 Bongkar Saldo Cinta Supir Truk Modis
+https://media-vidio-com.akamaized.net/uploads/1847273/ets-playlist-1200-05e49.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuqOjBs.jpg" group-title="FTV SCTV",20191203 Boss Killer Juteknya Level Halilintar 
+https://media-vidio-com.akamaized.net/uploads/1846126/ets-playlist-1200-7f466.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYEXZth.jpg" group-title="FTV SCTV",20191202 Click Bait Cinta si Tinggi
+https://media-vidio-com.akamaized.net/uploads/1844859/ets-playlist-900-11f1f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ez87H8M.jpg" group-title="FTV SCTV",20191201 Cewek Cetar Turun Kasta Dapat Tahta
+https://media-vidio-com.akamaized.net/uploads/1844084/ets-playlist-900-719ca.m3u8
+
+
+==============================================================================
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/91Euqp8.jpg" group-title="FTV SCTV",20191129 Pacarku Cantik Tapi Boong
+https://media-vidio-com.akamaized.net/uploads/1842685/ets-playlist-900-5265c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9tsVFj0.jpg" group-title="FTV SCTV",20191128 My Wife Ngeselin tapi Ngangenin
+https://media-vidio-com.akamaized.net/uploads/1841778/ets-playlist-1200-cc2b1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tm8GnCc.jpg" group-title="FTV SCTV",20191125 Wig-mu Alihkan Duniaku
+https://media-vidio-com.akamaized.net/uploads/1839114/ets-playlist-1200-d2f4f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkCKmkH.jpg" group-title="FTV SCTV",20191122 Aku Mau Cinta yang Hunya Hinyu
+https://media-vidio-com.akamaized.net/uploads/1836878/ets-playlist-1200-d38fb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KR9BOEn.jpg" group-title="FTV SCTV",20191121 Mas Jawara In Your Area
+https://media-vidio-com.akamaized.net/uploads/1835963/ets-playlist-1200-22eaa.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/__idyxqWSwQNh0ays6GgyiX_jRo=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1835163/ftv-sctv-gadis-martabak-hampir-bahagia-a76ae3.jpg" group-title="FTV SCTV",20191120 Gadis Martabak Hampir Bahagia
+https://media-vidio-com.akamaized.net/uploads/1835163/ets-playlist-1200-6cc14.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s-Tdlhk7A1va_mUKUikolaUvhp4=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1834053/ftv-sctv-tukang-bajaj-undercover-529e69.jpg" group-title="FTV SCTV",20191119 Tukang Bajaj Undercover
+https://media-vidio-com.akamaized.net/uploads/1835963/ets-playlist-1200-22eaa.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/PgRUMSVeZXYTEQbyAXKOFSlQmAU=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1832817/ftv-sctv-bidan-kw-sobat-ambyar-6e21b7.jpg" group-title="FTV SCTV",20191118 Bidan KW Sobat Ambyar
+https://media-vidio-com.akamaized.net/uploads/1832817/ets-playlist-1200-2d37a.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/EY6yK9fQdfGl5kaUyr3dvfCQ-4I=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1831851/ftv-sctv-sekretaris-metal-obat-patah-hati-b52711.jpg" group-title="FTV SCTV",20191117 Sekretaris Metal Obat Patah Hati
+https://media-vidio-com.akamaized.net/uploads/1831851/ets-playlist-700-63563.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/AtxB11Mhq1Nt5_C7zrREQ2slNVs=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1830958/ftv-sctv-maduku-tak-sesederhana-truth-or-dare-80192f.jpg" group-title="FTV SCTV",20191116 Maduku Tak Sesederhana Truth Or Dare
+https://media-vidio-com.akamaized.net/uploads/1830958/ets-playlist-700-c3146.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/E_cCxiO-KAMzkKfxoKKTdG8TDY4=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1738540/ftv-sctv-gebetan-gue-tajir-mewangi-1c657c.jpg" group-title="FTV SCTV",20190831 Gebetan Gue Tajir Mewangi
+https://media-vidio-com.akamaized.net/uploads/1738540/ets-playlist-900-2c6c3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RVswb7ydkzobtM2mi5KiEL0U6M8=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1685902/ftv-sctv-ratu-diskon-cintanya-limited-edition-cecf79.jpg" group-title="FTV SCTV",20190623 Ratu Diskon Cintanya Limited Edition
+https://media-vidio-com.akamaized.net/uploads/1685902/ets-playlist-1600-7bf91.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/3Tdoto-u_SHIy9nJmviWkpMY31k=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1531510/ftv-sctv-pacarannya-sama-gue-nikahnya-sama-dia-sctv-7fca7c.jpg" group-title="FTV SCTV",20181208 Pacarannya Sama Gue, Nikahnya Sama Dia
+https://media-vidio-com.akamaized.net/uploads/1531510/ets-playlist-1600-bbe29.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vVr57fgOSTN3ZfkxGYGWKlcyly8=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1657106/ftv-sctv-my-wife-anak-geng-motor-5b956b.jpg" group-title="FTV SCTV",My Wife Anak Geng Motor
+https://media-vidio-com.akamaized.net/uploads/1657106/ets-playlist-900-b2f1d.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rhdua7eMX9RD4ySPXgADkGqHijA=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1673681/ftv-sctv-mengejar-cinta-siap-bosque-sctv-06fedb.jpg" group-title="FTV SCTV",Mengejar Cinta? Siap Bosque
+https://media-vidio-com.akamaized.net/uploads/1673681/ets-playlist-1600-e3afc.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Elcy1ZHRzH05oz5wx4gjua7ny9k=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1662722/ftv-sctv-milyader-kece-dengan-kearifan-lokal-48d6c2.jpg" group-title="FTV SCTV",Milyader Kece Dengan Kearifan Lokal
+https://media-vidio-com.akamaized.net/uploads/1662722/ets-playlist-1600-06596.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rqB_dXW-Eg3KldBRbyB854GPyNM=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1680605/ftv-sctv-digombalin-miss-kecambah-auto-baper-sctv-fbcd36.jpg" group-title="FTV SCTV",Digombalin Miss Kecambah Auto Baper
+https://media-vidio-com.akamaized.net/uploads/1680605/ets-playlist-1600-baeae.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/weKT3npWhaaOotyjvvFYwiaG6uc=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1817788/ftv-sctv-cewek-kalong-pacaran-yuk-f6755f.jpg" group-title="FTV SCTV",Cewek Kalong Pacaran, Yuk
+https://media-vidio-com.akamaized.net/uploads/1817788/ets-playlist-700-0ed5d.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sNuXJl_4AjwNV7V2xisZ6GVwUX0=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1809819/ftv-sctv-demo-syantik-mahasiswi-cetar-626a2c.jpg" group-title="FTV SCTV",Demo Syantik Mahasiswi Cetar 
+https://media-vidio-com.akamaized.net/uploads/1809819/ets-playlist-1200-9219d.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LqgfOgBj1Nj7CL9FqWhIIpHcscg=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1819874/ftv-sctv-senoparty-goes-to-kandang-bebek-c8751b.jpg" group-title="FTV SCTV",Senoparty Goes To Kandang Bebek
+https://geo-id-media-vidio-com.akamaized.net/uploads/1819874/ets-playlist-700-edafb.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/e8I27iyHqU6vE_Y-SNj-iL_YaEM=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1822341/ftv-sctv-mantan-please-do-your-magic-a4d06f.jpg" group-title="FTV SCTV",Mantan Please Do Your Magic
+https://media-vidio-com.akamaized.net/uploads/1822341/ets-playlist-700-666a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/4fEEWWDgCh4IK9dQ5jMF4wykwgQ=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1821183/ftv-sctv-jiwa-kejombloanku-terguncang-a3bc83.jpg" group-title="FTV SCTV",Jiwa Kejombloanku Terguncang
+https://geo-id-media-vidio-com.akamaized.net/uploads/1821183/ets-playlist-1200-ed0d7.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vaxS2P_A4QZwuSgpKOtExHP10Y4=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1824246/ftv-sctv-rayuan-gombal-kumbang-metropolitan-9bb025.jpg" group-title="FTV SCTV",Rayuan Gombal Kumbang Metropolitan
+https://media-vidio-com.akamaized.net/uploads/1824246/ets-playlist-700-412b2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RH7PhvU4OC8CHLmDSH1AAeNRdG8=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1818856/seg-2-ftv-sctv-mbok-jamu-milenial-cintanya-ambyar-69f3d3.jpg" group-title="FTV SCTV",Mbok Jamu Milenial Cintanya Ambyar
+https://geo-id-media-vidio-com.akamaized.net/uploads/1818856/ets-playlist-700-87c71.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8-TGhih9JFVwWVWlNbkQACyTgIM=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1823379/ftv-sctv-wasiat-eyang-bikin-baper-so-hard-fe0e52.jpg" group-title="FTV SCTV",Wasiat Eyang Bikin Baper So Hard
+https://media-vidio-com.akamaized.net/uploads/1823379/ets-playlist-700-75202.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/u22zviQG0kxpabmRU4vodel7eCs=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1748300/ftv-sctv-menantu-bayaran-bikin-salfok-duniaku-6be1cc.jpg" group-title="FTV SCTV",Menantu Bayaran Bikin Salfok Duniaku
+https://geo-id-media-vidio-com.akamaized.net/uploads/1748300/ets-playlist-900-3d669.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lLVR-JUIOtWSmyx5ukbYkNARg30=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/291848/ftv-sctv-resep-cinta-bikin-romantis-7a4a2b.jpg" group-title="FTV SCTV",Resep Cinta Bikin Romantis
+https://geo-id-media-vidio-com.akamaized.net/uploads/291848/playlist-1200-2cc18.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TXT39JCV6ayXB6-Mv0LXDfpEqtM=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/764168/ftv-sctv-cintaku-semerbak-di-florist-9905de.jpg" group-title="FTV SCTV",Cintaku Semerbak di Florist
+https://geo-id-media-vidio-com.akamaized.net/uploads/764168/playlist-1200-4c5f9.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YuTGJStV7v_34z26mauH5k-5gck=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1640672/ftv-sctv-resep-cinta-kaki-lima-rasa-bintang-lima-107998.jpg" group-title="FTV SCTV",Resep Cinta Kaki Lima Rasa Bintang Lima
+https://media-vidio-com.akamaized.net/uploads/1640672/ets-playlist-1600-9abc2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YfOQ0Uq6IhswEfZ-CBeIybXc6gQ=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1220317/ftv-sctv-ratu-montir-sejagad-c91222.jpg" group-title="FTV SCTV",Ratu Montir Sejagad
+https://geo-id-media-vidio-com.akamaized.net/uploads/1220317/playlist-1200-33a98.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vIYY9RSTLicgZGOiBtoITHYhfAs=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1177041/ftv-sctv-perempuan-dalam-sangkar-emas-sctv-4c1bb8.jpg" group-title="FTV SCTV",Perempuan Dalam Sangkar Emas
+https://geo-id-media-vidio-com.akamaized.net/uploads/1177041/playlist-1200-bcc72.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/K5aGYurFjLqb9vZ53AWkCgaF7Hs=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1228364/ftv-sctv-setangkai-rambutan-cinta-697e2c.jpg" group-title="FTV SCTV",Setangkai Rambutan Cinta
+https://geo-id-media-vidio-com.akamaized.net/uploads/1228364/playlist-1200-3004e.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vGSrGmKXpIz3u7aZV38bQE8bCTE=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/829290/ftv-sctv-pacarku-sang-juara-no-27-0a9a7b.jpg" group-title="FTV SCTV",Pacarku Sang Juara No 27
+https://geo-id-media-vidio-com.akamaized.net/uploads/829290/playlist-1200-4ce7f.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NfVORRr3XkprGhdpnEkNG6nEUo8=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1651054/ftv-sctv-hatiku-di-skakmat-by-you-0c7008.jpg" group-title="FTV SCTV",20190504 Hatiku di Skakmat by You
+https://media-vidio-com.akamaized.net/uploads/1651054/ets-playlist-1600-119ef.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Z4KzfziP_Ro0wqOEkQKPttIphNY=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1635620/ftv-sctv-gadis-62-lupa-cinta-f1e490.jpg" group-title="FTV SCTV",20190413 Gadis +62 Lupa Cinta
+https://media-vidio-com.akamaized.net/uploads/1635620/ets-playlist-1600-32865.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/a5xnnyJ88yo7EDZaxc12V-ZMOGg=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1608387/ftv-sctv-energi-cinta-cinderella-matre-0af4fb.jpg" group-title="FTV SCTV",20190312 Energi Cinta Cinderella Matre
+https://media-vidio-com.akamaized.net/uploads/1608387/ets-playlist-1600-0cec5.m3u8
+
+
+
+
+
+
+<|-- Vidio Premier ID
+================================================================================================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34Bhx4U.png" group-title="◄● Vidio Premier ID ●►",AKU KAU dan KUA [720p]
+https://media-vidio-com.akamaized.net/uploads/1514434/aku-20kau-20dan-20kua-20feature-1-31ac-b1200.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34Bhx4U.png" group-title="◄● Vidio Premier ID ●►",AKU KAU dan KUA [1080p]
+https://media-vidio-com.akamaized.net/uploads/1514434/ets-aku-20kau-20dan-20kua-20feature-1-31ac-b8000.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SpfPUwQ.png" group-title="◄● Vidio Premier ID ●►",Basahhh [720p]
+https://media-vidio-com.akamaized.net/uploads/1514783/ets-basah-20full-20movie-1-91dc-b1600.mp4.m3u8?filmbluray.iD.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SpfPUwQ.png" group-title="◄● Vidio Premier ID ●►",Basahhh [1080p]
+https://media-vidio-com.akamaized.net/uploads/1514783/ets-basah-20full-20movie-1-91dc-b8000.mp4.m3u8?filmbluray.iD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/soRaypa.png" group-title="◄● Vidio Premier ID ●►",Get Married 1 [416p]
+https://media-vidio-com.akamaized.net/uploads/1507783/get-20married-20feature-20-20convert-ea65-b1200.mp4.m3u8?filmbluray.iD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Qv7fs6.png" group-title="◄● Vidio Premier ID ●►",Get Married 2 [360p]
+https://media-vidio-com.akamaized.net/uploads/1507784/ets-get-20married-202-20feature-20-20convert-fea7-b900.mp4.m3u8?filmbluray.iD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hma6NE1.png" group-title="◄● Vidio Premier ID ●►",Get Married 3 [720p]
+https://media-vidio-com.akamaized.net/uploads/1507491/get-20married-203-20feature-20-20convert-08af-b1200.mp4.m3u8?filmbluray.iD.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hma6NE1.png" group-title="◄● Vidio Premier ID ●►",Get Married 3 [1080p]
+https://media-vidio-com.akamaized.net/uploads/1507491/ets-get-20married-203-20feature-20-20convert-08af-b8000.mp4.m3u8?filmbluray.iD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WphvYvx.png" group-title="◄● Vidio Premier ID ●►",Ketika [720p]
+https://media-vidio-com.akamaized.net/uploads/1555237/ets-ketika-51fb-b1600.mp4.m3u8?filmbluray.iD.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WphvYvx.png" group-title="◄● Vidio Premier ID ●►",Ketika [1080p]
+https://media-vidio-com.akamaized.net/uploads/1555237/ets-ketika-51fb-b8000.mp4.m3u8?filmbluray.iD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6vmRLYO.png" group-title="◄● Vidio Premier ID ●►",Kukejar Cinta ke Negeri Cina [720p]
+https://media-vidio-com.akamaized.net/uploads/1508152/kukejar-20cinta-20ke-20negeri-20cina-20feature-1-d68d-b1200.mp4.m3u8?filmbluray.iD.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6vmRLYO.png" group-title="◄● Vidio Premier ID ●►",Kukejar Cinta ke Negeri Cina [1080p]
+https://media-vidio-com.akamaized.net/uploads/1508152/ets-kukejar-20cinta-20ke-20negeri-20cina-20feature-1-d68d-b8000.mp4.m3u8?filmbluray.iD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VPVLs4s.png" group-title="◄● Vidio Premier ID ●►",Manusia Setengah Salmon [720p]
+https://media-vidio-com.akamaized.net/uploads/1508117/manusia-20setengah-20salmon-20feature-convert-39e7-b1200.mp4.m3u8?filmbluray.iD.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VPVLs4s.png" group-title="◄● Vidio Premier ID ●►",Manusia Setengah Salmon [1080p]
+https://media-vidio-com.akamaized.net/uploads/1508117/ets-manusia-20setengah-20salmon-20feature-convert-39e7-b8000.mp4.m3u8?filmbluray.iD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8JLCTTn.jpg" group-title="◄● Vidio Premier ID ●►",Mau dong... ah [720p]
+https://media-vidio-com.akamaized.net/uploads/1853548/ets-mau-20dong-20ah_hd-20upscale_mix-7868_6f3c5f3e_high.mp4.m3u8?filmbluray.iD.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8JLCTTn.jpg" group-title="◄● Vidio Premier ID ●►",Mau dong... ah [1080p]
+https://media-vidio-com.akamaized.net/uploads/1853548/ets-mau-20dong-20ah_hd-20upscale_mix-7868_2f4d8615_premier.mp4.m3u8?filmbluray.iD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XuuTcEP.jpg" group-title="◄● Vidio Premier ID ●►",Promise [720p]
+https://media-vidio-com.akamaized.net/uploads/1843651/ets-promise_ftr-4d54_805ceb28_high.mp4.m3u8?filmbluray.iD.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XuuTcEP.jpg" group-title="◄● Vidio Premier ID ●►",Promise [1080p]
+https://media-vidio-com.akamaized.net/uploads/1843651/ets-promise_ftr-4d54_b07d8137_premier.mp4.m3u8?filmbluray.iD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fK2ulTl.jpg" group-title="◄● Vidio Premier ID ●►",Quickie Express [720p]
+https://media-vidio-com.akamaized.net/uploads/1648635/ets-quickie-20express-20vidiocom-1-2b31-b1600.mp4.m3u8?filmbluray.iD.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fK2ulTl.jpg" group-title="◄● Vidio Premier ID ●►",Quickie Express [1080p]
+https://media-vidio-com.akamaized.net/uploads/1648635/ets-quickie-20express-20vidiocom-1-2b31-b8000.mp4.m3u8?filmbluray.iD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VybXkYX.png" group-title="◄● Vidio Premier ID ●►",Sang Dewi [576p]
+https://media-vidio-com.akamaized.net/uploads/1516543/sang-20dewi-20-1-82e5-b1200.mp4.m3u8?filmbluray.iD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZG2mzrL.png" group-title="◄● Vidio Premier ID ●►",SLANK Gak Ada Matinya [720p]
+https://media-vidio-com.akamaized.net/uploads/1514864/slank-20nggak-20ada-20matinya-20feature-1-6bf1-b1200.mp4.m3u8?filmbluray.iD.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZG2mzrL.png" group-title="◄● Vidio Premier ID ●►",SLANK Gak Ada Matinya [1080p]
+https://media-vidio-com.akamaized.net/uploads/1514864/ets-slank-20nggak-20ada-20matinya-20feature-1-6bf1-b8000.mp4.m3u8?filmbluray.iD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZfjT1di.jpg" group-title="◄● Vidio Premier ID ●►",Super Didi [720p]
+https://media-vidio-com.akamaized.net/uploads/1620529/ets-super-20didi-8c7d-b1600.mp4.m3u8?filmbluray.iD.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZfjT1di.jpg" group-title="◄● Vidio Premier ID ●►",Super Didi [1080p]
+https://media-vidio-com.akamaized.net/uploads/1620529/ets-super-20didi-8c7d-b8000.mp4.m3u8?filmbluray.iD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcSZCy1.jpg" group-title="◄● Vidio Premier ID ●►",The Mentalist [720p]
+https://media-vidio-com.akamaized.net/uploads/1633022/ets-the-20mentalist-20vidiocom-f33a-b1600.mp4.m3u8?filmbluray.iD.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcSZCy1.jpg" group-title="◄● Vidio Premier ID ●►",The Mentalist [1080p]
+https://media-vidio-com.akamaized.net/uploads/1633022/ets-the-20mentalist-20vidiocom-f33a-b8000.mp4.m3u8?filmbluray.iD.mp4
+
+
+
+<|-- ◄● VIU SHORTS! ●►
+================================================================================================================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trailer.png" group-title="◄● VIU SHORTS! ●►",Trailer [by @PribowoS]
+http://url.filmbluray.id/eqmq829
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/kelangkahan.png" group-title="◄● VIU SHORTS! ●►", Mitos Cilegon - Kelangkahan [filmbluray.iD]
+http://url.filmbluray.id/rvlr1qb
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/kue-khasidah.png" group-title="◄● VIU SHORTS! ●►", Mitos Siak - Kue Khasidah [filmbluray.iD]
+http://url.filmbluray.id/ijspqd3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/abu-ajaib.png" group-title="◄● VIU SHORTS! ●►", Mitos Bojonegoro - Abu Ajaib [filmbluray.iD]
+http://url.filmbluray.id/u7kyje4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/3-batu.png" group-title="◄● VIU SHORTS! ●►", Mitos Kupang - Tiga Batu [filmbluray.iD]
+http://url.filmbluray.id/lpi5agm
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/miu-mai.png" group-title="◄● VIU SHORTS! ●►", Mitos Maumere - Miu Mai [filmbluray.iD]
+http://url.filmbluray.id/qar4uzq
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/pattongko-siri.png" group-title="◄● VIU SHORTS! ●►", Mitos Makassar - Pattongko Siri [filmbluray.iD]
+http://url.filmbluray.id/017ykyh
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/bakera.png" group-title="◄● VIU SHORTS! ●►", Mitos Manado - Bakera [filmbluray.iD]
+http://url.filmbluray.id/ntuwkmv
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/sandiwara-senja.png" group-title="◄● VIU SHORTS! ●►", Mitos Tanjung Pinang - Sandiwara Senja [filmbluray.iD]
+http://url.filmbluray.id/x3vprca
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/mutiara-saka.png" group-title="◄● VIU SHORTS! ●►", Mitos Batam - Mutiara Saka [filmbluray.iD]
+http://url.filmbluray.id/imxuaor
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/meong.png" group-title="◄● VIU SHORTS! ●►", Mitos Labuan Bajo - Meong [filmbluray.iD]
+http://url.filmbluray.id/n3h5e7y
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/ikan-larangan.png" group-title="◄● VIU SHORTS! ●►", Mitos Padang - Ikan Larangan [filmbluray.iD]
+http://url.filmbluray.id/xhvsuea
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/replika-pulo-rubiah.png" group-title="◄● VIU SHORTS! ●►", Mitos Banda Aceh - Replika Cerita Pulo Rubiah [filmbluray.iD]
+http://url.filmbluray.id/2wfvwlw
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/merian-etam.png" group-title="◄● VIU SHORTS! ●►", Mitos Samarinda - Merian Etam [filmbluray.iD]
+http://url.filmbluray.id/nzu83mc
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/kalambu.png" group-title="◄● VIU SHORTS! ●►", Mitos Banjarmasin - Kalambu [filmbluray.iD]
+http://url.filmbluray.id/yqd8d7i
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/4-angka.png" group-title="◄● VIU SHORTS! ●►", Mitos Singkawang - 4 Angka [filmbluray.iD]
+http://url.filmbluray.id/g281nfj
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/nyawur.png" group-title="◄● VIU SHORTS! ●►", Mitos Purbalingga - Nyawur [filmbluray.iD]
+http://url.filmbluray.id/uyykzh6
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/gala-guna-guna.png" group-title="◄● VIU SHORTS! ●►",Mitos Banyuwangi - Gala Guna Guna [filmbluray.iD]
+http://url.filmbluray.id/g2p3e9r
+
+
+
+
+
+
+
+<|-- VOD Animasi
+================================================================================================================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Shaun-the-Sheep-Farmageddon.png" group-title="◄● VOD Animasi ●►",A Shaun the Sheep Movie: Farmageddon (2019)
+http://url.filmbluray.id/4axrk5s
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Abominable.png" group-title="◄● VOD Animasi ●►",Abominable (2019) [filmbluray.iD]
+http://url.filmbluray.id/mm9xkpl
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/asterix.png" group-title="◄● VOD Animasi ●►",Asterix: The Secret of the Magic Potion (2018) [filmbluray.iD]
+http://url.filmbluray.id/2q1yceo
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/batgho.png" group-title="◄● VOD Animasi ●►",Batman - Gotham by Gaslight (2018) [filmbluray.iD]
+http://url.filmbluray.id/6a7ul5t
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/surabaya.png" group-title="◄● VOD Animasi ●►",Battle of Surabaya (2015) [filmbluray.iD]
+http://url.filmbluray.id/b15s9et
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fox.png" group-title="◄● VOD Animasi ●►",Black Fox (2019) [filmbluray.iD]
+http://url.filmbluray.id/clqbyuf
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/ali.png" group-title="◄● VOD Animasi ●►",Ejen Ali The Movie (2019) [filmbluray.iD]
+http://url.filmbluray.id/5domobo
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Frozen-1.png" group-title="◄● VOD Animasi ●►",Frozen 1 (2013) [filmbluray.iD]
+http://url.filmbluray.id/ov64ybs
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Frozen-2.png" group-title="◄● VOD Animasi ●►",Frozen 2 (2019) [filmbluray.iD]
+http://url.filmbluray.id/lksa5dk
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/name.png" group-title="◄● VOD Animasi ●►",Kimi no Na wa. (2016) [filmbluray.iD]
+http://url.filmbluray.id/1n0xii8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/minions.png" group-title="◄● VOD Animasi ●►",Minions (2015) [filmbluray.iD]
+http://url.filmbluray.id/rwzvloo
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Ne-Zha-2019.png" group-title="◄● VOD Animasi ●►",Ne Zha (2019) [filmbluray.iD]
+http://url.filmbluray.id/aomzqqc
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Ni-No-Kuni.png" group-title="◄● VOD Animasi ●►",Ni No Kuni (2020) [filmbluray.iD]
+http://url.filmbluray.id/i8c7hes
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/stampede.png" group-title="◄● VOD Animasi ●►",One Piece : Stampede (2019) [filmbluray.iD]
+http://url.filmbluray.id/g3g6wow
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/spiderverse.png" group-title="◄● VOD Animasi ●►",Spider-Man : Into Spider-Verse (2018) [filmbluray.iD]
+http://url.filmbluray.id/bcr06gh
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/spies.png" group-title="◄● VOD Animasi ●►",Spies in Disguise (2019) [filmbluray.iD]
+http://url.filmbluray.id/2na107q
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/red-son.png" group-title="◄● VOD Animasi ●►",SUPEЯMAN - ЯED SON (2020) [filmbluray.iD]
+http://url.filmbluray.id/xjqehb3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Tarzan-2013.png" group-title="◄● VOD Animasi ●►",Tarzan (2013) [filmbluray.iD]
+http://url.filmbluray.id/wtobn4z
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/The-Addams-Family.png" group-title="◄● VOD Animasi ●►",The Addams Family (2019) [filmbluray.iD]
+http://url.filmbluray.id/v3kh5jd
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/The-Addams-Family.png" group-title="◄● VOD Animasi ●►",The Addams Family (2019) [filmbluray.iD]
+http://url.filmbluray.id/zfybcyz
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/emoji.png" group-title="◄● VOD Animasi ●►",The Emoji Movie (2017) [filmbluray.iD]
+http://url.filmbluray.id/czjgg53
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Incredibles.png" group-title="◄● VOD Animasi ●►",The Incredibles (2004) [filmbluray.iD]
+http://url.filmbluray.id/tw4fjl8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Incredibles2.png" group-title="◄● VOD Animasi ●►",The Incredibles 2 (2018) [filmbluray.iD]
+http://url.filmbluray.id/picoz9n
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/lionking.png" group-title="◄● VOD Animasi ●►",The Lion King (2019) [filmbluray.iD]
+http://url.filmbluray.id/edi91b7
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/The-Swan-Princess.png" group-title="◄● VOD Animasi ●►",The Swan Princess : Kingdom of Music (2019)
+http://url.filmbluray.id/smppj03
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/snake.png" group-title="◄● VOD Animasi ●►",White Snake (2019) [filmbluray.iD]
+http://url.filmbluray.id/x1cmmcg
+
+
+
+
+
+
+<|-- VOD Campuran
+================================================================================================================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/1917.png" group-title="◄● VOD Campuran ●►",1917 (2020) [filmbluray.iD]
+http://url.filmbluray.id/gded1dg
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/aladdin.png" group-title="◄● VOD Campuran ●►",Aladdin (2019) [filmbluray.iD]
+http://url.filmbluray.id/5115kfz
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fetih.png" group-title="◄● VOD Campuran ●►",Battle of Empires : Fetih 1453 (2012) [filmbluray.iD]
+http://url.filmbluray.id/r7g5upu
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Charlies-Angels.png" group-title="◄● VOD Campuran ●►",Charlie's Angels (2019) [filmbluray.iD]
+http://url.filmbluray.id/63jnw75
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Contagion-2011.png" group-title="◄● VOD Campuran ●►",Contagion (2011) [filmbluray.iD]
+http://url.filmbluray.id/6yrihiw
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Crystal-Inferno-2017.png" group-title="◄● VOD Campuran ●►",Crystal Inferno (2017) [filmbluray.iD]
+http://url.filmbluray.id/xjixqsc
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/foxtrot.png" group-title="◄● VOD Campuran ●►",Foxtrot Six (2020) [filmbluray.iD]
+http://url.filmbluray.id/vf0ck0y
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/gemini.png" group-title="◄● VOD Campuran ●►",Gemini Man (2019) [filmbluray.iD]
+http://url.filmbluray.id/wrd22j1
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Guns-Akimbo.png" group-title="◄● VOD Campuran ●►",Guns Akimbo (2019) [filmbluray.iD]
+http://url.filmbluray.id/9idkhpw
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/hachi.png" group-title="◄● VOD Campuran ●►",Hachiko : A Dog's Story (2009) [filmbluray.iD]
+http://url.filmbluray.id/l52s3qe
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Her-2013.png" group-title="◄● VOD Campuran ●►",Her (2013) [filmbluray.iD]
+http://url.filmbluray.id/kemetqu
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/IP-Man-1.png" group-title="◄● VOD Campuran ●►",IP Man 1 (2008) [filmbluray.iD]
+http://url.filmbluray.id/bloz71q
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/IP-Man-2.png" group-title="◄● VOD Campuran ●►",IP Man 2 (2010) [filmbluray.iD]
+http://url.filmbluray.id/bkdqz2o
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/IP-Man-3.png" group-title="◄● VOD Campuran ●►",IP Man 3 (2015) [filmbluray.iD]
+http://url.filmbluray.id/vfqtu6e
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/IP-Man-4.png" group-title="◄● VOD Campuran ●►",IP Man 4 (2019) [filmbluray.iD]
+http://url.filmbluray.id/q8age0v
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jojo-Rabbit.png" group-title="◄● VOD Campuran ●►",Jojo Rabbit (2019) [filmbluray.iD]
+http://url.filmbluray.id/0mn9mmp
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Joker-2019.png" group-title="◄● VOD Campuran ●►",Joker (2019) [filmbluray.iD]
+http://url.filmbluray.id/vh22se7
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jumanji-2017.png" group-title="◄● VOD Campuran ●►",Jumanji: Welcome to the Jungle (2017)
+http://url.filmbluray.id/gtrrco0
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/jumanji.png" group-title="◄● VOD Campuran ●►",Jumanji : The Next Level (2019) [filmbluray.iD]
+http://url.filmbluray.id/39v93kw
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knives-Out.png" group-title="◄● VOD Campuran ●►",Knives Out (2019) [filmbluray.iD]
+http://url.filmbluray.id/dg59fko
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/okja.png" group-title="◄● VOD Campuran ●►",Okja (2017) [filmbluray.iD]
+http://url.filmbluray.id/7wy67rt
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/hollywood.png" group-title="◄● VOD Campuran ●►",Once Upon a Time in Hollywood (2019) [filmbluray.iD]
+http://url.filmbluray.id/h9tw0lb
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/re1.png" group-title="◄● VOD Campuran ●►",Resident Evil (2002) [filmbluray.iD]
+http://url.filmbluray.id/cfxnjkt
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/re2.png" group-title="◄● VOD Campuran ●►",Resident Evil : Apocalypse (2004) [filmbluray.iD]
+http://url.filmbluray.id/m699adr
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/re3.png" group-title="◄● VOD Campuran ●►",Resident Evil : Extinction (2007) [filmbluray.iD]
+http://url.filmbluray.id/yx6d7zh
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/re4.png" group-title="◄● VOD Campuran ●►",Resident Evil : AfterLife (2010) [filmbluray.iD]
+http://url.filmbluray.id/iawm149
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/re5.png" group-title="◄● VOD Campuran ●►",Resident Evil : Retribution (2012) [filmbluray.iD]
+http://url.filmbluray.id/q63avr6
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/re6.png" group-title="◄● VOD Campuran ●►",Resident Evil : The Final Chapter (2016) [filmbluray.iD]
+http://url.filmbluray.id/t2s5191
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Secret-Zoo-2020.png" group-title="◄● VOD Campuran ●►",Secret Zoo (2020) [filmbluray.iD]
+http://url.filmbluray.id/kbcp58b
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/sonic.png" group-title="◄● VOD Campuran ●►",Sonic the Hedgehog (2020) [filmbluray.iD]
+http://url.filmbluray.id/52w61gv
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/The-Irishman.png" group-title="◄● VOD Campuran ●►",The Irishman (2019) [filmbluray.iD]
+http://url.filmbluray.id/c3lgp0g
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/meg.png" group-title="◄● VOD Campuran ●►",The Meg (2018) [filmbluray.iD]
+http://url.filmbluray.id/3b5izut
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/prof.png" group-title="◄● VOD Campuran ●►",The Professionals (2016) [filmbluray.iD]
+http://url.filmbluray.id/4cd67n1
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/popes.png" group-title="◄● VOD Campuran ●►",The Two Popes (2019) [filmbluray.iD]
+http://url.filmbluray.id/asl9d3v
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/goul.png" group-title="◄● VOD Campuran ●►",Tokyo Goul (2017) [filmbluray.iD]
+http://url.filmbluray.id/jorknjm
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/gouls.png" group-title="◄● VOD Campuran ●►",Tokyo Goul S (2019) [filmbluray.iD]
+http://url.filmbluray.id/15t1yp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Twilight-2008.png" group-title="◄● VOD Campuran ●►",Twilight (2008) [filmbluray.iD]
+http://url.filmbluray.id/ivkcr2o
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Twilight-2009.png" group-title="◄● VOD Campuran ●►",The Twilight Saga: New Moon (2009) [filmbluray.iD]
+http://url.filmbluray.id/f1mcrvr
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Twilight-2010.png" group-title="◄● VOD Campuran ●►",The Twilight Saga: Eclipse (2010) [filmbluray.iD]
+http://url.filmbluray.id/kobwdyt
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Twilight-2011.png" group-title="◄● VOD Campuran ●►",The Twilight Saga: Breaking Dawn – Part 1 (2011)
+http://url.filmbluray.id/6hhcbav
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Twilight-2012.png" group-title="◄● VOD Campuran ●►",The Twilight Saga: Breaking Dawn – Part 2 (2012)
+http://url.filmbluray.id/ep2gctc
+
+
+
+
+
+<|-- VOD Hindi
+================================================================================================================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/3-Idiot.png" group-title="◄● VOD Hindi ●►",3 Idiot (2009) [filmbluray.iD]
+http://url.filmbluray.id/8vayct5
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/dilhai.png" group-title="◄● VOD Hindi ●►",Dil Hai Tumaraa (2002) [filmbluray.iD]
+http://url.filmbluray.id/bkm3ibn
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/dilwale.png" group-title="◄● VOD Hindi ●►",Dilwale (2015) [filmbluray.iD]
+http://url.filmbluray.id/9p1ve2x
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Ghost-2019.png" group-title="◄● VOD Hindi ●►",Ghost (2019) [filmbluray.iD]
+http://url.filmbluray.id/8e26xp3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/KalHoNaaHo.png" group-title="◄● VOD Hindi ●►",Kal Ho Naa Ho (2003) [filmbluray.iD]
+http://url.filmbluray.id/8eqwjuj 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kabhi-Khushi.png"  group-title="◄● VOD Hindi ●►",Kabhi Khushi Kabhie Gham... (2001) [filmbluray.iD]
+http://url.filmbluray.id/p3ptlb2 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Koi-Mil-Gaya.png"  group-title="◄● VOD Hindi ●►",Koi... Mil Gaya (2003) [filmbluray.iD]
+http://url.filmbluray.id/7p3fwhv 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/kuch.png" group-title="◄● VOD Hindi ●►",Kuch Kuch Hota Hai (1998) [filmbluray.iD]
+http://url.filmbluray.id/e2ruv25
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/laila.png" group-title="◄● VOD Hindi ●►",Laila Majnu (2018) [filmbluray.iD]
+http://url.filmbluray.id/j92myup
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Mardaani-2.png" group-title="◄● VOD Hindi ●►",Mardaani 2 (2019) [filmbluray.iD]
+http://url.filmbluray.id/9swt0fe 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Motichoor-Chaknachoor.png" group-title="◄● VOD Hindi ●►",Motichoor Chaknachoor (2020) [filmbluray.iD]
+http://url.filmbluray.id/u1r0mit 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pal-Pal-Dil-Ke-Paas.png" group-title="◄● VOD Hindi ●►",Pal Pal Dil Ke Paas (2019) [filmbluray.iD]
+http://url.filmbluray.id/ai6iru7 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pati-Patni-Aur-Woh.png" group-title="◄● VOD Hindi ●►",Pati Patni Aur Woh (2019) [filmbluray.iD]
+http://url.filmbluray.id/eh9vqma 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/PK-2014.png" group-title="◄● VOD Hindi ●►",PK (2014) [filmbluray.iD]
+http://url.filmbluray.id/xu5a7ld 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/tanhaji.png" group-title="◄● VOD Hindi ●►",TANHAJI - The Unsung Warrior (2020) [filmbluray.iD]
+http://url.filmbluray.id/yja7je3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/taqdeer.png" group-title="◄● VOD Hindi ●►",Taqdeer - Hello! (2017) [filmbluray.iD]
+http://url.filmbluray.id/ph74l34
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/zero.png" group-title="◄● VOD Hindi ●►",Zero (2018) [filmbluray.iD] 
+http://url.filmbluray.id/2pfnz2h
+
+
+
+
+<|-- ◄● VOD Indonesia ●►
+================================================================================================================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/1-Cinta-di-Bira.png" group-title="◄● VOD Indonesia ●►",1 Cinta di Bira (2016) [filmbluray.iD]
+http://url.filmbluray.id/q3m3jpn 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/3-Srikandi.png" group-title="◄● VOD Indonesia ●►",3 Srikandi (2016) [filmbluray.iD]
+http://url.filmbluray.id/ak2qu9u 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/5-cm-2012.png" group-title="◄● VOD Indonesia ●►",5cm (2012) [filmbluray.iD]
+http://url.filmbluray.id/b8vbmbp
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/5cowok.png" group-title="◄● VOD Indonesia ●►",5 Cowok Jagoan (2017) [filmbluray.iD]
+http://url.filmbluray.id/i00u11d
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/After-Met-You.png" group-title="◄● VOD Indonesia ●►",After Met You (2019) [filmbluray.iD]
+http://url.filmbluray.id/ntv5ulp 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Air-Terjun-Pengantin.png" group-title="◄● VOD Indonesia ●►",Air Terjun Pengantin (2009) [filmbluray.iD]
+http://url.filmbluray.id/ex3t4ed 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Ajari-Aku-Islam.png" group-title="◄● VOD Indonesia ●►",Ajari Aku Islam (2019) [filmbluray.iD]
+http://url.filmbluray.id/21hmpvg 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Arini-2018.png"  group-title="◄● VOD Indonesia ●►",Arini (2018) [filmbluray.iD]
+http://url.filmbluray.id/47l1u3p
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Assalamualaikum-2018.png"  group-title="◄● VOD Indonesia ●►",Assalamualaikum Calon Imam (2018)
+http://url.filmbluray.id/3wg4eet
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bebas-2019.png" group-title="◄● VOD Indonesia ●►",Bebas (2019) [filmbluray.iD]
+http://url.filmbluray.id/1lbt9hs 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Dilan-1990.png" group-title="◄● VOD Indonesia ●►",Dilan 1990 (2018) [filmbluray.iD]
+http://url.filmbluray.id/5npc89k 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Gundala.png" group-title="◄● VOD Indonesia ●►",GUNDALA (2019) [filmbluray.iD]
+http://url.filmbluray.id/az10n78
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jagoan-Instan.png" group-title="◄● VOD Indonesia ●►",Jagoan Instan (720p) [filmbluray.iD]
+http://url.filmbluray.id/rtm5ntu
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Jelita-Sejuba.png" group-title="◄● VOD Indonesia ●►",Jelita Sejuba - Mencintai Kesatria Negara (2018)
+http://url.filmbluray.id/b85m490
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Love-For-Sale.png"  group-title="◄● VOD Indonesia ●►",Love for Sale 1 (2018)
+http://url.filmbluray.id/8yuavze
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Love-For-Sale-2.png"  group-title="◄● VOD Indonesia ●►",Love for Sale 2 (2019)
+http://url.filmbluray.id/65l0d2i
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Me-vs-Mami-2016.png" group-title="◄● VOD Indonesia ●►",Me vs Mami (2016) [filmbluray.iD]
+http://url.filmbluray.id/5lxg7hp 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/melodylan.png" group-title="◄● VOD Indonesia ●►",MeloDylan (2019) [filmbluray.iD]
+http://url.filmbluray.id/y5kwi6k
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/hilal.png" group-title="◄● VOD Indonesia ●►",Mencari Hilal (2015) [filmbluray.iD]
+http://url.filmbluray.id/sm5owag
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pengakuan-Seorang-Pelacur.png" group-title="◄● VOD Indonesia ●►",Pengakuan Seorang Pelacur (720p) [filmbluray.iD]
+http://url.filmbluray.id/7vnhtr0
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Perahu-Kertas.png" group-title="◄● VOD Indonesia ●►",Perahu Kertas (2012) [filmbluray.iD]
+http://url.filmbluray.id/51fx4jy
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Perahu-Kertas-2.png" group-title="◄● VOD Indonesia ●►",Perahu Kertas 2 (2012) [filmbluray.iD]
+http://url.filmbluray.id/k5chtkf
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/petir.png" group-title="◄● VOD Indonesia ●►",Petualangan Menangkap Petir (2018) [filmbluray.iD]
+http://url.filmbluray.id/ax6nato
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Ratu-Ilmu-Hitam-2019.png" group-title="◄● VOD Indonesia ●►",Ratu Ilmu Hitam (2019) [filmbluray.iD]
+http://url.filmbluray.id/3sdoc9b
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Realita-Cinta-Rock-Roll.png"  group-title="◄● VOD Indonesia ●►",Realita, Cinta dan Rock'n Roll (2006)
+http://url.filmbluray.id/l0ez8ft
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/senior.png" group-title="◄● VOD Indonesia ●►",Senior (2019) [filmbluray.iD]
+http://url.filmbluray.id/9vfzbq8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Serigala-Terakhir.png"  group-title="◄● VOD Indonesia ●►",Serigala Terakhir (2009) [filmbluray.iD]
+http://url.filmbluray.id/i2rglam
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/sin.png" group-title="◄● VOD Indonesia ●►",SIN (2019) [filmbluray.iD]
+http://url.filmbluray.id/ww4gm5a
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/surga.png" group-title="◄● VOD Indonesia ●►",Surga Yang Tak Dirindukan (2015) [filmbluray.iD]
+http://url.filmbluray.id/og1snhs
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/surga2.png" group-title="◄● VOD Indonesia ●►",Surga Yang Tak Dirindukan 2 (2017) [filmbluray.iD]
+http://url.filmbluray.id/xxi58jo
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/vander.png" group-title="◄● VOD Indonesia ●►",Tenggelamnya Kapal Van der Wijck (2013) [filmbluray.iD]
+http://url.filmbluray.id/ax6nato
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Tentang-Cinta.png" group-title="◄● VOD Indonesia ●►",Tentang Cinta (1080p) [filmbluray.iD]
+http://url.filmbluray.id/2z2mhwd
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/tampan.png" group-title="◄● VOD Indonesia ●►",Terlalu Tampan (2019) [filmbluray.iD]
+http://url.filmbluray.id/uv0g1q0
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Large.png" group-title="◄● VOD Indonesia ●►",XL - Extra Large [filmbluray.iD]
+http://url.filmbluray.id/fmdeb6d
+
+
+
+
+
+<|-- VOD Indo Lawas
+================================================================================================================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Benyamin-Tukang-Ngibul.png" group-title="◄● VOD Indo Lawas ●►",Benyamin Tukang Ngibul (1975) [filmbluray.iD]
+http://url.filmbluray.id/4jtnuly
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bumi-Bulat-Bundar.png" group-title="◄● VOD Indo Lawas ●►",Bumi Bulat Bundar (1983) [filmbluray.iD]
+http://url.filmbluray.id/u1mz6p4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Gadis-Pendekar.png" group-title="◄● VOD Indo Lawas ●►",Gadis Pendekar (1990) [filmbluray.iD]
+http://url.filmbluray.id/ddn6jok 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Gembong-Wulung.png" group-title="◄● VOD Indo Lawas ●►",Gembong Wulung (Buronan) (1989) [filmbluray.iD]
+http://url.filmbluray.id/ub4y18f 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Mandala-Dari-Sungai-Ular.png" group-title="◄● VOD Indo Lawas ●►",Mandala Dari Sungai Ular (1987) [filmbluray.iD]
+http://url.filmbluray.id/i6hsojv
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Mat-Peci.png" group-title="◄● VOD Indo Lawas ●►",Mat Peci (1978) [filmbluray.iD]
+http://url.filmbluray.id/lptqclw 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Musuh-Bebuyutan.png" group-title="◄● VOD Indo Lawas ●►",Musuh Bebuyutan (Benyamin S) (1974) [filmbluray.iD]
+http://url.filmbluray.id/1pxt4q4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Ngipri-Monyet.png" group-title="◄● VOD Indo Lawas ●►",Ngipri Monyet (1988) [filmbluray.iD]
+http://url.filmbluray.id/unpcc1i 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Penumpasan-G30S-PKI.png" group-title="◄● VOD Indo Lawas ●►",Penumpasan Pengkhianatan G 30 S PKI (1984) [filmbluray.iD]
+http://url.filmbluray.id/ksu7miq 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Penumpasan-Trisula.png" group-title="◄● VOD Indo Lawas ●►",Penumpasan Sisa-sisa PKI di Blitar Selatan - Trisula (1987) [filmbluray.iD]
+http://url.filmbluray.id/uqrrnvz
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Ratu-Ilmu-Hitam-1981.png" group-title="◄● VOD Indo Lawas ●►",Ratu Ilmu Hitam (1981) [filmbluray.iD]
+http://url.filmbluray.id/xtqso6i
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Sangkuriang-1982.png" group-title="◄● VOD Indo Lawas ●►",Sangkuriang (Suzanna) (1982) [filmbluray.iD]
+http://url.filmbluray.id/v2z5f79 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Sengatan-Cobra-1986.png" group-title="◄● VOD Indo Lawas ●►",Sengatan Cobra (Barry Prima) (1986) [filmbluray.iD]
+http://url.filmbluray.id/fomlxdl 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/pitung.png" group-title="◄● VOD Indo Lawas ●►",Si Pitung : Banteng Betawi (1970) [filmbluray.iD]
+http://url.filmbluray.id/cj4kg0c
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Tujuh-Wanita-dalam-Tugas-Rahasia.png" group-title="◄● VOD Indo Lawas ●►",Tujuh Wanita dalam Tugas Rahasia (1983) [filmbluray.iD]
+http://url.filmbluray.id/9lv6x7j 
+
+
+
+
+
+
+
+<|-- VOD Korea
+================================================================================================================================
+#EXTINF:-1 group-title="◄● VOD Korea ●►" tvg-logo="http://pictures.my.id/images/A-Moment-to-Remember.png",A Moment to Remember (2004) [filmbluray.iD]
+http://url.filmbluray.id/5elz0gj 
+#EXTINF:-1 group-title="◄● VOD Korea ●►" tvg-logo="http://pictures.my.id/images/flu.png",FLU (2013) [filmbluray.iD]
+http://url.filmbluray.id/udu84qm
+#EXTINF:-1 group-title="◄● VOD Korea ●►" tvg-logo="http://pictures.my.id/images/Parasite-2019.png",Parasite (2019) [filmbluray.iD]
+http://url.filmbluray.id/2ero0u7
+#EXTINF:-1 group-title="◄● VOD Korea ●►" tvg-logo="http://pictures.my.id/images/Sunny-2011.png",Sunny (2011) [filmbluray.iD]
+http://url.filmbluray.id/umkiz2z 
+#EXTINF:-1 group-title="◄● VOD Korea ●►" tvg-logo="http://pictures.my.id/images/YouAretheAppleofMyEye.png",You Are the Apple of My Eye (2011) [filmbluray.iD]
+http://url.filmbluray.id/mj2pol6 
+
+  
+  
+
+
+<|-- VOD Thailand
+================================================================================================================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/ATM-Er-Rak-Error.png" group-title="◄● VOD Thailand ●►",ATM: Er Rak Error (2012) [filmbluray.iD]
+http://url.filmbluray.id/zk3v0xn
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/BadGenius.png" group-title="◄● VOD Thailand ●►",Bad Genius (2017) [filmbluray.iD]
+http://url.filmbluray.id/nt4cd4d
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/First-Love-2010.png" group-title="◄● VOD Thailand ●►",First Love (A Little Thing Called Love) 2010 [filmbluray.iD]
+http://url.filmbluray.id/0hqpart
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/FriendZone.png" group-title="◄● VOD Thailand ●►",Friend Zone (2019) [filmbluray.iD]
+http://url.filmbluray.id/lgg2o5m
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Hello-Stranger.png" group-title="◄● VOD Thailand ●►",Hello Stranger (2010) [filmbluray.iD]
+http://url.filmbluray.id/tpy2ouw
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Nakee-2.png" group-title="◄● VOD Thailand ●►",Nakee 2 (2018) [filmbluray.iD]
+http://url.filmbluray.id/nfpu425
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/tootsies.png" group-title="◄● VOD Thailand ●►",Tootsies & The Fake (2019) [filmbluray.iD]
+http://url.filmbluray.id/l7wxv1x
+
+
+
+
+
+<|-- Mak Beti
+================================================================================================================================
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/967/1.jpg" group-title="Mak Beti",040 Beti Gak Mau Kalah dan Ngaalah
+http://www.supercartube.com/media/videos/h264/967_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/966/1.jpg" group-title="Mak Beti",039 Beli Pecal Wak Selow
+http://www.supercartube.com/media/videos/h264/966_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/965/1.jpg" group-title="Mak Beti",038 Enaknya Masakan Mamak Merlin
+http://www.supercartube.com/media/videos/h264/965_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/964/1.jpg" group-title="Mak Beti",037 Bikin Orang Bahagia Di Jalanan
+http://www.supercartube.com/media/videos/h264/964_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/963/1.jpg" group-title="Mak Beti",036 Martha Berantam Sama Merlin
+http://www.supercartube.com/media/videos/h264/963_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/962/1.jpg" group-title="Mak Beti",035 Bulan Puasa Merlin Ngajak Main Judi
+http://www.supercartube.com/media/videos/h264/962_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/961/1.jpg" group-title="Mak Beti",034 Wak Keling Cantik Apa Adanya
+http://www.supercartube.com/media/videos/h264/961_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/960/1.jpg" group-title="Mak Beti",033 Berkah Ramadhan Dikeluarga Beti
+http://www.supercartube.com/media/videos/h264/960_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/959/1.jpg" group-title="Mak Beti",032 Tingkah Laku Beti Dipuasa Pertama
+http://www.supercartube.com/media/videos/h264/959_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/958/1.jpg" group-title="Mak Beti",031 Beli Rumah Baru
+http://www.supercartube.com/media/videos/h264/958_1080p.mp4
+
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/957/1.jpg" group-title="Mak Beti",030 Jumpa Wak Endut
+http://www.supercartube.com/media/videos/h264/957_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/956/1.jpg" group-title="Mak Beti",029 Beti Jadi Anak Band
+http://www.supercartube.com/media/videos/h264/956_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/955/1.jpg" group-title="Mak Beti",028 Warung Wak Keling Sesalu Tumpur
+http://www.supercartube.com/media/videos/h264/955_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/954/1.jpg" group-title="Mak Beti",027 Wak Selow Memang Bangke
+http://www.supercartube.com/media/videos/h264/954_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/953/1.jpg" group-title="Mak Beti",026 Merubah Kodok Medan Jadi Sultan 2
+http://www.supercartube.com/media/videos/h264/953_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/952/1.jpg" group-title="Mak Beti",025 Merubah Kodok Medan Jadi Sultan 1
+http://www.supercartube.com/media/videos/h264/952_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/951/1.jpg" group-title="Mak Beti",024 Sampai Nangis Karna Beti
+http://www.supercartube.com/media/videos/h264/951_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/950/1.jpg" group-title="Mak Beti",023 Dimarahin Acek Aseng Sampai Kenak Hukum
+http://www.supercartube.com/media/videos/h264/950_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/949/1.jpg" group-title="Mak Beti",022 Semua Orang Histeris Karena Mak Beti
+http://www.supercartube.com/media/videos/h264/949_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/948/1.jpg" group-title="Mak Beti",021 Rezeki Bapak Beti Pasti Ada !
+http://www.supercartube.com/media/videos/h264/948_1080p.mp4
+
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/943/1.jpg" group-title="Mak Beti",020 Beli Pecel Bikin Palak
+http://www.supercartube.com/media/videos/h264/943_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/942/1.jpg" group-title="Mak Beti",019 Wak Keling Bangkrut dibuat Mak Beti
+http://www.supercartube.com/media/videos/h264/942_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/941/1.jpg" group-title="Mak Beti",018 Setres Sampai Mau Mati
+http://www.supercartube.com/media/videos/h264/941_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/940/1.jpg" group-title="Mak Beti",017 Cinta Bapak Beti Awet dan Anti Ngeletek
+http://www.supercartube.com/media/videos/h264/940_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/939/1.jpg" group-title="Mak Beti",016 Awal Mengenal Dita
+http://www.supercartube.com/media/videos/h264/939_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/938/1.jpg" group-title="Mak Beti",015 Beti Kerja Kelompok
+http://www.supercartube.com/media/videos/h264/938_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/937/1.jpg" group-title="Mak Beti",014 Beti Pergi Ke Mall
+http://www.supercartube.com/media/videos/h264/937_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/936/1.jpg" group-title="Mak Beti",013 Beti Disosor Angsa
+http://www.supercartube.com/media/videos/h264/936_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/935/1.jpg" group-title="Mak Beti",012 Ke Bali Jumpa Raditya Dika
+http://www.supercartube.com/media/videos/h264/935_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/934/1.jpg" group-title="Mak Beti",011 Pagi-Pagi Udah Ngomel
+http://www.supercartube.com/media/videos/h264/934_1080p.mp4
+
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/933/1.jpg" group-title="Mak Beti",010 Beti Pergi Ngaji
+http://www.supercartube.com/media/videos/h264/933_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/932/1.jpg" group-title="Mak Beti",009 Mak Beti Beli Baju Tidur
+http://www.supercartube.com/media/videos/h264/932_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/931/1.jpg" group-title="Mak Beti",008 Preman Terkuat di Bumi Kelaparan
+http://www.supercartube.com/media/videos/h264/931_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/930/1.jpg" group-title="Mak Beti",007 Angkot Ugal-Ugalan
+http://www.supercartube.com/media/videos/h264/930_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/929/1.jpg" group-title="Mak Beti",006 Duit Wak Keling Hilang
+http://www.supercartube.com/media/videos/h264/929_1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/745/1.jpg" group-title="Mak Beti",005 Laga Layangan Pakai Benang Gelasan
+http://www.supercartube.com/media/videos/h264/745_720p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/744/1.jpg" group-title="Mak Beti",004 Beti Nonton Bola
+http://www.supercartube.com/media/videos/h264/744_720p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/743/1.jpg" group-title="Mak Beti",003 Beti Gak Jadi Sekolah
+http://www.supercartube.com/media/videos/h264/743_720p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/742/1.jpg" group-title="Mak Beti",002 Gara-Gara Bakso
+http://www.supercartube.com/media/videos/h264/742_720p.mp4
+#EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/741/1.jpg" group-title="Mak Beti",001 Main Karet Kenak Repet
+http://www.supercartube.com/media/videos/h264/741_720p.mp4
+
+
+
+
+
+<|-- Mr. Bean Serial
+================================================================================================================================
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP01 - Si Kocak yang Legendaris
+https://obs.line-scdn.net/0hBo8Nn7agHUAFNzflqd9iFzZhHi82Ww5DYQFMXlVZRHYsBFMTP1lWJihlS3gvDlxTOFkFcnI-Eyc/720p.m3u8
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP02 - Kembalinya Mr. Bean 
+https://obs.line-scdn.net/0hbqNH_kmTPV5zMRf_MktCCU9nPjFAXS5dFwdsQCNff2xZAnkMR1N7MVY5MT1ZCH0KClYiOVU3YW4L/720p.m3u8
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP03 - Kutukan Mr. Bean 
+https://obs.line-scdn.net/0hEFUt5pUJGmloDTDJ6_NlPlVbGQZbYQlqDDtLdzhjWFlHOFo3UWJdCU4NTAsWPl45XS5UX0wPF11NNQ/720p.m3u8
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP04 - Mr. Bean Pergi ke Kota 
+https://obs.line-scdn.net/0hfqoimabxOV5SEBPxQCJGCW5GOjFhfCpdNiZoQAJ-Z2Z_KXYIaH93O3cYMm18JnkLK3cmOXIVYGp7/720p.m3u8
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP05 - Masalah dengan Mr. Bean 
+https://obs.line-scdn.net/0h73hPl04KaBxVKUKxc3AXS2l_a3NmRXsfMR85AgVHKix9HixCb0klenAhYy96ES9NLE53e3ctNnss/720p.m3u8
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP06 - Mr. Bean Berkelana Lagi 
+https://obs.line-scdn.net/0hLtzGV2r8E1tHPjnyJ8lsDHtoEDR0UgBYIwhCRRdQUWhrCl0Ke19ZNGI2GGtuB1AFPlkMPDI2SGNr/720p.m3u8
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP07 - Selamat Natal, Mr. Bean 
+https://obs.line-scdn.net/0hYLp4zIT_BmNNTSzKLJt5NH4bBQx-IRVgKXtXfR0jXlBpeEQwcCJJBWAYWFBheUhwcHtIVWBPXlM/720p.m3u8
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP08 - Mr. Bean di Kamar 426 
+https://obs.line-scdn.net/0hY46GFAe2BhsLPiyySox5TDdoBXQ4UhUYbwhXBVtQWC0kDkNKM1lLeS42CnsjC0BMclkZfH44Wn4i/720p.m3u8
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP09 - Mr. Bean Membuatnya Sendiri 
+https://obs.line-scdn.net/0hW6Y20xPfCBlkSyKxEut3TlgdC3ZXJxsaAH1ZBzQlVSlKf05HWCtEfUFDAylLeUdHHSwXfhIbVX1P/720p.m3u8
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP10 - Hati-hati dengan Bayinya, Mr. Bean 
+https://obs.line-scdn.net/0h3Zzdt8IAbHVHHUbDZuwTIntLbxp0cX92Iys9axdzMUVpKi4kfnkqEGIVZ0RiKCshPnpzEjcZME1t/720p.m3u8
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP11 - Mr. Bean Kembali ke Sekolah 
+https://obs.line-scdn.net/0hP5-YYGpTDxoQICWvNFZwTSN2DHUjTBwZdBZeBEBOVyM7E0hEL0FDfD11USg_EEEJLRZBKDEhUSo/720p.m3u8
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP12 - Pukul Bolanya, Mr. Bean 
+https://obs.line-scdn.net/0hmHDf0lNdMmd5HxjTGQZNMEVJMQhKcyFkHSljeSlxcFJWKnA3TXx_A1wXOVRSLnwzAHgtAAsXaVUA/720p.m3u8
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP13 - Selamat Malam, Mr. Bean 
+https://obs.line-scdn.net/0hFBCtdz7kGW1-DTPeYwlmOk1bGgJNYQpuGjtIcy5jT1RbPFkyRG1UC1NYR1lTPVZ-QztWClkLQl8/720p.m3u8
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="Mr. Bean Serial",EP14 - Tata Rambut Karya Mr. Bean dari London 
+https://obs.line-scdn.net/0h2gObp0LwbUhyG0f6hhQSH05NbidBd35LFi08ViJ1MHldKSocTX8iKVcTYSxbLyoYC3xyLlQYMn1W/720p.m3u8
+
+
+
+
+================================================================== Pacah Paruik ==============================================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E01 - Karumah Pacar
+http://url.filmbluray.id/dxjwp95 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E02 - Pacaran Indomie
+http://url.filmbluray.id/uom74m0 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E03 - Pareman
+http://url.filmbluray.id/cib2vjt 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E04 - Kawan Sia
+http://url.filmbluray.id/fmwjixe 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E05 - Kawan Gapuak
+http://url.filmbluray.id/2nrztsf 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E06 - Contoh Kawan Kijang
+http://url.filmbluray.id/n7301lq 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E07 - Karumah Mantan
+http://url.filmbluray.id/lsb7ruc 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E08 - Kesurupan
+http://url.filmbluray.id/muqp7xe 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E09 - Cimancik
+http://url.filmbluray.id/syh7e15 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E10 - Tang Aia
+http://url.filmbluray.id/o321jni 
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E11 - Angkot
+http://url.filmbluray.id/upg7dqd 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E12 - Bola Sanjo
+http://url.filmbluray.id/szsap7f 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E13 - Layang-Layang
+http://url.filmbluray.id/mt95w83 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E14 - Bandara
+http://url.filmbluray.id/eppq3qo 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E15 - Pasa
+http://url.filmbluray.id/waam5ma 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E16 - Rumah Makan
+http://url.filmbluray.id/pxzz2g6 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E17 - Rumah Makan
+http://url.filmbluray.id/128f9xc 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E18 - Bengke
+http://url.filmbluray.id/dl7pcde
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E19 - Dukun
+http://url.filmbluray.id/ceve4t4 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E20 - Pangkeh Rambuik
+http://url.filmbluray.id/2doox6p 
+ 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E21 - Cinto
+http://url.filmbluray.id/h3xj47z 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E22 - Kuliah
+http://url.filmbluray.id/fekie98 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E23 - Hari Pemilu
+http://url.filmbluray.id/mmsz1c5 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E24 - Anak Warnet
+http://url.filmbluray.id/nv2moas 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Pacah-Paruik.png" group-title="Pacah Paruik",S1E25 - Fitnes Asik
+http://url.filmbluray.id/a69w75j 
+
+
+
+
+<|-- P. Ramlee
+================================================================================================================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Rachun Dunia (1950) [filmbluray.iD]
+http://url.filmbluray.id/ycx8ipd 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Juwita (1951) [filmbluray.iD]
+http://url.filmbluray.id/kttw9y0 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Anjoran Nasib (1952) [filmbluray.iD]
+http://url.filmbluray.id/rif59t9 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Hujan Panas (1953) [filmbluray.iD]
+http://url.filmbluray.id/yn7zmuh 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Ibu (1953) [filmbluray.iD]
+http://url.filmbluray.id/2i0ruvx 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Panggilan Pulau (1954) [filmbluray.iD]
+http://url.filmbluray.id/c525zap 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Abu Hasan Penchuri (1955) [filmbluray.iD]
+http://url.filmbluray.id/naqi19m 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Penarek Becha (1956) [filmbluray.iD]
+http://url.filmbluray.id/1kna5ld 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Anakku Sazali (1956) [filmbluray.iD]
+http://url.filmbluray.id/p0wgswk 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Hang Tuah (1959) [filmbluray.iD]
+http://url.filmbluray.id/mr4qeip 
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Semerah Padi (1956) [filmbluray.iD]
+http://url.filmbluray.id/tfusr7w
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Bujang Lapok (1957) [filmbluray.iD]
+http://url.filmbluray.id/njx9rir
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Sergeant Hassan (1958) [filmbluray.iD]
+http://url.filmbluray.id/fmpwva2
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Sumpah Orang Minyak (1958) [filmbluray.iD]
+http://url.filmbluray.id/2nog1fe
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Musang Berjanggut (1959) [filmbluray.iD]
+http://url.filmbluray.id/467rg44
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Nujum Pak Belalang (1959) [filmbluray.iD]
+http://url.filmbluray.id/ve9zlt7
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Pendekar Bujang Lapok (1959) [filmbluray.iD]
+http://url.filmbluray.id/74kmx3d
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Ali Baba Bujang Lapok (1961) [filmbluray.iD]
+http://url.filmbluray.id/1035xix
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Antara Dua Darjat (1960) [filmbluray.iD]
+http://url.filmbluray.id/zc26taz
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Seniman Bujang Lapok (1961) [filmbluray.iD]
+http://url.filmbluray.id/r5kj50v
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Ibu Mertuaku (1962) [filmbluray.iD]
+http://url.filmbluray.id/73umi8c 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Labu Labi (1962) [filmbluray.iD]
+http://url.filmbluray.id/uufrcc1 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Nasib Labu Labi (1963) [filmbluray.iD]
+http://url.filmbluray.id/xiw25xf 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Madu Tiga (1964) [filmbluray.iD]
+http://url.filmbluray.id/ac8imm7 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Ragam P Ramlee (1964) [filmbluray.iD]
+http://url.filmbluray.id/x1dk6mf
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Tiga Abdul (1964) [filmbluray.iD]
+http://url.filmbluray.id/xr5k3tj 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Masam Masam Manis (1965) [filmbluray.iD]
+http://url.filmbluray.id/nw0e3iv 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Damaq (1964) [filmbluray.iD]
+http://url.filmbluray.id/awrda92 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Do Re Mi (1966) [filmbluray.iD]
+http://url.filmbluray.id/6u2n6sd 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Nasib Do Re Mi (1966) [filmbluray.iD]
+http://url.filmbluray.id/783o6ak 
+ 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Sabarudin Tukang Kasut (1967) [filmbluray.iD]
+http://url.filmbluray.id/gvtf8gc 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Keluarga 69 (1967) [filmbluray.iD]
+http://url.filmbluray.id/hwx79g7 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Ahmad Albab (1968) [filmbluray.iD]
+http://url.filmbluray.id/yy3h5e4 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Anak Bapak (1968) [filmbluray.iD]
+http://url.filmbluray.id/k22izpw 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Gerimis (1968) [filmbluray.iD]
+http://url.filmbluray.id/h8dcdjt
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Kanchan Tirana (1968) [filmbluray.iD]
+http://url.filmbluray.id/od1xce2 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Enam Jahanam (1969) [filmbluray.iD]
+http://url.filmbluray.id/ithfdvj 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Di Belakang Tabir (1970) [filmbluray.iD]
+http://url.filmbluray.id/4m2w8tw 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Dr Rusdi (1970) [filmbluray.iD]
+http://url.filmbluray.id/iq6c2ve 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Jangan Tinggal Daku (1971) [filmbluray.iD]
+http://url.filmbluray.id/kxon478 
+ 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Putus Sudah Kaseh Sayang (1971) [filmbluray.iD]
+http://url.filmbluray.id/eym25ul 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Laksmana Do Re Mi (1972) [filmbluray.iD]
+http://url.filmbluray.id/7myyg59
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Merana (1954) [filmbluray.iD]
+http://url.filmbluray.id/585q26r 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Antara Senyum Dan Tangis (1952) [filmbluray.iD]
+http://url.filmbluray.id/qb3hhcb 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Chinta (1948) [filmbluray.iD]
+http://url.filmbluray.id/orgvycf 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Nasib (1949) [filmbluray.iD]
+http://url.filmbluray.id/qzu71uq 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Nilam (1949) [filmbluray.iD]
+http://url.filmbluray.id/v95pmwj 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Sejoli (1951) [filmbluray.iD]
+http://url.filmbluray.id/ldx2d18 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P-Ramlee.png" group-title="P. Ramlee",Panca Delima (1957) [filmbluray.iD]
+http://url.filmbluray.id/0n4fh9d 
+
+
+
+
+
+<|-- Warkop DKI
+================================================================================================================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/warkop.png" group-title="Warkop DKI",Pintar Pintar Bodoh (1980)
+http://srv29.nf21.net/files/15-2019-10-09-8e76b24e377fc2f92fa285524b10d6b1.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/warkop.png" group-title="Warkop DKI",Maju Kena Mundur Kena (1983)
+http://srv29.nf21.net/files/15-2019-10-09-3659d298fa9b29e16db0339cb997ac95.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/warkop.png" group-title="Warkop DKI",Itu Bisa Diatur (1984)
+http://srv29.nf21.net/files/15-2019-10-09-14bea8bdae274c3a922f7d29c58d8d73.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/warkop.png" group-title="Warkop DKI",Tahu Diri Dong (1984)
+http://srv29.nf21.net/files/15-2019-10-09-5800651e161619b8165734c584181e76.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/warkop.png" group-title="Warkop DKI",Kesempatan Dalam Kesempitan (1985)
+http://srv29.nf21.net/files/15-2019-10-09-38faca9819e03a23f4667e72a9412629.mp4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/warkop.png" group-title="Warkop DKI",Gantian Dong (1985)
+http://srv29.nf21.net/files/15-2019-10-09-9e09061a2b64e714ba164bcd19d42a34.mp4
