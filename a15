@@ -1,187 +1,439 @@
-<!DOCTYPE HTML>
-	<head>
-    	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<|-- Live Channel
+============================ Lokal TV ==============================
+#EXTINF:-1 tvg-id="ADiTV" tvg-name="ADiTV" tvg-logo="http://pictures.my.id/images/Adi-TV.png" group-title="Live Channel",Lokal TV - AdiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/ANTV.png" group-title="Live Channel",Lokal TV - ANTV #1
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/ANTV.png" group-title="Live Channel",Lokal TV - ANTV #2
+http://210.210.155.35/qwr9ew/s/s102/01.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/ANTV.png" group-title="Live Channel",Lokal TV - ANTV #3
 
-  gtag('config', 'UA-58643-34');
-</script>
-    
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Berita1.png" group-title="Live Channel",Lokal TV - Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Citra-Bioskop.png" group-title="Live Channel",Lokal TV - Citra Bioskop
 
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>Pastebin.com - Page Removed</title>
-		<link rel="shortcut icon" href="/favicon.ico" />
-		<script src="/js/jquery.min.js"></script>
-		<script src="/js/pastebin.min.v3.js"></script>
-            
-            
-		<link href="/i/pastebin.min.v9.css?1575389335" rel="stylesheet" type="text/css" />
-		<!--[if lt IE 10]>
-			<link href="/i/pastebin.ie8.css" rel="stylesheet" type="text/css" />
-		<![endif]-->
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Citra-Dangdut.png" group-title="Live Channel",Lokal TV - Citra Dangdut
 
- 
-		<style>body{-webkit-text-size-adjust:none;}</style>
-				<meta property="fb:app_id" content="231493360234820" />
-		<meta property="og:title" content="Pastebin.com - Page Removed" />
-		<meta property="og:type" content="article" />
-		<meta property="og:url" content="https://pastebin.com/CJSC0QD8" />
-		<meta property="og:image" content="https://pastebin.com/i/facebook.png" />
-		<meta property="og:site_name" content="Pastebin" />
-		<meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
-		<link rel="canonical" href="https://pastebin.com/CJSC0QD8" />
-				<meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
-		<script type="text/javascript">
-			if (top != self)
-				top.location.href = location.href;
-		</script>
-	</head>
-	<body>
-	<div id="main_frame">
-		<div id="jq-dropdown-1" class="jq-dropdown jq-dropdown-anchor-right jq-dropdown-scroll">
-			<ul class="jq-dropdown-menu">
-				
-				<li class="lih_640">
-					<form class="search_form_li" name="search_form_li" method="get" action="/search" id="cse-search-box-li">
-						<input class="search_input_li" type="text" name="q" size="5" value="" placeholder="search..." />
-					</form>
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Citra-Drama.png" group-title="Live Channel",Lokal TV - Citra Drama
 
-				</li>
-				<li class="lih_div"></li>
-				<li onclick="location.href='/signup'" class="dd_su">Sign Up</li>
-				<li onclick="location.href='/login'" class="dd_lo">Login</li>
-				<li class="lih_div"></li>
-				<li onclick="location.href='/api'" class="lih_640">API</li>
-				<li onclick="location.href='/faq'" class="lih_640">FAQ</li>
-				<li onclick="location.href='/tools'" class="lih_640">Tools</li>
-				<li onclick="location.href='/archive'" class="lih_640">Archive</li>			</ul>
-		</div>
-		<div id="header">
-			<div id="header_wrap">
-				<div id="header_top">
-					<div id="header_logo" onclick="location.href='/'">PASTEBIN</div>
-                    <div id="header_links">
-                                                    <a href="/pro" class="mmh">GO <img src="/i/t.gif" alt="" class="header_pro_btn"></a>
-                        
-                        <a href="/api" class="mmh">API</a>
-                        <a href="/tools" class="mmh">TOOLS</a>
-                        <a href="/faq" class="mmh">FAQ</a>
-                        <a href="https://deals.pastebin.com" target="_blank" class="mmh">DEALS</a>
-                    </div>
-                    <div id="header_search">
-                        <form class="search_form" name="search_form" method="get" action="/search" id="cse-search-box">
-                            <input class="search_input" type="text" name="q" size="5" value="" placeholder="Search..." />
-                        </form>
-                    </div>
-                    <div id="header_new_paste" class="new_paste_button" onclick="location.href='/'">paste</div>
-                    
-			<div class="header_sign">
-				<a href="/login" class="btn-sign sign-in">SIGN IN</a>
-				<a href="/signup" class="btn-sign sign-up">SIGN UP</a>
-			</div>				</div>
-			</div>
-		</div>
-		<div id="super_frame">
-			<div id="monster_frame">
-				<div id="content_frame">
-					<div id="content_right">						
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Citra-Entertainment.png" group-title="Live Channel",Lokal TV - Citra Entertainment
 
-		<div id="abrpm2"></div>
-	<div style="padding: 0; width:160px;margin: 10px 0;clear:left;">
-<ins class="675bfda0" data-key="29d5bc270b3c2684fd3d158f6ceb857c"></ins>
-<script async defer src="https://aj2073.online/9ed1ba93.js"></script>
-</div>
-<div id="steadfast" title="Pastebin is proudly hosted by Steadfast.net" onclick="location.href='http://steadfast.net/?utm_source=pastebin.com&amp;utm_medium=referral&amp;utm_content=hosting_by_banner&amp;utm_campaign=referral_20140118_x_x_pastebin_partner&amp;source=referral_20140118_x_x_pastebin_partner'"></div>
-	</div>
-	<div id="content_left"><div id="ie_msg"></div>
-					
-		<div class="banner_728">
-<ins class="675bfda0" data-key="26941916746eb874a2159e7dc0a54739"></ins>
-<script async defer src="https://aj2073.online/9ed1ba93.js"></script>
-</div>
-	<div class="content_title">This page has been removed!</div>
-	<div class="content_text" style="padding:10px 0 0 0">
-		<div id="notice" style="margin:0;">This page is no longer available. It has either expired, been removed by its creator, or removed by one of the Pastebin staff.</div>
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Citra-Muslim.png" group-title="Live Channel",Lokal TV - Citra Muslim
 
-	</div>
-	<script type="text/javascript">
-	$(document).ready(function(){
-		$(".close1").click(function(){return $("#float-box-1").hide(),createCookie("l2c_1",!0,90),!1});
-		$(".cookie_button").click(function(){return $("#float-box-1").hide(),createCookie("l2c_1",!0,90),!1});		
-		$(".close2").click(function(){return $("#float-box-2").hide(),createCookie("l2c_2",!0,14),!1});
-		$(".close3").click(function(){return $("#float-box-3").hide(),createCookie("l2c_2",!0,14),!1});
-		$(".close4").click(function(){return $("#float-box-4").hide(),createCookie("l2c_4",!0,7),!1});
-	});	
-	</script>
-	<div id="float-box-frame">		
-		<div id="float-box-1">
-			We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>. <span class="cookie_button">OK, I Understand</span>
-		</div>
-		<div id="float-box-3">
-			<style>
-				#pro_promo_text{color:#333;float:right;display:block;font-size:14px;font-weight:400;width:270px}					
-				#pro_promo_img {background: #fff;width: 60px;height: 50px;float: left;}
-			</style>			
-			<div id="pro_promo_img"><a href="/signup"><img src="/i/hello.png" alt="" border="0" style="width:48px;height:48px;" /></a></div> 
-			<div id="pro_promo_text">Not a member of Pastebin yet?<br /><a href="/signup" style="text-decoration: underline dotted"><b>Sign Up</b></a>, it unlocks many cool features!</div>
-			<div class="close3" title="Close Me">&nbsp;</div>
-		</div></div>						</div>
-					</div>
-				</div>
-			</div>
-			<div id="mid_footer">
-				<a href="/tools#chrome" title="Google Chrome Extension"><img src="/i/t.gif" alt="" class="icon24 chrome" /></a>
-				<a href="/tools#firefox" title="Firefox Extension"><img src="/i/t.gif" alt="" class="icon24 firefox" /></a>
-				<a href="/tools#iphone" title="iPhone/iPad Application"><img src="/i/t.gif" alt="" class="icon24 iphone" /></a>
-				<a href="/tools#windows" title="Windows Desktop Application"><img src="/i/t.gif" alt="" class="icon24 windows" /></a>
-				<a href="/tools#android" title="Android Application"><img src="/i/t.gif" alt="" class="icon24 android" /></a>
-				<a href="/tools#macos" title="MacOS X Widget"><img src="/i/t.gif" alt="" class="icon24 macos" /></a>
-				<a href="/tools#opera" title="Opera Extension"><img src="/i/t.gif" alt="" class="icon24 opera" /></a>
-				<a href="/tools#pastebincl" title="Linux Application"><img src="/i/t.gif" alt="" class="icon24 unix" /></a>
-			</div> 
-		</div>
-		<div id="footer">
-			<div id="footer_links">
-				<a href="/">create new paste</a> &nbsp;/&nbsp; 
-				<a href="https://deals.pastebin.com">deals</a><sup style="color:red">new!</sup> &nbsp;/&nbsp; 
-				<a href="/languages">syntax languages</a> &nbsp;/&nbsp; 
-				<a href="/archive">archive</a> &nbsp;/&nbsp; 
-				<a href="/faq">faq</a> &nbsp;/&nbsp; 
-				<a href="/tools">tools</a> &nbsp;/&nbsp; 
-				<a href="/night_mode">night mode</a> &nbsp;/&nbsp; 
-				<a href="/api">api</a> &nbsp;/&nbsp; 
-				<a href="/doc_scraping_api">scraping api</a>		
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/DAAI-TV.png" group-title="Live Channel",Lokal TV - DAAI TV #1
 
-				<br />
-				<a href="/doc_privacy_statement">privacy statement</a> &nbsp;/&nbsp; 
-				<a href="/doc_cookies_policy">cookies policy</a> &nbsp;/&nbsp; 
-				<a href="/doc_terms_of_service">terms of service</a> &nbsp;/&nbsp; 
-				<a href="/doc_security_disclosure">security disclosure</a> &nbsp;/&nbsp; 
-				<a href="/dmca">dmca</a> &nbsp;/&nbsp; 
-				<a href="/contact">contact</a>
-				<br /><br />
-				<span class="h_800">
-					By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
-					<br />
-					Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a> -- <a href="https://favpng.com" title="Free Transparent PNG Images" target="_blank">FavPNG</a> --
-				</span>
-				<a href="http://steadfast.net/services/dedicated-servers.php?utm_source=pastebin.com&amp;utm_medium=referral&amp;utm_content=footer_link_dedicated_server_hosting_by&amp;utm_campaign=referral_20140118_x_x_pastebin_partner&amp;source=referral_20140118_x_x_pastebin_partner" rel="nofollow" target="_blank">Dedicated Server Hosting</a> by <a href="http://steadfast.net/?utm_source=pastebin.com&amp;utm_medium=referral&amp;utm_content=footer_link_steadfast&amp;utm_campaign=referral_20140118_x_x_pastebin_partner&amp;source=referral_20140118_x_x_pastebin_partner" rel="nofollow" target="_blank">Steadfast</a>
-			</div>
-			<div id="footer_right" class="h_1024">
-			
-				<a href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"><img src="/i/t.gif" alt="" class="icon40 facebook_circle" /></a>
-				<a href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"><img src="/i/t.gif" alt="" class="icon40 twitter_circle" /></a>
-							</div>
-		</div>
-		<script type="text/javascript">
-			function isIE(){var e=navigator.userAgent.toLowerCase();return-1!=e.indexOf("msie")?parseInt(e.split("msie")[1]):!1}if(isIE()&&isIE()<10){var div=document.getElementById("ie_msg");div.innerHTML=div.innerHTML+'<div id="old_browser">Your browser is outdated and insecure! Pastebin does not offer support for your browser. <a href="http://outdatedbrowser.com/" target="_blank" rel="nofollow">Click here to update your browser</a>!</div>'}
-		</script>
-		<div class="pub_300x250"></div><a href="#0" class="cd-top">Top</a>
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/DAAI-TV.png" group-title="Live Channel",Lokal TV - DAAI TV
+http://rr2.dens.tv/s/s13/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pmomUe4.png" group-title="Live Channel",Lokal TV - FOX Sport 1
+http://3.0.93.95:25461/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pmomUe4.png" group-title="Live Channel",Lokal TV - FOX Sport 2
+http://3.0.93.95:25461/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pmomUe4.png" group-title="Live Channel",Lokal TV - FOX Sport 3
+http://3.0.93.95:25461/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLUlpPJ.png" group-title="Live Channel",Lokal TV - Fox Movies Premium
+http://3.0.93.95:25461/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/51
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5liQOzy.png" group-title="Live Channel",Lokal TV - FOX Family Movies
+http://3.0.93.95:25461/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/52
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLUlpPJ.png" group-title="Live Channel",Lokal TV - FOX Action Movies
+http://3.0.93.95:25461/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/53
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5liQOzy.png" group-title="Live Channel",Lokal TV - FOX Channel
+http://3.0.93.95:25461/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/54
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5lFfDoW.png" group-title="Live Channel",Lokal TV - FOX Crime
+http://3.0.93.95:25461/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/55
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7qke9JQ.png" group-title="Live Channel",Lokal TV - FOX Life
+http://3.0.93.95:25461/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/56
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/GTV.png" group-title="Live Channel",Lokal TV - GTV #1
+https://etslive-2-vidio-com.akamaized.net/exp=1583683582~acl=/hls-p/ingest_778_*/*~hmac=2f0923482586795f6abf28e5f3b65ca65a39339d7e65622107db73140708fd40/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/GTV.png" group-title="Live Channel",Lokal TV - GTV #2
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Indosiar.png" group-title="Live Channel",Lokal TV - Indosiar #1
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Indosiar.png" group-title="Live Channel",Lokal TV - Indosiar #2
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Indosiar.png" group-title="Live Channel",Lokal TV - Indosiar #3
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/iNews.png" group-title="Live Channel",Lokal TV - iNews #1
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/iNews.png" group-title="Live Channel",Lokal TV - iNews #2
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/iNews.png" group-title="Live Channel",Lokal TV - iNews #3
+
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/KOMPAS-TV.png" group-title="Live Channel",Lokal TV - KOMPAS TV #1
+https://etslive-2-vidio-com.akamaized.net/exp=1583682762~acl=/hls-p/ingest_783_*/*~hmac=75340edb2deb5838d02fa6ef4b34d61e136c99bba02376013d024ef0517a50b7/hls-p/ingest_783_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/KOMPAS-TV.png" group-title="Live Channel",Lokal TV - KOMPAS TV #2
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/KOMPAS-TV.png" group-title="Live Channel",Lokal TV - KOMPAS TV #3
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/KOMPAS-TV.png" group-title="Live Channel",Lokal TV - KOMPAS TV #4
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Metro-TV.png" group-title="Live Channel",Lokal TV - Metro-TV #1
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w2035713128_b1128000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Metro-TV.png" group-title="Live Channel",Lokal TV - Metro TV #2
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Metro-TV.png" group-title="Live Channel",Lokal TV - Metro TV #3
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Metro-TV.png" group-title="Live Channel",Lokal TV - Metro TV #4
+
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/MNC-TV.png" group-title="Live Channel",Lokal TV - MNC TV #1
+https://etslive-2-vidio-com.akamaized.net/exp=1583683539~acl=/hls-p/ingest_870_*/*~hmac=ed413320f582f9fe12c4368eb7fb7cc11b7d187257fa9861d248932cdf7b40d0/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/MNC-TV.png" group-title="Live Channel",Lokal TV - MNC TV #2
+https://live.rctiplus.id/rctiplus/mnctv_manifest.m3u8?vhost=__defaultVhost__
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/NetTV.png" group-title="Live Channel",Lokal TV - Net. #1
+http://rr2.dens.tv/s/s08/index2.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/NetTV.png" group-title="Live Channel",Lokal TV - Net. #2
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/NetTV.png" group-title="Live Channel",Lokal TV - Net. #3
+https://etslive-2-vidio-com.akamaized.net/exp=1583683605~acl=/hls-p/ingest_875_*/*~hmac=6f4f9cf74893b5f29f1cc471a98c29cad4835f61acb9b6267139cc4292794577/hls-p/ingest_875_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RCTI.png" group-title="Live Channel",Lokal TV - RCTI #1
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RCTI.png" group-title="Live Channel",Lokal TV - RCTI #2
+https://live.rctiplus.id/rctiplus/rcti_manifest.m3u8?vhost=__defaultVhost__
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RCTI.png" group-title="Live Channel",Lokal TV - RCTI #3
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RCTI.png" group-title="Live Channel",Lokal TV - RCTI #4
+http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RRI-NET.png"  group-title="Live Channel",Lokal TV - RRI-NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RTV.png" group-title="Live Channel",Lokal TV - RTV #1
+http://rr2.dens.tv/s/s12/index2.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RTV.png" group-title="Live Channel",Lokal TV - RTV #2
+https://etslive-2-vidio-com.akamaized.net/exp=1583683640~acl=/hls-p/ingest_geo_1561_*/*~hmac=efad632f28cb09600d8a62dca08fd1a170cf32a07c3dbb437733a90806efb11f/hls-p/ingest_geo_1561_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/SCTV.png" group-title="Live Channel",Lokal TV - SCTV #1
+https://etslive-2-vidio-com.akamaized.net/exp=1583682569~acl=/hls-p/ingest_204_*/*~hmac=c86f32e2c017259da78be3ecc796d8c5db9acca26bd147a81ed5e5f9c8840acd/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/SCTV.png" group-title="Live Channel",Lokal TV - SCTV #2
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/SCTV.png" group-title="Live Channel",Lokal TV - SCTV #3
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/SCTV.png" group-title="Live Channel",Lokal TV - SCTV #4
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Trans-7.png" group-title="Live Channel",Lokal TV - Trans7 #1
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Trans-7.png" group-title="Live Channel",Lokal TV - Trans7 #2
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Trans-7.png" group-title="Live Channel",Lokal TV - Trans7 #3
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w63099618_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Trans-7.png" group-title="Live Channel",Lokal TV - Trans7 #4
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w197320079_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Trans-7.png" group-title="Live Channel",Lokal TV - Trans7 #5
+https://etslive-2-vidio-com.akamaized.net/exp=1583683012~acl=/hls-p/ingest_734_*/*~hmac=52e7a1b4e930b98e765afb090ea0c6be8abfb9b838c53c2e3f4360d86d6fb570/hls-p/ingest_734_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Trans-TV.png" group-title="Live Channel",Lokal TV - TransTV #1
+http://210.210.155.35/session/0c6a6e58-11ca-11ea-92db-b82a72d63267/qwr9ew/s/s100/01.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Trans-TV.png" group-title="Live Channel",Lokal TV - TransTV #2
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Trans-TV.png" group-title="Live Channel",Lokal TV - TransTV #3
+https://etslive-2-vidio-com.akamaized.net/exp=1583682965~acl=/hls-p/ingest_733_*/*~hmac=dd33b0b98488ca0116bcebfe62d36b03b1ae23ff499e6ba1af689c45e48d9462/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/TVKU.png" group-title="Live Channel",Lokal TV - TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/TVRI.png" group-title="Live Channel",Lokal TV - TVRI
+http://rr2.dens.tv/s/s11/index2.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/TV-One.png" group-title="Live Channel",Lokal TV - TVOne
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/TV-One.png" group-title="Live Channel",Lokal TV - TVOne #2
+https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
 
 
 
-	</body>
-</html>
+<|-- Entertainment
+==========================================================
+
+
+
+<|-- Extra Sports
+==========================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xBUIqTm.jpg" group-title="Live Channel",E-Sports - by @Kuzeini
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - All Sports
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",Al Kass Sports 1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",Al Kass Sports 2 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",Al Kass Sports 3 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",Al Kass Sports 4 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",Al Kass Sports 5 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Arena Sport #2
+https://sport7.ws/lba/N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=/g8/arena2sport.m3u8?token=N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=&id=OTFmMDRiYWRkNzgyNjMyM2I2ZGI4ZjNjYzk3N2U2NGE=&vip=1571041635&dip=ZDM1MDc1YjAxMjk3ZGQwYjA2ZmM2OWE1MDNkNDA5ODY=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Arena Sport #5
+https://sport7.ws/lba/MDc5NmM1NjM0MDZhYTY1MDc2ZDlhMDY1YzI4ZDcyNDk=/g7/ar5sport.m3u8?token=MDc5NmM1NjM0MDZhYTY1MDc2ZDlhMDY1YzI4ZDcyNDk=&id=MzhlMDE2NWE0MDZjNDg0ZGQzMWU3N2FkYjU1MjA1NmM=&vip=1571042024&dip=ZjMxNTU0YWJhZTk0MWVjNTg3YmRlODNlMmE3NjQzYWM=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - ASTRO SUPER SPORT #1
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - ASTRO SUPER SPORT #2
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - ASTRO SUPER SPORT #3
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - ASTRO SUPER SPORT #4
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - beIN Sports #1
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - beIN Sports #2
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - beIN Sports #3
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - beIN Sports #4
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - beIN Sports #5
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - beIN Sports #6
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - beIN Sports #7
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - beIN Sports #8
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Betis TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - BT SPORT #1 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - BT SPORT #2 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - CCTV-5+
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Champions TV #1
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Champions TV #2
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - DD sportS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Dubai Racing #1
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Dubai Racing #2
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Eurosport #1
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Eurosport #2
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - FOX Sport #1
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - FOX Sport #1
+http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - FOX Sport #2
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - FOX Sport #2
+http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - FOX Sport #3
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - FOX Sport #3
+http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - FOX Sport PREMIUM
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Mence Sport #1
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Mence Sport #2
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Fight Sports
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Olympic Channel
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - PREMIER SPORTS #1
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - PREMIER SPORTS #2 
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Setanta Sports #1
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Setanta Sports #2
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Sky Sports HD #1
+http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Sky Sports HD #2
+http://95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Sky Sports
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Sky Sports football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Sky Sports Arena
+http://95.170.215.120:80/hls/m3u8/Sky-Sports-Arena.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Sky Sport Action
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Sony Six
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Sony Ten #1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Sony Ten #2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Sony Ten #3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - SPORT TV #2 SD
+http://62.203.143.51:9981/play/SPORTV2
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - SPORT TV #2 HD
+http://62.203.143.51:9981/play/SPORT2HD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - Stadium Sports Network
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - TEN 3
+http://163.172.85.133:8080/TenS/3/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - True Premier Football #1
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - True Premier Football #2
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - True Premier Football #3
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - True Premier Football #4
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - True Sport #1
+http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - True Sport #2
+http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - True Sport #3
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Extra-Sports.png" group-title="Live Channel",E-Sports - WWE Network
+
+
+
+
+
+<|-- Kids
+========================================================== 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - 3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Boruto TV
+http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Captain Tsubasa 2019 TV
+http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Detective Conan 1
+http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Detective Conan 2
+http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Detective Conan 3
+http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Disney JUNIOR ID
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Doraemon SERIES
+http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - DRAGON BALL KAI TV
+http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - DRAGON BALL Z TV
+https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w1145871295.m3u8?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Greek kids
+http://wpso.com:1936/hls/kidshd.m3u8?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - HUNTER X HUNTER
+http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - INUYASHA
+http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - KurdMax Papule
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Kurokoai Basketball
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Nickelodeon Asia
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - ONE PIECE TV
+http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - ONE PUNCH MAN
+http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - SPOOKY NICK
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv?filmbluray.iD
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kids-Zone.png" group-title="Live Channel",Kids - TOTALLY SPIES
+http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv?filmbluray.iD
+
+
+
+
+<|-- Knowledge
+========================================================== 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Animal Planet
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Animal Planet
+https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Animal Planet
+https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Asian Food Channel
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - BBC Earth
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - BBC Earth
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - CGTN Documentary
+http://210.210.155.35/qwr9ew/s/s20/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Crime Investigation
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Discovery Channel
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Docubox
+http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - English Club
+http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Fashion TV Films
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Fashion TV Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Fashion TV Teens
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - History 1
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - History 1
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - History 2
+http://livecdnh1.tvanywhere.ae/hls/h2/04.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - History 2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - ID ku
+https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560166~exp=9007200830301157~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=726790f4481ebf1b4f1270a236084230ba8eef1af78b75e6dbbf3909612e4d42
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Love Nature
+https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - MKC EDU 1 HD
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - MKC EDU 2 HD
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - MKC EDU 3 HD
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Nat Geo Channel
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Nat Geo Channel
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Nat Geo People
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/03.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Nat Geo People
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Nat Geo Wild
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Nat Geo Wild
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - NHK World
+http://210.210.155.35/uq2663/h/h23/index1.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Red Bull Tv
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Ruang Terampil
+https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876064~exp=9007200829617055~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=43e732720209b4ede047d32a879e517cc1f2b74fc30d7793054e461b394dfe57
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - TV 5 MONDE
+http://rr2.dens.tv/s/s24/index2.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Usee Photo
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560124~exp=9007200830301115~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=df1895ab7d75062dab8c53f11031484962c78a4059232d5597b624d85ac3993a
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Knowledge.png" group-title="Live Channel",Knowledge - Usee Prime
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560046~exp=9007200830301037~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=63478ab3ea286fb358e2fdb6aceaf9bc19bb79dfcd13ecd3b820ca7eff0c19b7
