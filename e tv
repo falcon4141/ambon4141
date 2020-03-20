@@ -237,17 +237,15 @@ http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 http://rr2.dens.tv/s/s13/index2.m3u8
 =============================================  Movies  ================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FOX Action Movies
-http://3.0.93.95:25461/live/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/3.m3u8
+http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/53
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FOX Channel
-http://3.0.93.95:25461/live/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FOX Crime
-http://3.0.93.95:25461/live/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/5.m3u8
+http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/51
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",MNX Movies
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FOX Family Movies
-http://3.0.93.95:25461/live/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/2.m3u8
+http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/52
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",Fox Movies Premium
-http://3.0.93.95:25461/live/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FOX Life
-http://3.0.93.95:25461/live/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/6.m3u8
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",hbo family
 http://203.153.218.28:9981/stream/channelid/1316004766
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",hbo hits
@@ -366,7 +364,21 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",My Cinema Channel
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-
+============================================= HIBURAN ================================================
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/buatmuhammadrizalskomownerzalogitv/anjingkeparatspesialisbongkarplaylist/romedynow.png" group-title="HIBURAN",Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/buatmuhammadrizalskomownerzalogitv/anjingkeparatspesialisbongkarplaylist/hitsmovies.png" group-title="HIBURAN",HITS Movies
+http://3.0.93.95:25461/upload/stream-off.mp4
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/buatmuhammadrizalskomownerzalogitv/anjingkeparatspesialisbongkarplaylist/starmovies.png" group-title="HIBURAN",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/buatmuhammadrizalskomownerzalogitv/anjingkeparatspesialisbongkarplaylist/cinemaworld.png" group-title="HIBURAN",Cinema World
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/buatmuhammadrizalskomownerzalogitv/anjingkeparatspesialisbongkarplaylist/hbosign.png" group-title="HIBURAN",HBO Signature
+http://3.0.93.95:25461/upload/stream-off.mp4
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/buatmuhammadrizalskomownerzalogitv/anjingkeparatspesialisbongkarplaylist/celestial.png" group-title="HIBURAN",Celestial Movies
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/buatmuhammadrizalskomownerzalogitv/anjingkeparatspesialisbongkarplaylist/sinemaindo.png" group-title="HIBURAN",Sinema Indonesia
+http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
 ============================================= CHANEL OLAH RAGA ================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="OLAH RAGA",FOX Sport 1
 http://3.0.93.95:25461/live/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/7.m3u8
