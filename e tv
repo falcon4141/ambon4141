@@ -367,12 +367,10 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 ============================================= HIBURAN ================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Cinema World
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Celestial Movies
 http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="HIBURAN",Sinema Indonesia
