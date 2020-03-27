@@ -1,4 +1,4 @@
-
+122 55 378
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
 https://i.imgur.com/ODEwKKv.mp4
@@ -77,24 +77,22 @@ http://moduloffice.my.id/s/EltasyaNatasha-DM.zip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,SABYAN
 http://bit.ly/39bldPN
 ============================================= CHANEL INDONESIA ================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",Indosiar SHOPY
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585317547~acl=/hls-b/ingest_665_*/*~hmac=b97850a5505dd62d55d55d8de6c4fb9376b1123d4056eb9a7c3930f5f58d3164/hls-b/ingest_665_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI 2
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI 3
 https://live.rctiplus.id/rctiplus/rcti_360p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", MNCTV
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585317451~acl=/hls-b/ingest_870_*/*~hmac=90d077979572777e63511075ee2cfb9a348ee0347e19a5ab53a1210a777eb09a/hls-b/ingest_870_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", MNCTV 2
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", MNCTV 3
 https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TV ONE
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TV ONE SD
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+https://anevia114.mncnow.id:443/live/eds/TVOne/sa_hls/TVOne-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",METRO TV SD
@@ -110,132 +108,46 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1482161906_b384
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",CNN INDONESIA SD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w9390699_b192000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", GLOBALTV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585317361~acl=/hls-b/ingest_778_*/*~hmac=bf5887f9f73d2d07f934fa63e4e1cdeccabbc5641db91d5d3ff3df2380e7b2af/hls-b/ingest_778_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",GLOBALTV2
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",SCTV
 http://210.210.155.35/session/c4149592-07c5-11ea-888f-b82a72d63267/qwr9ew/s/s103/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",SCTV 2
-http://id1.indostreamingtv.com:80/live/sctv/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585317420~acl=/hls-b/ingest_204_*/*~hmac=b1c4b97434582e64958165429785b2bff39e96f9629b82637f01526a35bc0dee/hls-b/ingest_204_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TRANSTV
-http://210.210.155.35/session/0fd20eca-07c5-11ea-9bba-c81f66f89318/qwr9ew/s/s100/01.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585317503~acl=/hls-b/ingest_733_*/*~hmac=715b9b2f9dcd10b18c3b1d234aee14408968a875a4ead3ae778d8053adc25242/hls-b/ingest_733_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TRANSTV 2
-http://id2.indostreamingtv.com/live/tv33/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TRANSTV 3
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w63099618_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", TRANS 7+
-http://id2.indostreamingtv.com:80/live/trans7/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585317519~acl=/hls-b/ingest_734_*/*~hmac=9a091380fd132603d1a1d99a6221e7f2eb4eb92f785f5e8a9586272502daf588/hls-b/ingest_734_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", TRANS 7++
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", TRANS 7+++
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", TRANS 7++
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", ANTV
 http://id2.indostreamingtv.com:80/live/antv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", ANTV 2
-http://210.210.155.35/qwr9ew/s/s102/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", NET. TV
-http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", NET. TV2 (new)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", NET. TV2 
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RTV
-http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",RTV
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",JTV
 https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RTV3
-http://45.126.83.51/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",iNewsTV
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",INDOSIAR 2
-http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585317422~acl=/hls-p/ingest_5409_*/*~hmac=0aa5ccef2a507fb1b86615f3f81bd600bd2f131524761df69cd8fd2da5565100/hls-p/ingest_5409_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",INDOSIAR 
+https://etslive-2-vidio-com.akamaized.net/exp=1585317420~acl=/hls-b/ingest_205_*/*~hmac=473f938cbcaf0a6196ac41e08ab94b939a150da1a34544d05fddb98e9c51bfd6/hls-b/ingest_205_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",INDOSIAR 3
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TVRI
-http://45.126.83.51/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TVRI+
 http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TVRI++
 http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
-============================ INDONESIA ==============================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", ADIT TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", ANTV 
-http://id2.indostreamingtv.com/live/antv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", ANTV 
-http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", GTV 
-https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", GTV
-https://live.rctiplus.id/rctiplus/gtv_manifest.m3u8?vhost=__defaultVhost__
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",GTV 
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",iNews 
-https://live.rctiplus.id/rctiplus/inews_manifest.m3u8?vhost=__defaultVhost__
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", iNews 
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", iNews 
-https://live.rctiplus.id/rctiplus/inews_360p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", DAAI TV
-http://rr2.dens.tv/s/s13/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", KOMPAS TV 
-http://210.210.155.35/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", KOMPAS TV 
-http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", Metro-TV 
-https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w2035713128_b1128000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", Metro TV 
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",Metro TV 
-http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",MNC TV 
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",MNC TV 
-https://live.rctiplus.id/rctiplus/mnctv_manifest.m3u8?vhost=__defaultVhost__
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",Net. 
-http://rr2.dens.tv/s/s08/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", Net. 
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", RCTI 
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",RCTI 
-https://live.rctiplus.id/rctiplus/rcti_manifest.m3u8?vhost=__defaultVhost__
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", RCTI 
-https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",RCTI 
-http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",RRI-NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",RTV 
-http://rr2.dens.tv/s/s12/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",RTV 
-http://202.80.222.170:80/000001/2/ch00000090990000001716/1003.m3u8?IASHttpSessionId=OTT219862019121316003224320478&ztecid=ch00000090990000001716&bandwidth=1413530&ispcode=1&timeformat=local&channel=ch00000090990000001716&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTcvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", SCTV 
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", SCTV 
-http://210.210.155.35/qwr9ew/s/s103/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", Trans7 
-http://210.210.155.35/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", Trans7 
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", Trans7 
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w63099618_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", TransTV 
-http://210.210.155.35/session/0c6a6e58-11ca-11ea-92db-b82a72d63267/qwr9ew/s/s100/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",TransTV 
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", TVRI
-http://rr2.dens.tv/s/s11/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA",TVOne
-http://210.210.155.35/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", DAAI TV
-http://rr2.dens.tv/s/s13/index2.m3u8
+
 =============================================  Movies  ================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FOX Action Movies
 http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/53
@@ -560,8 +472,6 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", T Sports Channel
 http://host4.dynns.com/stream/3ee1e656d6ae417a914743328d44f20f.m3u8
-============================================= KIDS ================================================
-
 
 =============================================  Knowledge ================================================
 
@@ -660,201 +570,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Religious",I AM Channel
 http://iamchannel.org:1935/tes/1/chunklist.m3u8
 
-============================================= CHANEL INDONESIA ================================================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI 2
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RCTI 3
-https://live.rctiplus.id/rctiplus/rcti_360p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", MNCTV
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", MNCTV 2
-http://id6.indostreamingtv.com/live/mnctv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", MNCTV 3
-https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TV ONE
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TV ONE SD
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",METRO TV SD
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",KOMPAS TV HD
-https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",KOMPAS TV SD
-http://210.210.155.35/qwr9ew/s/s104/01.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",CNBC INDONESIA HD
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1921788338_b384000_sleng.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",CNN INDONESIA HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1482161906_b384000_sleng.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",CNN INDONESIA SD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w9390699_b192000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", GLOBALTV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",GLOBALTV2
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",SCTV
-http://210.210.155.35/session/c4149592-07c5-11ea-888f-b82a72d63267/qwr9ew/s/s103/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",SCTV 2
-http://id1.indostreamingtv.com:80/live/sctv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TRANSTV
-http://210.210.155.35/session/0fd20eca-07c5-11ea-9bba-c81f66f89318/qwr9ew/s/s100/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TRANSTV 2
-http://id2.indostreamingtv.com/live/tv33/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TRANSTV 3
-http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w63099618_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", TRANS 7+
-http://id2.indostreamingtv.com:80/live/trans7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", TRANS 7++
-http://210.210.155.35/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", TRANS 7+++
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", ANTV
-http://id2.indostreamingtv.com:80/live/antv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", ANTV 2
-http://210.210.155.35/qwr9ew/s/s102/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", NET. TV
-http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", NET. TV2 (new)
-https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RTV
-http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",RTV
-https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",JTV
-https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", RTV3
-http://45.126.83.51/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",iNewsTV
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",INDOSIAR 2
-http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",INDOSIAR 3
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TVRI
-http://45.126.83.51/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TVRI+
-http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TVRI++
-http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
-============================================= SPORT ================================================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", TVRI SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", 100 AUTOMOTO TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", DUBAI RACING 1 
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", DUBAI RACING 2 
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", DUBAI RACING 3 
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", DUBAI SPORTS 1 
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", DUBAI SPORTS 2 
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", DUBAI SPORTS 3 
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", SPORT TV 1 BRASIL
-http://proxyts.ec.cx:8082/hls1/sportv1.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", SPORT TV 2 BRASIL
-http://proxyts.ec.cx:8082/hls1/sportv2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", FOX SPORT
-http://proxyts.ec.cx:8082/hls1/foxsports1.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", FOX SPORT 2
-http://proxyts.ec.cx:8082/hls1/foxsports2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", Fox Sport 2 (TH)
-http://host4.dynns.com/stream/1fd48f2cd616439ca4162478e572d681.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", Fox Sport 2 (EN)
-http://host4.dynns.com/stream/02cb79ab0b0c418f847148ca9e2baed4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", Fox Sport 3 (TH)
-http://host4.dynns.com/stream/b254601a75724ad79e2633f3d307e331.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", Fox Sport 3 (EN)
-http://host4.dynns.com/stream/443ea6ef1768462aaffdff38ce2a4355.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS",  EUROSPORT 1
-http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", EUROSPORT 2
-http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS",  ARENA SPORT 1
-http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", ARENA SPORT 2
-http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", ARENA SPORT 3
-http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", ARENA SPORT 4
-http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", D Sport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", FightBox
-http://92.43.140.200/s86/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS",  GOLTV
-http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", Real Betis TV
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", RED BULL TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", T Sports Channel
-http://host4.dynns.com/stream/3ee1e656d6ae417a914743328d44f20f.m3u8
-============================================= TV LOKAL ================================================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 1
-http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 2
-http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 3
-http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 4
-http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 5
-http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 6
-http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN", Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Six (Opt. 2)
-http://51.15.8.16:8081/lolind2/sonysixhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 1
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 1 (Opt. 2)
-http://51.15.8.16:8081/lolind2/sonyten1hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 2
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 2 (Opt. 2)
-http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sony ESPN (Opt. 2)
-http://51.15.8.16:8081/lolind2/sonyespnhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",STADIUM
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",UFC FIGHT PASS
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",BEIN SPORT 2 ARABIC
-http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",SPORT TV 2
-http://62.203.143.51:9981/play/SPORTV2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",SPORT TV 2 HD
-http://62.203.143.51:9981/play/SPORT2HD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="BEIN",Sky Sports Premier League HD
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 ============================================= TV LOKAL ================================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Arek TV
@@ -1062,7 +777,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 http://iamchannel.org:1935/tes/1/chunklist.m3u8
 
 =============================================  Children  ================================================
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Animax
+http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Children",DJING TV
