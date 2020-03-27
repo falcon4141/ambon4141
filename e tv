@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,FALCON
 https://i.imgur.com/ODEwKKv.mp4
@@ -15,7 +14,6 @@ https://drive.google.com/uc?id=1ZY2vdFpYWjdeKQXDqcAy4PqZWaBCSYof
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" ,LIVE Nella Kharisma
 https://drive.google.com/uc?id=1RDgYPRNtLXld9cgRBGuE6N_0wO81Oc3q
 ================================================================================================================================
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" , Nella Kharisma - Jaran Goyang [MP4]
 https://media-vidio-com.akamaized.net/uploads/860901/nella-20kharisma-20jaran-20goyang-386f-b1200.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" , Nella Kharisma - Bojo Galak MP4]
@@ -147,7 +145,6 @@ http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=00
 http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",ADIT TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-
 =============================================  Movies  ================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Movies",FOX Action Movies
 http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/53
@@ -472,7 +469,6 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="SPORTS", T Sports Channel
 http://host4.dynns.com/stream/3ee1e656d6ae417a914743328d44f20f.m3u8
-
 =============================================  Knowledge ================================================
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Knowledge",Docubox
@@ -596,10 +592,8 @@ https://video2.onlivestreaming.net/robot/livestream/chunks.m3u8
 http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Radar TV
 http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Radar TV Tasikmalaya
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",SBCTV Jatim
 http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",TATV Solo
