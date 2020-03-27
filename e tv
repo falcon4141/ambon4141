@@ -91,7 +91,7 @@ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TV ONE
 https://anevia114.mncnow.id:443/live/eds/TVOne/sa_hls/TVOne-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", Berita Satu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
@@ -145,7 +145,7 @@ http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="CHANEL INDONESIA",TVRI++
 http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" INDONESIA", ADIT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title=" CHANEL INDONESIA", ADIT TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
 =============================================  Movies  ================================================
