@@ -486,7 +486,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="Knowledge",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
-
 =============================================  News  ================================================
 EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="News",CNBC Indonesia 1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
@@ -572,22 +571,18 @@ http://iamchannel.org:1935/tes/1/chunklist.m3u8
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Bali TV
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",JakTV
 http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Jek TV
 http://122.248.43.138:1935/ch14/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Jawa Pos TV
 https://livetvhooq.akamaized.net:443/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573600053~exp=9007200828341044~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_2/chunklist.m3u8*~hmac=34668c3a5d65ee732b03c74c8c5fe7f2bd27db8a18a14541660649e8fae2dfc4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Padang TV
 https://video2.onlivestreaming.net/robot/livestream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Prima TV Banjarmasin
 http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",Radar TV
@@ -614,10 +609,8 @@ http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",TATV SOLO
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",RCTV CIREBON
 http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="TV LOKAL",THE INDONESIAN CHANNEL
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 
