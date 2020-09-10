@@ -1,0 +1,44 @@
+#EXTM3U 
+########################################## LOKAL ######################################################
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL",http://andriant.my.id
+https://dl.dropboxusercontent.com/s/5ws9vhnr7pf7n2j/CitraDrama.m3u8?dl=1
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/24/12/29/no-symbol-39767_960_720.png" group-title="LOKAL",Dilarang Untuk Nobar Dan Komersil
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/indosiar.jpg" group-title="LOKAL BRO", INDOSIAR
+https://m3u-editor.com/serve/de02e500-ee03-11ea-ac36-a3b2659fbb44/95050742.m3u8
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NZy4IEZXngGp5YlqpIQOWM3pH1U=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="LOKAL BRO", MNC TV
+https://m3u-editor.com/serve/de02e500-ee03-11ea-ac36-a3b2659fbb44/95050727.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOKAL BRO", ANTV
+https://m3u-editor.com/serve/7da32b60-e999-11ea-bd9b-6102d538004b/92718213.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sctv.jpg" group-title="LOKAL BRO", SCTV
+https://m3u-editor.com/serve/de02e500-ee03-11ea-ac36-a3b2659fbb44/95050731.m3u8
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KQVmvZlGolCgOATiH13nww_hX1I=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="LOKAL BRO", RCTI
+https://m3u-editor.com/serve/de02e500-ee03-11ea-ac36-a3b2659fbb44/95050732.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="LOKAL BRO", GTV
+https://m3u-editor.com/serve/de02e500-ee03-11ea-ac36-a3b2659fbb44/95050739.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="LOKAL BRO", Trans 7
+https://m3u-editor.com/serve/de02e500-ee03-11ea-ac36-a3b2659fbb44/95050734.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="LOKAL BRO", Trans TV
+https://m3u-editor.com/serve/de02e500-ee03-11ea-ac36-a3b2659fbb44/95050735.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="LOKAL BRO", NET TV
+https://m3u-editor.com/serve/7da32b60-e999-11ea-bd9b-6102d538004b/92718219.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="LOKAL BRO", RTV
+https://m3u-editor.com/serve/7da32b60-e999-11ea-bd9b-6102d538004b/92718220.m3u8
+#EXTINF: -1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOKAL BRO", BERITA SATU
+https://m3u-editor.com/serve/7da32b60-e999-11ea-bd9b-6102d538004b/92718221.m3u8
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/-PWtwDVBQ81I/AAAAAAAAAAI/AAAAAAAAAAA/TV9LxFTHLEA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LOKAL BRO", INewsTV
+https://m3u-editor.com/serve/7da32b60-e999-11ea-bd9b-6102d538004b/92718222.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOKAL BRO", TV ONE
+https://m3u-editor.com/serve/7da32b60-e999-11ea-bd9b-6102d538004b/92718223.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="LOKAL BRO", METRO TV
+https://m3u-editor.com/serve/7da32b60-e999-11ea-bd9b-6102d538004b/92718224.m3u8
+#EXTINF: -1 group-title="LOKAL BRO", KOMPAS TV
+https://m3u-editor.com/serve/7da32b60-e999-11ea-bd9b-6102d538004b/92718225.m3u8
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/CNBC_Indonesia.png" group-title="LOKAL BRO", CNBC INDONESIA
+https://m3u-editor.com/serve/7da32b60-e999-11ea-bd9b-6102d538004b/92718226.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_cnnindonesia_small1.png" group-title="LOKAL BRO", CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="LOKAL BRO", TVRI NASIONAL
+https://m3u-editor.com/serve/7da32b60-e999-11ea-bd9b-6102d538004b/92718228.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="LOKAL BRO", DAAI TV
+https://m3u-editor.com/serve/7da32b60-e999-11ea-bd9b-6102d538004b/92718229.m3u8
