@@ -1,0 +1,513 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Astro SuperSport 1
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18623
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Astro SuperSport 2
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18622
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Astro SuperSport 3
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18621
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Astro SuperSport 4
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18620
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Arena Sport 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8?checkedby
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Arena Sport 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8?checkedby
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Arena Sport 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8?checkedby
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Arena Sport 4
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8?checkedby
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL", Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",BT Sport1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",BT Sport2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",STAR SPORTS SELECT
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",SKY SPORTS MIX
+http://139.99.17.52:8081/liveorigin/uk-skysports-mix_720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",SKY SPORTS
+http://139.99.17.52:8081/liveorigin/uk-skysports-action_720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",SKYNET SPORTS HD
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Skynetsport1
+https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Skynetsport2
+https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Skynetsport3
+https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Skynetsport4
+https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",BEINSPORT 1
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",BEINSPORT 2
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",FOXSPORT 1
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",FOX SPORTS 1 
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",FOX SPORTS 2 
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",FOX SPORT 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",FOX SPORTS 1 BACKUP
+http://103.47.132.164/PLTV/88888888/224/3221227125/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",FOX SPORTS 2 BACKUP
+http://103.47.132.164/PLTV/88888888/224/3221227175/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",FOX SPORTS 3 BACKUP
+http://103.47.132.164/PLTV/88888888/224/3221227219/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Varzesh TV
+http://51.158.66.44/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Varzesh TV 3
+http://51.15.236.137/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",Varzesh TV 4
+http://163.172.138.186/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",IRIB VARZESH
+https://livetv.persianleague.com/live/varzesh/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",TRUESPORTS HD 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",TRUESPORTS HD 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",TRUESPORTS HD 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",TRUESPORTS HD 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",TRUESPORTS SD 5
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",TRUESPORTS SD 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",TRUESPORTS SD 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",newtv sports
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",newtv Sports
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL",newtv bilyard
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8
+
+
+==========================================================================
+
+
+
+=============================================================================LIGA1===========================================================================================================================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",DUKUNG CHANNEL SAYA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",YANG BELUM SUBSCRIBE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hs7WP0c/mukaduatv.jpg" group-title="LIGA1",SILAHKAN MASUK DI CHANNEL: 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",MUKA DUA IPTV
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",KODE UPDATE LAINNYA:
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",https://www.bedaprinsip86.web.id
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",Viasat Sport East
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",SETANTA SPORTS 1
+http://92.43.140.204:80/s81/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",SETANTA SPORTS 2
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",CCTV5
+http://220.158.149.14:9999/live/TV00000000000000000104@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",ADS SPORTS CRICKET
+http://212.47.252.54/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",PTV Sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",Nile Sport
+http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",MOTOR SPORT
+http://45.58.62.92:8084
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",USA: LAX SPORTS NETWORK
+https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="LIGA1",UK: EURO SPORTS
+http://91.126.39.98:8086/udp/224.168.32.2:3202
+
+
+
+=======================================================================SportsUnggulan====================================================================================================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",DUKUNG CHANNEL SAYA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",YANG BELUM SUBSCRIBE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hs7WP0c/mukaduatv.jpg" group-title="SportsUnggulan",SILAHKAN MASUK DI CHANNEL: 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",MUKA DUA IPTV
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",KODE UPDATE LAINNYA:
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",https://www.bedaprinsip86.web.id
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",100 AUTOMOTO.TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",TVRI SPORT 
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",RTM SPORTS
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan", SWISS SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",Bein sport extra
+https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",BAYERN MUNCHEN TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",STAR SPORTS SELECT 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",Star Sports 1
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",STAR SPORTS 2
+http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",DUNIA GAMES
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(80a28b16-86cd-4e4f-83e2-09fd96d7d0e2)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",Egg Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",TDM SPORT MACAU
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",PPTV 36 Thai
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png"  group-title="SportsUnggulan",FOX SPORTS HD 1 USA
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",TENIS 1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",TENIS 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",FIGHT SPORTS
+http://210.210.155.35:80/uq2663/h/h05/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan", NBA Tv
+#https://www.doofree88.com/streaming/hd-nba_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan", Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan", FIGHT TIME
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan", FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",ARHAT SPORT TV
+http://arhat.tv/public/360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",SBS SPORTS
+http://211.245.55.198:1024/m2u/239.192.67.130:49220
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",Sport 7
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",PACUAN KUDA
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",I RACING
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",X Sport
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsUnggulan",XX Sport
+http://212.47.252.54/hls/stream.m3u8
+
+
+
+=============================================================SportsArab1================================================================================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",DUKUNG CHANNEL SAYA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",YANG BELUM SUBSCRIBE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hs7WP0c/mukaduatv.jpg" group-title="SportsArab1",SILAHKAN MASUK DI CHANNEL: 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",MUKA DUA IPTV
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",KODE UPDATE LAINNYA:
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",https://www.bedaprinsip86.web.id
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",ARYADIA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",Dsports_HD
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",VARZESH TV
+http://51.158.176.190/hls/stream.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",KSA SPORTS 1 HD
+http://95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",KSA SPORTS 1 SD
+https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",KSA SPORTS 1 low
+https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",KSA SPORTS 2 HD
+http://95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",KSA SPORTS 2 SD
+https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",KSA SPORTS 2 low
+https://edge-1192-ch-gv.filmon.com/live/1778.low.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",ALKASS_1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",ALKASS_2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",ALKASS_3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",ALKASS_4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",ALKASS_5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1", Ad Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1", Ad Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1", Ad Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1", Ad Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+
+
+
+=============================================================SportsArab2================================================================================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",DUKUNG CHANNEL SAYA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",YANG BELUM SUBSCRIBE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hs7WP0c/mukaduatv.jpg" group-title="SportsArab1",SILAHKAN MASUK DI CHANNEL: 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",MUKA DUA IPTV
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",KODE UPDATE LAINNYA:
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab1",https://www.bedaprinsip86.web.id
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Abu Dhabi Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Al Kass Sports 1 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Iraqiya Sports
+https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",KSA Sports
+http://95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",KSA Sports 2
+http://95.170.215.107/hls/m3u8/KSA-Sport2-Bakup.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",ON Sport
+http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Nile Sports
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",ON-Sport
+http://95.170.215.107:80/hls/m3u8/ON-Sport.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Dubai SPORT
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",البحرين الرياضية
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Jordan SPORT
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w1593498413.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Nile SPORT
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",maroc SPORT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SportsArab2",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?v=
+
+
+============================================================SPORTS=====================================================================================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",DUKUNG CHANNEL SAYA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",YANG BELUM SUBSCRIBE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hs7WP0c/mukaduatv.jpg" group-title="SPORTS",SILAHKAN MASUK DI CHANNEL: 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",MUKA DUA IPTV
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",KODE UPDATE LAINNYA:
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",https://www.bedaprinsip86.web.id
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",ASTRO MALAYSIA Suria 
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",CCTV 5
+http://220.158.149.14:9999/live/TV00000000000000000104@HHZT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",E-sport Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",Fox Sport News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",Lax Sports Network
+https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",Outside TV
+https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",Sportskool TV
+https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",World of Free Sports
+https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",Xcorps
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",Fox Sports 501
+http://45.58.62.92:8080
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",Fight Plus
+https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",FOX SPORT News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",fox sports 1
+http://13.250.204.68:80/session/usee_tv/dakocan-premium/fs1.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",fox sports 2
+http://13.250.204.68:80/session/usee_tv/dakocan-premium/fs2.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",fox sports 3
+http://13.250.204.68:80/session/usee_tv/dakocan-premium/fs3.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",bein 1
+https://edgejt6.useetv.com:443/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",bein 2
+https://cdnbal1.useetv.com:443/joss/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",sony ten 2
+https://mrbjmiptv.online:443/play/trial@mrbjmiptv.online/93605049/bCUgrPbD/norvegicus/sony_ten2_norvegicus/0/video/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="SPORTS",sony ten 3
+https://mrbjmiptv.online:443/play/trial@mrbjmiptv.online/93605049/bCUgrPbD/norvegicus/sony_ten3_norvegicus/0/video/playlist.m3u8
+
+
+
+======================================================================Sports2============================================================================================================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports2",DUKUNG CHANNEL SAYA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports2",YANG BELUM SUBSCRIBE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hs7WP0c/mukaduatv.jpg" group-title="Sports2",SILAHKAN MASUK DI CHANNEL: 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports2",MUKA DUA IPTV
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports2",KODE UPDATE LAINNYA:
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports2",https://www.bedaprinsip86.web.id
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports2",WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports2",BT SPORT 1 HD
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports2",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports2",DD sportS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports2",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports2",Setanta Sports 1 
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports2",Setanta Sports 1 Backup
+http://92.43.140.204:80/s81/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports2",Setanta Sports 2
+http://92.43.140.200/s82/04.m3u8
+
+
+=======================================================================Sports3==================================================================================================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",DUKUNG CHANNEL SAYA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",YANG BELUM SUBSCRIBE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hs7WP0c/mukaduatv.jpg" group-title="Sports3",SILAHKAN MASUK DI CHANNEL: 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",MUKA DUA IPTV
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",KODE UPDATE LAINNYA:
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",https://www.bedaprinsip86.web.id
+https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",OLYMPIC CHANNEL 1
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",OLYMPIC CHANNEL 2
+http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",OLYMPIC CHANNEL 3
+http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",OLYMPIC CHANNEL 4
+http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",OLYMPIC CHANNEL 5
+http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",PPTV HD
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",SPORT ILUSTRATED
+https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",FightBox
+http://92.43.140.249/s86/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",DSPORT
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Sports3",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+ 
