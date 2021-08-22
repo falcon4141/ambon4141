@@ -1,119 +1,407 @@
-#EXTM3U 
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="SPORTS", Usee Sports 1
-http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="SPORTS", Usee Sports 2
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0MJsFqP/zqs.png" group-title="SPORTS",ZQ Sport TV
-https://six1.zqprem.com/ZQSport-app/index.mpd
-#EXTINF:-1 tvg-id="RTS.MY" tvg-logo="https://i.postimg.cc/rwp2FwLK/Sukan.png" group-title="SPORTS",TV Sukan
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQxHkFXw/Champ1.png" group-title="SPORTS", Champions TV 1
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjpptwR3/Champ2.png" group-title="SPORTS", Champions TV 2
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RzHWDXt/Astro-Supersport.png" group-title="SPORTS",ASTRO SUPERSPORT 1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq6wq0hx/as2.png" group-title="SPORTS",ASTRO SUPERSPORT 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRY49xLf/as3.png" group-title="SPORTS",ASTRO SUPERSPORT 3
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT8ppLTv/as4.png" group-title="SPORTS",ASTRO SUPERSPORT 4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5fFP6v2/bs2.png" group-title="SPORTS",Beinsport 2
-http://topwin-tv.my.id/2/master.m3u8?id=bein2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cdnDFtJ/redbull.png" group-title="SPORTS",RedBullTv
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCW9ZDmW/nba.png" group-title="SPORTS", NBA TV
-http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdFwFb49/canal.png" group-title="SPORTS",CANAL+
-http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3Tvyxbv/bts1.png" group-title="SPORTS",BT SPORT 1
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgVfCn3z/bts2.png" group-title="SPORTS",BT SPORT 2
-http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W43Rn7S9/bts3.png" group-title="SPORTS",BT SPORT 3
-http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/BZFrMbcG/fs1.png" group-title="SPORTS",FOX Sports HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKxF5Dpy/Fs1-1.png" group-title="SPORTS",FOX Sports 1
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6x3zPwT/espnsport.png" group-title="SPORTS",ESPN 1 HD
-https://gma2.blab.email/fs2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBgJRHJf/Espn2.png" group-title="SPORTS",ESPN 2 HD
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YMprRWs/racing.png" group-title="SPORTS",Racing.com
-http://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?denmstv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqnqVK6/sptv1.png" group-title="SPORTS",SPORT TV 1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZgyNH9w/sptv2.png" group-title="SPORTS",SPORT TV 2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvXhFY7m/sptv3.png" group-title="SPORTS",SPORT TV 3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvhPg6rJ/sptv4.png" group-title="SPORTS",SPORT TV 4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QwBWXSC/sptv5.png" group-title="SPORTS",SPORT TV 5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="SPORTS", Fight
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59641d9173ac1fec2fc01f17/colorLogoPNG.png" group-title="SPORTS", Big Sky Conference
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59974b6d7ec5063cb56f24c9/colorLogoPNG.png" group-title="SPORTS", Stadium
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="SPORTS", IMPACT Wrestling
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="SPORTS", FOX Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png" group-title="SPORTS", TV Backcountry
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="SPORTS", MLS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="SPORTS", NFL Channel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d486bed428fe37d8cadba45/colorLogoPNG.png" group-title="SPORTS", Pursuit UP
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d486bed428fe37d8cadba45/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="SPORTS", PGA TOUR
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="SPORTS", MLB
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="SPORTS", CBS Sports HQ
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="SPORTS", Bellator MMA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f84ce2ac265700008d48dcf/colorLogoPNG.png" group-title="SPORTS", Pac-12 Insider
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f84ce2ac265700008d48dcf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="SPORTS", TV Boxing
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="SPORTS", Pro Wrestling
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="SPORTS", PokerGo
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fc54366b04b2300072e31af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="SPORTS", beIN SPORTS XTRA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca1e0ee50be2571e393ad33/colorLogoPNG.png" group-title="SPORTS", ESR 24/7
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e0ee50be2571e393ad33/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="SPORTS", TV Fishing
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ad9bb941b95267e225e59c2/colorLogoPNG.png" group-title="SPORTS", TV Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ad9bda9fd87eb3a2717cce0/colorLogoPNG.png" group-title="SPORTS", TV Fight
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ad9be1be738977e2c312134/colorLogoPNG.png" group-title="SPORTS", Glory Kickboxing
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9be1be738977e2c312134/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="SPORTS", Action Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d1ce51dbaca4afdb7abfe5f/colorLogoPNG.png" group-title="SPORTS", TV Surf
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dc2a961bac1f70009ca7524/colorLogoPNG.png" group-title="SPORTS", Unbeaten Esports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e1452156c07b50009d0230e/colorLogoPNG.png" group-title="SPORTS", Strongman
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1452156c07b50009d0230e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png" group-title="SPORTS", TV Fitness
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8b0d10e186bf0007e2b100/colorLogoPNG.png" group-title="SPORTS", TV Yoga
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="SPORTS", Auto Motor Sport
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="SPORTS", World Poker Tour
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
+#EXTM3U
+#EXTINF:-1,PT: RTP 1 HD ◉
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68440
+#EXTINF:-1,PT: RTP 1
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68282
+#EXTINF:-1,PT: RTP 2 HD ◉
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68281
+#EXTINF:-1,PT: RTP 2
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68439
+#EXTINF:-1,PT: RTP 3 ◉
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68435
+#EXTINF:-1,PT: RTP MEMORIA
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68425
+#EXTINF:-1,PT: RTP MADEIRA
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68353
+#EXTINF:-1,PT: RTP ACORES ◉
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68354
+#EXTINF:-1,PT: RTP AFRICA
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68343
+#EXTINF:-1,PT: SIC HD ◉
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68438
+#EXTINF:-1,PT: SIC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68279
+#EXTINF:-1,PT: SIC MULHER HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68432
+#EXTINF:-1,PT: SIC MULHER ◉
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68276
+#EXTINF:-1,PT: SIC RADICAL HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68426
+#EXTINF:-1,PT: TVI MOSAICO
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174204
+#EXTINF:-1,PT: TV RECORD NEWS
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174205
+#EXTINF:-1,PT: TVI REALITY HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174210
+#EXTINF:-1,PT: TV RECORD NEWS HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174215
+#EXTINF:-1,PT: SIC CARAS HD ◉
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68382
+#EXTINF:-1,PT: SIC RADICAL ◉
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68274
+#EXTINF:-1,PT: SIC CARAS
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68278
+#EXTINF:-1,PT: SIC K HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68409
+#EXTINF:-1,PT: SIC K
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68277
+#EXTINF:-1,PT: CANAL Q
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68385
+#EXTINF:-1,PT: PORTO CANAL
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68284
+#EXTINF:-1,PT: TV RECORD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68359
+#EXTINF:-1,PT: TVI HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68267
+#EXTINF:-1,PT: TVI ◉ 
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68437
+#EXTINF:-1,PT: TVE 24H
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68344
+#EXTINF:-1,PT: TVI 24
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68434
+#EXTINF:-1,PT: TVI FICCAO
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68430
+#EXTINF:-1,PT: TVI REALITY
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/111935
+#EXTINF:-1,PT: BTV HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68416
+#EXTINF:-1,PT: TCV CABO
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/73043
+#EXTINF:-1,PT: Fatima TV
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/116284
+#EXTINF:-1,PT: nickelodeon
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/183585
+#EXTINF:-1,PT: BABY TV
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68404
+#EXTINF:-1,PT: CANAL PANDA
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68407
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68410
+#EXTINF:-1,PT: DISNEY-JUHIOR
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68406
+#EXTINF:-1,PT: BOOMERANG HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174208
+#EXTINF:-1,PT: BOOMERANG
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174218
+#EXTINF:-1,PT: JIM JAM
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68405
+#EXTINF:-1,PT: BIGGS
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68408
+#EXTINF:-1,PT: E! ENTERTAINMENT HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68309
+#EXTINF:-1,PT: E! ENTERTAINMENT
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68383
+#EXTINF:-1,PT: GLOBO
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68431
+#EXTINF:-1,PT: AMC HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68332
+#EXTINF:-1,PT: AMC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68396
+#EXTINF:-1,PT: AXN HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68389
+#EXTINF:-1,PT: AXN WHITE HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68387
+#EXTINF:-1,PT: AXN WHITE
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68329
+#EXTINF:-1,PT: AXN BLACK HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68388
+#EXTINF:-1,PT: AXN BLACK
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68330
+#EXTINF:-1,PT: TV CINE 1
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68403
+#EXTINF:-1,PT: TV CINE 2
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68402
+#EXTINF:-1,PT: TV CINE 3
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68401
+#EXTINF:-1,PT: TV CINE 4
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68400
+#EXTINF:-1,PT: FOX HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68394
+#EXTINF:-1,PT: FOX MOVIES HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68298
+#EXTINF:-1,PT: FOX COMEDY HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68301
+#EXTINF:-1,PT: FOX COMEDY
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68391
+#EXTINF:-1,PT: FOX CRIME HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68392
+#EXTINF:-1,PT: FOX CRIME
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68300
+#EXTINF:-1,PT: FOX LIFE HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68393
+#EXTINF:-1,PT: FOX LIFE
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68299
+#EXTINF:-1,PT: FOX MOVIES
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68397
+#EXTINF:-1,PT: FOX NEWS
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68350
+#EXTINF:-1,PT: NOS STUDIOS HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/155392
+#EXTINF:-1,PT: CINEMUNDO HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68315
+#EXTINF:-1,PT: SYFY HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68386
+#EXTINF:-1,PT: SYFY
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68271
+#EXTINF:-1,PT: GLOBO HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68294
+#EXTINF:-1,PT: TV GALICIA
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68346
+#EXTINF:-1,PT: CNN
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68319
+#EXTINF:-1,PT: SKY NEWS
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68351
+#EXTINF:-1,PT: EURONEWS (A)
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68302
+#EXTINF:-1,PT: TV5 MONDE
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68342
+#EXTINF:-1,PT: BBC WORLD NEWS
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68326
+#EXTINF:-1,PT: CBS REALITY
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68379
+#EXTINF:-1,PT: BLOOMBERG
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68322
+#EXTINF:-1,PT: FTV
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68377
+#EXTINF:-1,PT: CNBC EUROPE
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68348
+#EXTINF:-1,PT: MTV HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68289
+#EXTINF:-1,PT: MTV PORTUGAL
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68384
+#EXTINF:-1,PT: TRACE URBAN
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68368
+#EXTINF:-1,PT: TRACE TOCA
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68266
+#EXTINF:-1,PT: VH1
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68369
+#EXTINF:-1,PT: MEZZO
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68365
+#EXTINF:-1,PT: AFRO MUSIC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68366
+#EXTINF:-1,PT: MCM TOP
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68291
+#EXTINF:-1,PT: MCM POP
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68367
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68399
+#EXTINF:-1,PT: HOLLYWOOD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68398
+#EXTINF:-1,PT: CINEMUNDO
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68316
+#EXTINF:-1,PT: TV SERIES
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68390
+#EXTINF:-1,PT: DISCOVERY HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68310
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68311
+#EXTINF:-1,PT: CRIME+ INVESTIGATION
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68378
+#EXTINF:-1,PT: TRAVEL CHANNEL HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68375
+#EXTINF:-1,PT: TRAVEL CHANNEL
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68265
+#EXTINF:-1,PT: ODISSEIA HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68286
+#EXTINF:-1,PT: ODISSEIA
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68373
+#EXTINF:-1,PT: HISTORIA
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68372
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68374
+#EXTINF:-1,PT: 24 KITCHEN
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68333
+#EXTINF:-1,PT: TLC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68380
+#EXTINF:-1,PT: SIC NOTICIAS HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/154932
+#EXTINF:-1,PT: A BOLA TV
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68429
+#EXTINF:-1,PT: KOMBAT SPORT
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68364
+#EXTINF:-1,PT: SPORTING TV HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68414
+#EXTINF:-1,PT: SPORTING TV
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68272
+#EXTINF:-1,PT: FUEL TV HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68297
+#EXTINF:-1,PT: PFC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68361
+#EXTINF:-1,PT: CMTV HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68433
+#EXTINF:-1,PT: CMTV
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68320
+#EXTINF:-1,PT: TOROS TV
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68362
+#EXTINF:-1,PT: SPORT TV 1 UHD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68336
+#EXTINF:-1,PT: SPORT TV+
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68273
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68419
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68418
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68417
+#EXTINF:-1,PT: SPORT TV 1
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68424
+#EXTINF:-1,PT: SPORT TV 2
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68423
+#EXTINF:-1,PT: SPORT TV 3
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68422
+#EXTINF:-1,PT: SPORT TV 4
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68421
+#EXTINF:-1,PT: SPORT TV 5
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68420
+#EXTINF:-1,PT: SPORT TV 6 
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/254527
+#EXTINF:-1,PT: TV GLOBO NOW
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174207
+#EXTINF:-1,PT: TV GLOBO
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174219
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/151547
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68307
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68306
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68305
+#EXTINF:-1,PT: NBA TV
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/68415
+#EXTINF:-1,PT: RTP 1 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107449
+#EXTINF:-1,PT: RTP 2 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107450
+#EXTINF:-1,PT: RTP 3 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107451
+#EXTINF:-1,PT: SIC HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107452
+#EXTINF:-1,PT: SIC MULHER HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107453
+#EXTINF:-1,PT: TV GLOBO HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174206
+#EXTINF:-1,PT: GLOBO INTERNACIONAL HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174216
+#EXTINF:-1,PT: TV GLOBO NOW HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174217
+#EXTINF:-1,PT: TVI MOSAICO HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174209
+#EXTINF:-1,PT: CACA E PESCA HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174213
+#EXTINF:-1,PT: TV RECORD HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174214
+#EXTINF:-1,PT: SAUDE HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174220
+#EXTINF:-1,PT: SIC NOTICIAS HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107454
+#EXTINF:-1,PT: SIC RADICAL HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107455
+#EXTINF:-1,PT: SIC CARAS HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107456
+#EXTINF:-1,PT: TVI FICCAO HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107457
+#EXTINF:-1,PT: TVI HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107458
+#EXTINF:-1,PT: TVI24 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107459
+#EXTINF:-1,PT: PORTO CANAL HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107460
+#EXTINF:-1,PT: GLOBO PORTUGAL HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107461
+#EXTINF:-1,PT: ZAP VIVA HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107462
+#EXTINF:-1,PT: E! ENTERTAINMENT HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107463
+#EXTINF:-1,PT: AMC HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107465
+#EXTINF:-1,PT: AXN HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107466
+#EXTINF:-1,PT: AXN WHITE HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107467
+#EXTINF:-1,PT: AXN MOVIES HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107468
+#EXTINF:-1,PT: TV CINE TOP HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107469
+#EXTINF:-1,PT: TV CINE EDITION HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107470
+#EXTINF:-1,PT: TV CINE EMOTION HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107471
+#EXTINF:-1,PT: TV CINE ACTION HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107472
+#EXTINF:-1,PT: FOX HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107473
+#EXTINF:-1,PT:   FOX MOVIES HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107474
+#EXTINF:-1,PT: FOX CRIME HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107475
+#EXTINF:-1,PT: FOX LIFE HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107476
+#EXTINF:-1,PT: SYFY HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107477
+#EXTINF:-1,PT: BLAZE TV HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107478
+#EXTINF:-1,PT: NOS STUDIO HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107479
+#EXTINF:-1,PT: HOLLYWOOD HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107481
+#EXTINF:-1,PT: CINEMUNDO HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107482
+#EXTINF:-1,PT: CACA E PESCA
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/167197
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107484
+#EXTINF:-1,PT: NAT GEO WILD HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107485
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107486
+#EXTINF:-1,PT: TRAVEL CHANNEL HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107487
+#EXTINF:-1,PT: HISTORIA HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107488
+#EXTINF:-1,PT: DOG TV HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107490
+#EXTINF:-1,PT: ODISSEIA HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107491
+#EXTINF:-1,PT: 24 KITCHEN HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107492
+#EXTINF:-1,PT: CASA E COZINHA HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107493
+#EXTINF:-1,PT: BTV 1 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107495
+#EXTINF:-1,PT: A BOLA TV HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107496
+#EXTINF:-1,PT: SPORTING TV HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107497
+#EXTINF:-1,PT: SPORT TV + HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107499
+#EXTINF:-1,PT: SPORT TV 1 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107500
+#EXTINF:-1,PT: SPORT TV 2 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107501
+#EXTINF:-1,PT: SPORT TV 3 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107502
+#EXTINF:-1,PT: SPORT TV 4 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174211
+#EXTINF:-1,PT: SPORT TV 5 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174212
+#EXTINF:-1,PT: SPORT TV NBA HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107503
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107504
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107505
+#EXTINF:-1,PT: ELEVEN SPORTS  3 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107506
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107507
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107508
+#EXTINF:-1,PT: ELEVEN SPORTS 6 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107509
+#EXTINF:-1,PT: FIGHT NETWORK HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107510
+#EXTINF:-1,PT: CANAL 11 HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107511
+#EXTINF:-1,PT: CMTV HEVC
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/107512
